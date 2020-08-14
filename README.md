@@ -15,15 +15,15 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] 2
   - [ ] 3
 - Phantom Thieves VS Detectives (New lines)
-  [x] Epilogue
+  - [x] Epilogue
 
 #### Medium Priority
 
-[ ] Dead End Land
-[ ] Idol Story: Tomoya Mashiro | Admirable Speciality
-[ ] Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage *(Re-translating)*
+- [ ] Dead End Land
+- [ ] Idol Story: Tomoya Mashiro | Admirable Speciality
+- [ ] Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage *(Re-translating)*
 
 #### Low Priority
 
-[ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Melancholy
-[ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like
+- [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Melancholy
+- [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like
