@@ -9,13 +9,13 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
 #### Top Priority
 
 - [ ] High Five!
-- [ ] Dream-Colored Princes
-- Idol Story: Tomoya Mashiro
+- [ ] Idol Story: Tomoya Mashiro
   - [x] 1
   - [ ] 2
   - [ ] 3
-- Phantom Thieves VS Detectives (New lines)
+- [ ] Phantom Thieves VS Detectives (New lines)
   - [x] Epilogue
+- [ ] Dream-Colored Princes
 
 #### Medium Priority
 
