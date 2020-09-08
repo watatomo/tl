@@ -127,7 +127,6 @@
 <hr>
 <link href="/tl/css/aa.css" rel="stylesheet">
 
-
 <img class="icon" src="/tl/img/icon/aa/trucy.png">
 <span class="name">Trucy</span><div class="trucy arrow"></div>
 <div class="trucy bubble solo">
@@ -155,7 +154,7 @@
 <img class="icon" src="/tl/img/icon/aa/trucy.png">
 <span class="name">Trucy</span><div class="trucy arrow"></div>
 <div class="trucy bubble solo">
-    <p class="l">It must feel nice crunching through all that "red stuff."<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup></p>
+    <p>It must feel nice crunching through all that "red stuff."<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup></p>
     Though, you said it would be even better if it had white frills<sup><a class="fn" href="#tn1" id="2" name="2">[2]</a></sup> on it.
 </div>
 
@@ -168,8 +167,8 @@
 <img class="icon" src="/tl/img/icon/aa/trucy.png">
 <span class="name">Trucy</span><div class="trucy arrow"></div>
 <div class="trucy bubble first">
-    <p class="l">Huh?</p>
-    <p class="l">Didn't you eat apples a lot after trials back then?</p>
+    <p>Huh?</p>
+    <p>Didn't you eat apples a lot after trials back then?</p>
     You bit into them with a glare as if it's your enemy.
 </div>
 <div class="trucy bubble last">
@@ -179,7 +178,7 @@
 <img class="icon" src="/tl/img/icon/aa/phoenix.png">
 <span class="name">Phoenix</span><div class="phoenix arrow"></div>
 <div class="phoenix bubble solo">
-    <p class="l">M-Maya...</p>
+    <p>M-Maya...</p>
     Trucy, you really shouldn't trust her.
 </div>
 
@@ -464,32 +463,32 @@
 <link href="/tl/css/imascg.css" rel="stylesheet"><img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble first">
-    <p class="l"><i>Sigh,</i> I'm depressed. Being an idol isn't fun at all.</p>
-    <p class="l">I knew it would suck, but...</p>
+    <p><i>Sigh,</i> I'm depressed. Being an idol isn't fun at all.</p>
+    <p>I knew it would suck, but...</p>
     This is depressing. This is just fucking depressing!
 </div>
 <div class="riamu bubble">
-    <p class="l">Aaah, I want someone to comfort me!</p>
-    <p class="l">To keep me company, to give me attention, to tell me everything's alright...</p>
+    <p>Aaah, I want someone to comfort me!</p>
+    <p>To keep me company, to give me attention, to tell me everything's alright...</p>
     I want it! I wanna be idolized!
 </div>
 <div class="riamu bubble last">
-    <p class="l">...But no one's ever going to idolize me or whatever.</p>
-    <p class="l">This break room's walls are the only friends I have!</p>
+    <p>...But no one's ever going to idolize me or whatever.</p>
+    <p>This break room's walls are the only friends I have!</p>
     Aaah, I'm sooo lonelyyyy!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">Akira-chan, here!</p>
+    <p>Akira-chan, here!</p>
     This is the break room everyone's talking about!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akira.png">
 <span class="name">Akira</span><div class="akira arrow"></div>
 <div class="akira bubble solo">
-    <p class="l">I see.</p>
+    <p>I see.</p>
     #BreakRoom #AKA<br>
     #GameRoom #FunTimesWithEveryone
 </div>
@@ -497,8 +496,8 @@
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">But I don't think this is a game room...</p>
-    <p class="l">Ah! It's Riamu-san!</p>
+    <p>But I don't think this is a game room...</p>
+    <p>Ah! It's Riamu-san!</p>
     Riamu-saaan, good work out there!
 </div>
 
@@ -511,9 +510,9 @@
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">Eh!?!?!?</p>
-    <p class="l">...Huh? Is this a dream?</p>
-    <p class="l">Is someone calling me?</p>
+    <p>Eh!?!?!?</p>
+    <p>...Huh? Is this a dream?</p>
+    <p>Is someone calling me?</p>
     Is this a dream...?
 </div>
 
@@ -532,19 +531,19 @@
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">Why aren't you guys saying anything?!</p>
-    <p class="l">You're being awfully silent! It's suffocating!</p>
+    <p>Why aren't you guys saying anything?!</p>
+    <p>You're being awfully silent! It's suffocating!</p>
     Can't you be a little bit nicer to me?
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble first">
-    <p class="l">Hmm... Ah!</p>Riamu-san, thank you for performing with us in the last live. ♪
+    <p>Hmm... Ah!</p>Riamu-san, thank you for performing with us in the last live. ♪
 </div>
 <div class="akari bubble">
-    <p class="l">There were so many other idols!</p>
-    <p class="l">The city's amazing as well!</p>
+    <p>There were so many other idols!</p>
+    <p>The city's amazing as well!</p>
     It was quite enjoya-ple!
 </div>
 <div class="akari bubble last">
@@ -557,43 +556,43 @@
     Well, that was the first time I had this feeling....
 </div>
 <div class="akira bubble last">
-    <p class="l">Also, there were a lot of idols wearin' good clothes...</p>
+    <p>Also, there were a lot of idols wearin' good clothes...</p>
     Lots of nice clothes.
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">Ehh, it wasn't good enough for me.</p>
+    <p>Ehh, it wasn't good enough for me.</p>
     I wanna stand out and get a shit ton of attention...!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">Wow... Amazing, Riamu-san...</p>
-    <p class="l">You're really unique, and you have a nice dream too.</p>
+    <p>Wow... Amazing, Riamu-san...</p>
+    <p>You're really unique, and you have a nice dream too.</p>
     I guess that's what being an idol is all about.
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akira.png">
 <span class="name">Akira</span><div class="akira arrow"></div>
 <div class="akira bubble solo">
-    <p class="l">I wouldn't say that her dream's that great...</p>
+    <p>I wouldn't say that her dream's that great...</p>
     She definitely has personality, though.
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">Ugh, I wonder if I can match up to you...</p>
+    <p>Ugh, I wonder if I can match up to you...</p>
     I'm not the type that stands out too much, y'know?
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">Alright then! Let's stir up some drama while we're at it!</p>
+    <p>Alright then! Let's stir up some drama while we're at it!</p>
     As long as we're together, we'll be fine!
 </div>
 
@@ -606,22 +605,22 @@
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">No no! You can't just start drama...!</p>
+    <p>No no! You can't just start drama...!</p>
     All the things you care about will go to waste!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">But there are so many other idols out there!</p>
-    <p class="l">If you don't stand out as much as possible, you won't survive!</p>
+    <p>But there are so many other idols out there!</p>
+    <p>If you don't stand out as much as possible, you won't survive!</p>
     Hey, Riamu-chan wants to survive!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akira.png">
 <span class="name">Akira</span><div class="akira arrow"></div>
 <div class="akira bubble first">
-    <p class="l">Don't.</p>
+    <p>Don't.</p>
     Stirrin' up drama will just cause trouble for the agency.
 </div>
 <div class="akira bubble last">
@@ -631,30 +630,30 @@
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">I wanna stand out! With drama!</p>
-    <p class="l">Isn't starting drama mental?</p>
+    <p>I wanna stand out! With drama!</p>
+    <p>Isn't starting drama mental?</p>
     I wanna stand out as a joke!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akira.png">
 <span class="name">Akira</span><div class="akira arrow"></div>
 <div class="akira bubble solo">
-    <p class="l">Eh...</p>
+    <p>Eh...</p>
     Riamu-san, why are you so problematic...?
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">It's because I want to stand out!</p>
-    <p class="l">Because I want people to care about me!</p>
+    <p>It's because I want to stand out!</p>
+    <p>Because I want people to care about me!</p>
     Because I wanna get some attention, at least!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akira.png">
 <span class="name">Akira</span><div class="akira arrow"></div>
 <div class="akira bubble solo">
-    <p class="l">If it's like that, then there <i>should</i> be another way.</p>
+    <p>If it's like that, then there <i>should</i> be another way.</p>
     With drama, you'd constantly have to worry about dealin' with radical opinions.
 </div>
 
@@ -667,26 +666,26 @@
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">The military!? What the he—</p>
+    <p>The military!? What the he—</p>
     Ah, I mean, why?
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble first">
-    <p class="l">Because people in the military are really smart, obviously!</p>
+    <p>Because people in the military are really smart, obviously!</p>
     Let's come up with some genius ideas that'll turn me into a cool officer character!
 </div>
 <div class="riamu bubble last">
-    <p class="l">I'm 19, y'know!?</p>
-    <p class="l">I want my juniors to rely on me!</p>
+    <p>I'm 19, y'know!?</p>
+    <p>I want my juniors to rely on me!</p>
     I wanna make you two happy!
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble solo">
-    <p class="l">W-What should we do, Akira-chan?</p>
+    <p>W-What should we do, Akira-chan?</p>
     Riamu-san saying all of that isn't any good!
 </div>
 
@@ -696,19 +695,19 @@
     Hey, both of you calm down.
 </div>
 <div class="akira bubble last">
-    <p class="l">First off, it makes no sense to havin' a panic attack here.</p>
+    <p>First off, it makes no sense to havin' a panic attack here.</p>
     Don't people relax here?
 </div>
 
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble first">
-    <p class="l">T-That's right! Ahahahaha!</p>
-    <p class="l">I just started panicking all of a sudden!</p>
+    <p>T-That's right! Ahahahaha!</p>
+    <p>I just started panicking all of a sudden!</p>
     Uh... Hm... Eh...
 </div>
 <div class="akari bubble last">
-    <p class="l">Ah!</p>
+    <p>Ah!</p>
     Why don't we get some ramen?
 </div>
 
@@ -721,11 +720,11 @@
 <img class="icon" src="/tl/img/icon/imascg/akari.png">
 <span class="name">Akari</span><div class="akari arrow"></div>
 <div class="akari bubble first">
-    <p class="l">Let's go eat!</p>
+    <p>Let's go eat!</p>
     Eating tasty food with friends always cheers me up!
 </div>
 <div class="akari bubble">
-    <p class="l">Cheer up, Riamu-san.</p>
+    <p>Cheer up, Riamu-san.</p>
     Your problematic thoughts might go away!
 </div>
 <div class="akari bubble last">
@@ -735,8 +734,8 @@
 <img class="icon" src="/tl/img/icon/imascg/akira.png">
 <span class="name">Akira</span><div class="akira arrow"></div>
 <div class="akira bubble solo">
-    <p class="l">Ah... In that case, I know a good place.</p>
-    <p class="l">It's from my hometown that just opened a Tokyo branch...</p>
+    <p>Ah... In that case, I know a good place.</p>
+    <p>It's from my hometown that just opened a Tokyo branch...</p>
     But I guess that isn't really Tokyo ramen, huh.
 </div>
 
@@ -749,8 +748,8 @@
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">Eh, huh!? What the hell!?</p>
-    <p class="l">I'm gonna eat ramen with someone...!?</p>
+    <p>Eh, huh!? What the hell!?</p>
+    <p>I'm gonna eat ramen with someone...!?</p>
     Is this a dream? A dream to end all dreams!?
 </div>
 
@@ -769,8 +768,8 @@
 <img class="icon" src="/tl/img/icon/imascg/riamu.png">
 <span class="name">Riamu</span><div class="riamu arrow"></div>
 <div class="riamu bubble solo">
-    <p class="l">You're joking... You're seriously not joking...?</p>
-    <p class="l">Idols are so nice...</p>
+    <p>You're joking... You're seriously not joking...?</p>
+    <p>Idols are so nice...</p>
     I wuv nice idols...!
 </div>
 ]]></content>
@@ -783,6 +782,239 @@
       <tags>
         <tag>Narrative</tag>
         <tag>Break Room</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Human Comedy: Tragedy (8)</title>
+    <url>/tl/post/human_comedy/tragedy/8/</url>
+    <content><![CDATA[<p>(Tomoya voice) You&#39;re <em>really</em> attractive. No homo, though.</p>
+<p><strong>Series:</strong> <a href="/tl/categories/Ensemble-Stars">Ensemble Stars!</a><br><strong>Writer:</strong> <a href="/tl/tags/Akira">Akira</a><br><strong>Characters:</strong> <a href="/tl/categories/Ensemble-Stars/Mika-Kagehira">Mika Kagehira</a>, <a href="/tl/categories/Ensemble-Stars/Tomoya-Mashiro">Tomoya Mashiro</a><br><strong>TLCs:</strong> <a href="https://twitter.com/iridesenescence">Iridesenescence</a>, <a href="https://euni2319.wordpress.com/">euni2319</a><br><strong>QC:</strong> <a href="https://twitter.com/silentoath">Jay</a></p>
+<a id="more"></a>
+
+<hr>
+<link href="/tl/css/enst.css" rel="stylesheet">
+
+<div class="note info"><p><strong>Season:</strong> Winter<br><strong>Location:</strong> Shopping Mall - First Floor</p>
+</div>
+
+<img src="/tl/img/enst/human_comedy/tragedy/8/1.jpg" class="">
+
+<div class="note primary"><p>The next day, after school</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika thought bubble first">
+    <p>(Haaah... This ain't any good. 'M not gettin' anywhere...)</p>
+    <p>(I couldn't finish the new outfits in time, so we gotta settle with our usual ones fer tomorrow's live.)</p>
+    (Even though it's gonna be Oshi-san's last performance as part of Valkyrie an' all...)
+</div>
+<div class="mika thought bubble">
+    <p>(But I reckon it's fine, though Oshi-san used to hate havin' to wear the same outfit over 'n over again.)</p>
+    <p>(We've been short on money for a lotta reasons, so this ain't nothin' new.)</p>
+    <p>(Those outfits're the first thing to come to mind when people think of Valkyrie... The fans'll probably be real happy to see 'em.)</p>
+    (They're better than the crappy ones I made, anyways.)
+</div>
+<div class="mika thought bubble last">
+    <p>(Valkyrie'll come to an end without mixin' in nothing unnecessary, maintainin' the essence of Oshi-san's style all the while.)</p>
+    (And that's alright. It's a happy ending... We managed t'make it this far, despite havin' hit rock bottom before.)
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    Huh? Heeey, Kagehira-senpai! Were you just about to leave?
+</div>
+
+<img src="/tl/img/enst/human_comedy/tragedy/8/2.jpg" class="">
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    <p>Ngah? We've been seein' each other a real lot lately, Tomoya-kun. Whatcha doin' here? This place's pretty far from school.</p>
+    <p>The apartment I'll be movin' into in spring's nearby, so I was just checkin' this place out.</p>
+    I've been puttin' it off 'til now, but I figured it's 'bout time to start pickin' out furniture.
+</div>
+
+<img src="/tl/img/enst/human_comedy/tragedy/8/cg.jpg" class="">
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    <p>Ohh, is that so... I'm just a regular shopper~ My family comes to this mall every once in a while.</p>
+    We just finished buying everything we need, so I'm carrying our stuff to the car.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    I see... Ya sure have a lotta bags to carry there.
+</div>
+
+<img src="/tl/img/enst/human_comedy/tragedy/8/3.jpg" class="">
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    Yeah... Ah! Wait, I didn't buy this plush for myself, okay?! My little sister's just a big fan of President Hibiki...!
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Ahaha, nobody's askin' 'bout that. Ain't it fine, though? Just buy whatever ya like.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    <p>Ugh... We tend to get too excited in places like this and end up buying lots of unnecessary things.</p>
+    The word "sale" is my family's biggest weakness!
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Ah, right. Ya did say yer with yer family. Where're they, anyways?
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    Ah, I think they're looking at the store over there. Can you see them?
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Hm...? Sorry, I don't think I do.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    <p>Yep... We're all "normal," so we blend right into the crowd.</p>
+    It's not the best trait to have as an idol... I envy you, Kagehira-senpai. People have been staring and whispering things about you for quite some time.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Eh? Oh, yer right. There're some kids pointin' 'n squealin' over there.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    You <i>just</i> noticed that?
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Yeah, I was real deep in thought. Agh, I don't like bein' stared at...
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    <p>I heard Valkyrie's really popular lately, so you're becoming more famous day by day.</p>
+    <p>If you're not in disguise, you'll cause an uproar in places like this.</p>
+    You already stand out quite a lot as is.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Err, ya think so? My mismatched eyes really <i>are</i> weird, huh?
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    <p>No, that's not it. It's more like, your eyes are very attractive... Even though I'm a guy, I find you really good-looking! I get the chills every time I watch you perform!</p>
+    If I were a girl, I'd fall in love with you the moment you start singing!
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    Whatcha mean by that...? Wait, ya watch our lives? Thank ya <span class="b">kindly~♪</span>
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble solo">
+    <p>Yeah, I've been keeping an eye on you guys for quite a while now. Though, you two only ever pay attention to Nii~chan, I think.</p>
+    <p>But Valkyrie's still our number one enemy—a wall we absolutely have to climb over.</p>
+    There's no way we'd let ourselves be defeated. No, not just that—I want to make sure that Ra*bits is better than Valkyrie before Nii~chan graduates.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    ...Ngah?
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble first">
+    <p>We have to! Otherwise, it'll seem like Nii~chan transferring from Valkyrie to Ra*bits was a mistake, right?</p>
+    He's always been working so desperately. All the hardships he's gone through in the course of this year... I don't want him to think of it as a waste of time.
+</div>
+<div class="tomoya bubble last">
+    <p>Sorry to keep talking on and on by myself. But ultimately, that's why...</p>
+    <p>In the end, we, Ra*bits, are going to beat Valkyrie one-on-one. At least once.</p>
+    <p>The Repayment Festival is our last chance we have left to do this...</p>
+    <p>I don't know if you guys are performing or not, but it would be great if we can have a showdown there.</p>
+    If you are, please don't go easy on us.
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble solo">
+    ...Ya think y'can beat us? Even though yer nothin' but cute lil' bunnies?
+</div>
+
+<img class="icon" src="/tl/img/icon/enst/tomoya.png">
+<span class="name">Tomoya</span><div class="tomoya arrow"></div>
+<div class="tomoya bubble first">
+    But we're the very bunnies <i>Nii~chan</i> trained for a whole year.
+</div>
+<div class="tomoya bubble last">
+    Oh shoot, my family finished shopping before I realized. They're leaving without me, so I have to go now!
+</div>
+
+<img src="/tl/img/enst/human_comedy/tragedy/8/4.jpg" class="">
+
+<img class="icon" src="/tl/img/icon/enst/mika.png">
+<span class="name">Mika</span><div class="mika arrow"></div>
+<div class="mika bubble first">
+    Hey, wait! We ain't performin' <span class="b">in—</span>
+</div>
+<div class="mika thought bubble">
+    <p>(...Aaand there he goes. Reckon I'll bump into others if I chase him in this crowd.)</p>
+    (He sure is quick as a bunny~)
+</div>
+<div class="mika thought bubble">
+    <p>(What was that anyways? Was he tryin' to pick a fight?)</p>
+    ("Ra*bits beating Valkyrie"? Now that's a first. There ain't no way that can happen, yeah? Not when Valkyrie—Oshi-san's the strongest! He's invincible!)
+</div>
+<div class="mika thought bubble last">
+    (That's how things should be, but... Honestly, I got a lil' bit scared there...)
+</div>
+
+<hr>
+<p>Read the rest on the <a href="https://ensemble-stars.fandom.com/wiki/Human_Comedy">EnStars Wiki</a>!</p>
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Tomoya Mashiro</category>
+        <category>Mika Kagehira</category>
+      </categories>
+      <tags>
+        <tag>Event Story</tag>
+        <tag>Narrative</tag>
+        <tag>Akira</tag>
       </tags>
   </entry>
   <entry>
@@ -810,7 +1042,7 @@
     Ladies and gentlemen, please, come take a look! I shall now use my sentient hair to make art with <span class="b">ketchup! ♪</span>
 </div>
 <div class="wataru bubble last">
-    <p class="l"><i>One, two, amazing...☆</i></p>
+    <p><i>One, two, amazing...☆</i></p>
     Heheh, the dead can control their hair at will! My hair shall be used to serve food as <span class="b">well~☆</span>
 </div>
 
@@ -825,19 +1057,19 @@
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya thought bubble first">
-    <p class="l">(Buuut he can't use theatrics to distract them from the slow service <span class="b">forever.)<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup></span></p>
-    <p class="l">(Everyone looks hungry and such... They'd probably prefer character over <span class="b">looks.<sup><a class="fn" href="#tn2" id="2" name="2">[2]</a></sup>)</span></p>
+    <p>(Buuut he can't use theatrics to distract them from the slow service <span class="b">forever.)<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup></span></p>
+    <p>(Everyone looks hungry and such... They'd probably prefer character over <span class="b">looks.<sup><a class="fn" href="#tn2" id="2" name="2">[2]</a></sup>)</span></p>
     (Hmm, it's been a hour since Sengoku and Anzu-san left. I hope they come back soon.)
 </div>
 <div class="tomoya bubble">
-    <p class="l">...Huh, is the manager calling me from the kitchen?</p>
+    <p>...Huh, is the manager calling me from the kitchen?</p>
     A thumbs up? Uhhh, what's that for—you were on the phone... Sengoku and the others are okay and running over here, meaning they'll be back soon?
 </div>
 <div class="tomoya bubble">
     Alright. If so, I'll be relaying this to Hibiki-senpai...
 </div>
 <div class="tomoya thought bubble last">
-    <p class="l">(Hibiki-senpai, I think they're coming back soon!)</p>
+    <p>(Hibiki-senpai, I think they're coming back soon!)</p>
     (Please hold out just a little bit longer!)
 </div>
 
@@ -864,7 +1096,7 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru thought bubble first">
-    <p class="l">(Hehe. I got the message.)</p>
+    <p>(Hehe. I got the message.)</p>
     (Compared to Mrs. Hidaka's auditions, this is a piece of cake.)
 </div>
 <div class="wataru thought bubble last">
@@ -897,239 +1129,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Human Comedy: Tragedy (8)</title>
-    <url>/tl/post/human_comedy/tragedy/8/</url>
-    <content><![CDATA[<p>(Tomoya voice) You&#39;re <em>really</em> attractive. No homo, though.</p>
-<p><strong>Series:</strong> <a href="/tl/categories/Ensemble-Stars">Ensemble Stars!</a><br><strong>Writer:</strong> <a href="/tl/tags/Akira">Akira</a><br><strong>Characters:</strong> <a href="/tl/categories/Ensemble-Stars/Mika-Kagehira">Mika Kagehira</a>, <a href="/tl/categories/Ensemble-Stars/Tomoya-Mashiro">Tomoya Mashiro</a><br><strong>TLCs:</strong> <a href="https://twitter.com/iridesenescence">Iridesenescence</a>, <a href="https://euni2319.wordpress.com/">euni2319</a><br><strong>QC:</strong> <a href="https://twitter.com/silentoath">Jay</a></p>
-<a id="more"></a>
-
-<hr>
-<link href="/tl/css/enst.css" rel="stylesheet">
-
-<div class="note info"><p><strong>Season:</strong> Winter<br><strong>Location:</strong> Shopping Mall - First Floor</p>
-</div>
-
-<img src="/tl/img/enst/human_comedy/tragedy/8/1.jpg" class="">
-
-<div class="note primary"><p>The next day, after school</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika thought bubble first">
-    <p class="l">(Haaah... This ain't any good. 'M not gettin' anywhere...)</p>
-    <p class="l">(I couldn't finish the new outfits in time, so we gotta settle with our usual ones fer tomorrow's live.)</p>
-    (Even though it's gonna be Oshi-san's last performance as part of Valkyrie an' all...)
-</div>
-<div class="mika thought bubble">
-    <p class="l">(But I reckon it's fine, though Oshi-san used to hate havin' to wear the same outfit over 'n over again.)</p>
-    <p class="l">(We've been short on money for a lotta reasons, so this ain't nothin' new.)</p>
-    <p class="l">(Those outfits're the first thing to come to mind when people think of Valkyrie... The fans'll probably be real happy to see 'em.)</p>
-    (They're better than the crappy ones I made, anyways.)
-</div>
-<div class="mika thought bubble last">
-    <p class="l">(Valkyrie'll come to an end without mixin' in nothing unnecessary, maintainin' the essence of Oshi-san's style all the while.)</p>
-    (And that's alright. It's a happy ending... We managed t'make it this far, despite havin' hit rock bottom before.)
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    Huh? Heeey, Kagehira-senpai! Were you just about to leave?
-</div>
-
-<img src="/tl/img/enst/human_comedy/tragedy/8/2.jpg" class="">
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    <p class="l">Ngah? We've been seein' each other a real lot lately, Tomoya-kun. Whatcha doin' here? This place's pretty far from school.</p>
-    <p class="l">The apartment I'll be movin' into in spring's nearby, so I was just checkin' this place out.</p>
-    I've been puttin' it off 'til now, but I figured it's 'bout time to start pickin' out furniture.
-</div>
-
-<img src="/tl/img/enst/human_comedy/tragedy/8/cg.jpg" class="">
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    <p class="l">Ohh, is that so... I'm just a regular shopper~ My family comes to this mall every once in a while.</p>
-    We just finished buying everything we need, so I'm carrying our stuff to the car.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    I see... Ya sure have a lotta bags to carry there.
-</div>
-
-<img src="/tl/img/enst/human_comedy/tragedy/8/3.jpg" class="">
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    Yeah... Ah! Wait, I didn't buy this plush for myself, okay?! My little sister's just a big fan of President Hibiki...!
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Ahaha, nobody's askin' 'bout that. Ain't it fine, though? Just buy whatever ya like.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    <p class="l">Ugh... We tend to get too excited in places like this and end up buying lots of unnecessary things.</p>
-    The word "sale" is my family's biggest weakness!
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Ah, right. Ya did say yer with yer family. Where're they, anyways?
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    Ah, I think they're looking at the store over there. Can you see them?
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Hm...? Sorry, I don't think I do.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    <p class="l">Yep... We're all "normal," so we blend right into the crowd.</p>
-    It's not the best trait to have as an idol... I envy you, Kagehira-senpai. People have been staring and whispering things about you for quite some time.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Eh? Oh, yer right. There're some kids pointin' 'n squealin' over there.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    You <i>just</i> noticed that?
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Yeah, I was real deep in thought. Agh, I don't like bein' stared at...
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    <p class="l">I heard Valkyrie's really popular lately, so you're becoming more famous day by day.</p>
-    <p class="l">If you're not in disguise, you'll cause an uproar in places like this.</p>
-    You already stand out quite a lot as is.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Err, ya think so? My mismatched eyes really <i>are</i> weird, huh?
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    <p class="l">No, that's not it. It's more like, your eyes are very attractive... Even though I'm a guy, I find you really good-looking! I get the chills every time I watch you perform!</p>
-    If I were a girl, I'd fall in love with you the moment you start singing!
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    Whatcha mean by that...? Wait, ya watch our lives? Thank ya <span class="b">kindly~♪</span>
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble solo">
-    <p class="l">Yeah, I've been keeping an eye on you guys for quite a while now. Though, you two only ever pay attention to Nii~chan, I think.</p>
-    <p class="l">But Valkyrie's still our number one enemy—a wall we absolutely have to climb over.</p>
-    There's no way we'd let ourselves be defeated. No, not just that—I want to make sure that Ra*bits is better than Valkyrie before Nii~chan graduates.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    ...Ngah?
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble first">
-    <p class="l">We have to! Otherwise, it'll seem like Nii~chan transferring from Valkyrie to Ra*bits was a mistake, right?</p>
-    He's always been working so desperately. All the hardships he's gone through in the course of this year... I don't want him to think of it as a waste of time.
-</div>
-<div class="tomoya bubble last">
-    <p class="l">Sorry to keep talking on and on by myself. But ultimately, that's why...</p>
-    <p class="l">In the end, we, Ra*bits, are going to beat Valkyrie one-on-one. At least once.</p>
-    <p class="l">The Repayment Festival is our last chance we have left to do this...</p>
-    <p class="l">I don't know if you guys are performing or not, but it would be great if we can have a showdown there.</p>
-    If you are, please don't go easy on us.
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble solo">
-    ...Ya think y'can beat us? Even though yer nothin' but cute lil' bunnies?
-</div>
-
-<img class="icon" src="/tl/img/icon/enst/tomoya.png">
-<span class="name">Tomoya</span><div class="tomoya arrow"></div>
-<div class="tomoya bubble first">
-    But we're the very bunnies <i>Nii~chan</i> trained for a whole year.
-</div>
-<div class="tomoya bubble last">
-    Oh shoot, my family finished shopping before I realized. They're leaving without me, so I have to go now!
-</div>
-
-<img src="/tl/img/enst/human_comedy/tragedy/8/4.jpg" class="">
-
-<img class="icon" src="/tl/img/icon/enst/mika.png">
-<span class="name">Mika</span><div class="mika arrow"></div>
-<div class="mika bubble first">
-    Hey, wait! We ain't performin' <span class="b">in—</span>
-</div>
-<div class="mika thought bubble">
-    <p class="l">(...Aaand there he goes. Reckon I'll bump into others if I chase him in this crowd.)</p>
-    (He sure is quick as a bunny~)
-</div>
-<div class="mika thought bubble">
-    <p class="l">(What was that anyways? Was he tryin' to pick a fight?)</p>
-    ("Ra*bits beating Valkyrie"? Now that's a first. There ain't no way that can happen, yeah? Not when Valkyrie—Oshi-san's the strongest! He's invincible!)
-</div>
-<div class="mika thought bubble last">
-    (That's how things should be, but... Honestly, I got a lil' bit scared there...)
-</div>
-
-<hr>
-<p>Read the rest on the <a href="https://ensemble-stars.fandom.com/wiki/Human_Comedy">EnStars Wiki</a>!</p>
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
-        <category>Mika Kagehira</category>
-      </categories>
-      <tags>
-        <tag>Event Story</tag>
-        <tag>Narrative</tag>
-        <tag>Akira</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Idol Story: Tomoya Mashiro (1)</title>
     <url>/tl/post/idol_story/tomoya/1/</url>
     <content><![CDATA[<p>All the world&#39;s a stage...☆</p>
@@ -1148,8 +1147,8 @@
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble first">
-    <p class="l">"Come now, everyone! Take a look and laugh!"</p>
-    <p class="l">"I am a clown who seeks to spread laughter through silly antics!"</p>
+    <p>"Come now, everyone! Take a look and laugh!"</p>
+    <p>"I am a clown who seeks to spread laughter through silly antics!"</p>
     "Feel free to spit and throw rocks at me to cast away your daily <span class="b">sorrows! ♪</span>"
 </div>
 <div class="tomoya thought bubble">
@@ -1173,12 +1172,12 @@
     Ah, you scared me! D-Do you need something, Producer? Man, with all that clapping out of nowhere, I thought you were a ghost!
 </div>
 <div class="tomoya bubble">
-    <p class="l">You sure have a quiet presence... Oh, hold on. Is my time in the dance studio up?</p>
+    <p>You sure have a quiet presence... Oh, hold on. Is my time in the dance studio up?</p>
     So you're here to tell me to leave?
 </div>
 <div class="tomoya bubble">
-    <p class="l">I'm sorry! I was actually practicing with everyone else in Ra*bits, but Hajime and Mitsuru had to do work of their own. That's why I'm here alone.</p>
-    <p class="l">There was some time left in the booking, so I thought I might as well do some rehearsal by myself!</p>
+    <p>I'm sorry! I was actually practicing with everyone else in Ra*bits, but Hajime and Mitsuru had to do work of their own. That's why I'm here alone.</p>
+    <p>There was some time left in the booking, so I thought I might as well do some rehearsal by myself!</p>
     I couldn't practice my part for Ra*bits since I wanted the others to keep pace.
 </div>
 <div class="tomoya bubble">
@@ -1191,7 +1190,7 @@
     Ahaha. Guess I tripped...♪
 </div>
 <div class="tomoya bubble">
-    <p class="l">You were laughing just now huh, Producer? Oh no, I'm not saying that was rude.</p>
+    <p>You were laughing just now huh, Producer? Oh no, I'm not saying that was rude.</p>
     That laugh! That's the exact reaction I wanted out of my audience! Um, could you tell me what was so funny about what I just did?
 </div>
 <div class="tomoya bubble">
@@ -1201,61 +1200,61 @@
     You see, I'm starting to get some real acting jobs. The role I got cast for this time is a bit challenging...
 </div>
 <div class="tomoya bubble">
-    <p class="l"><i>Sigh,</i> this all started because I've been in the Drama Club for quite a while. During one of the performances I was in, someone took notice and scouted me.</p>
+    <p><i>Sigh,</i> this all started because I've been in the Drama Club for quite a while. During one of the performances I was in, someone took notice and scouted me.</p>
     That gave me an opportunity to be in movies and theatricals, though they were all supporting roles.
 </div>
 <div class="tomoya bubble">
-    <p class="l">It's quite rare for someone to act well despite looking like a child nowadays.</p>
-    <p class="l">I've been taking advantage of this feature of mine here and there.</p>
+    <p>It's quite rare for someone to act well despite looking like a child nowadays.</p>
+    <p>I've been taking advantage of this feature of mine here and there.</p>
     When people think of child actors, they think of me, Tomoya Mashiro! ...That's the kind of reputation I have at this point, more or less.
 </div>
 <div class="tomoya bubble">
-    <p class="l">But I'm already a second year! I'm not sure how to feel about being considered a "child actor"...</p>
-    <p class="l">Well, I'm happy to get the roles either way. I do love acting, after all.</p>
+    <p>But I'm already a second year! I'm not sure how to feel about being considered a "child actor"...</p>
+    <p>Well, I'm happy to get the roles either way. I do love acting, after all.</p>
     Plus, Ra*bits is struggling a bit right now with how we have to do solo gigs on the side to get by.
 </div>
 <div class="tomoya bubble">
-    <p class="l">It's the same for Nii-chan, who's already gone off to college. Each of us has to improve our own skills to gain individual popularity.</p>
-    <p class="l">By doing so, we can draw attention to the unit.</p>
+    <p>It's the same for Nii-chan, who's already gone off to college. Each of us has to improve our own skills to gain individual popularity.</p>
+    <p>By doing so, we can draw attention to the unit.</p>
     That's why I want to make a name for myself as an actor.
 </div>
 <div class="tomoya bubble">
-    <p class="l">However, I want to be noticed as an idol and for Ra*bits.</p>
-    <p class="l">Our agency, Rhythm Link, is well-known and has a long history. It's pretty hard to stand out.</p>
-    <p class="l">These guys tend to prioritize seniority over merit, so the people who've been here for a long time take all the high-profile jobs.</p>
+    <p>However, I want to be noticed as an idol and for Ra*bits.</p>
+    <p>Our agency, Rhythm Link, is well-known and has a long history. It's pretty hard to stand out.</p>
+    <p>These guys tend to prioritize seniority over merit, so the people who've been here for a long time take all the high-profile jobs.</p>
     We rarely get any worthwhile opportunities.
 </div>
 <div class="tomoya bubble">
-    <p class="l">Oh, don't get me wrong. I'm not criticizing the agency.</p>
+    <p>Oh, don't get me wrong. I'm not criticizing the agency.</p>
     That's one reason why we chose to be in Rhythm Link. Their status and long history can be beneficial to us!
 </div>
 <div class="tomoya bubble">
     Anyways... Umm, what was I talking about again? I always lose myself when I get too excited.
 </div>
 <div class="tomoya bubble">
-    <p class="l">Where was I? Well, I was given the chance to perform with a fairly renowned theater company.</p>
+    <p>Where was I? Well, I was given the chance to perform with a fairly renowned theater company.</p>
     I was cast as a little clown or, to be more precise, a mischievous fairy.
 </div>
 <div class="tomoya bubble">
-    <p class="l">Yep, it's similar to Puck from <i>A Midsummer Night's Dream</i>. I play a trickster who skips across the stage and causes trouble.</p>
+    <p>Yep, it's similar to Puck from <i>A Midsummer Night's Dream</i>. I play a trickster who skips across the stage and causes trouble.</p>
     The role reminded me of two guys I look up to, so I was really motivated!
 </div>
 <div class="tomoya bubble">
-    <p class="l">Yet I wasn't able to pull it off... Back at my school's Drama Club, I only played as princes and princesses. I'd over-exaggerate my parts no matter what I do.</p>
-    <p class="l">I don't have to ask anyone to tell nobody's going to find my performance entertaining as is.</p>
+    <p>Yet I wasn't able to pull it off... Back at my school's Drama Club, I only played as princes and princesses. I'd over-exaggerate my parts no matter what I do.</p>
+    <p>I don't have to ask anyone to tell nobody's going to find my performance entertaining as is.</p>
     I was too stiff, let alone playful. So the feeling of a mischievous fairy didn't come across at all.
 </div>
 <div class="tomoya bubble">
-    <p class="l">Huh? I should mimic Ra*bits' behavior instead?</p>
+    <p>Huh? I should mimic Ra*bits' behavior instead?</p>
     Sure, I guess we get treated like fairies sometimes.
 </div>
 <div class="tomoya bubble">
-    <p class="l">But our behavior typically resembles what good kids do. My role requires pulling pranks and having a sharp tongue, so I don't think that fits...</p>
-    <p class="l">If I emphasize Ra*bits too much, I would tarnish our pure and innocent image.</p>
+    <p>But our behavior typically resembles what good kids do. My role requires pulling pranks and having a sharp tongue, so I don't think that fits...</p>
+    <p>If I emphasize Ra*bits too much, I would tarnish our pure and innocent image.</p>
     Maybe people will grow tired of us if we just stick to being good kids.
 </div>
 <div class="tomoya bubble last">
-    <p class="l">However, that's only the brand we made for Ra*bits.</p>
+    <p>However, that's only the brand we made for Ra*bits.</p>
     I want to keep that image. I know I'm trying to eat my cake and have it too...
 </div>
 
@@ -1303,28 +1302,28 @@
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble first">
-    <p class="l">One, two, three, four! Hop, hop, <span class="b">hop. ♪</span></p>
+    <p>One, two, three, four! Hop, hop, <span class="b">hop. ♪</span></p>
     ...Alright, that's perfect. Tomoya Mashiro has made a full <span class="b">recovery. ♪</span>
 </div>
 <div class="tomoya thought bubble">
-    <p class="l">(Ra*bits were lucky enough to be the main act for today's live...)</p>
+    <p>(Ra*bits were lucky enough to be the main act for today's live...)</p>
     (I gave it my all in order to keep up with everyone else, but I couldn't show off my strengths.)
 </div>
 <div class="tomoya thought bubble">
-    <p class="l">(Hajime and Mitsuru are improving at such an incredible rate. They always had more potential than me since the very beginning.)</p>
+    <p>(Hajime and Mitsuru are improving at such an incredible rate. They always had more potential than me since the very beginning.)</p>
     (I was on break for only a few days, but it's like I've already been left behind.)
 </div>
 <div class="tomoya thought bubble">
-    <p class="l">(I also need to work harder.)</p>
-    <p class="l">(The Mystery Stage just reached its turning point. Sena-senpai also said that the "riddles" after today will be even more troublesome.)</p>
+    <p>(I also need to work harder.)</p>
+    <p>(The Mystery Stage just reached its turning point. Sena-senpai also said that the "riddles" after today will be even more troublesome.)</p>
     (I don't know if we can successfully crack them like today.)
 </div>
 <div class="tomoya thought bubble">
-    <p class="l">(I need to be prepared for them by the next time we're the main act so that I can show-off myself. Nothing will be lost that way.)</p>
+    <p>(I need to be prepared for them by the next time we're the main act so that I can show-off myself. Nothing will be lost that way.)</p>
     (I have to fight tooth and nail. But I can't become an idol all by myself.)
 </div>
 <div class="tomoya thought bubble">
-    <p class="l">(In order to take everyone's hands and move forward, I must go the extra mile.)</p>
+    <p>(In order to take everyone's hands and move forward, I must go the extra mile.)</p>
     (I would be a burden to others if I don't. No... It's because I continue standing on the same stage with everyone.)
 </div>
 <div class="tomoya thought bubble last">
@@ -1348,7 +1347,7 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">Ahaha. Tomoya-kun's reactions are amusing as usual. It has a rather shocked value to it, hehehe!</p>
+    <p>Ahaha. Tomoya-kun's reactions are amusing as usual. It has a rather shocked value to it, hehehe!</p>
     How are you? You won't faint, correct?
 </div>
 
@@ -1361,23 +1360,23 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">Tomoya-kun really can't imitate me well...</p>
+    <p>Tomoya-kun really can't imitate me well...</p>
     I am much more refined than <i>that!</i> My grace shines through even when I'm spouting nonsense, right?
 </div>
 
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble solo">
-    <p class="l">Go look at a mirror.</p>
-    <p class="l">Uwah, on closer inspection, you're wearing some weird costume.</p>
+    <p>Go look at a mirror.</p>
+    <p>Uwah, on closer inspection, you're wearing some weird costume.</p>
     You're not even participating in the Mystery Stage, so why are you dressed up as a phantom thief?
 </div>
 
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">No, I was thinking of adding something <i>amazing</i> into the mix if the whole unfolding felt boring.</p>
-    <p class="l">So I made a variety of arrangements, and I'm wearing one right now as a test.</p>
+    <p>No, I was thinking of adding something <i>amazing</i> into the mix if the whole unfolding felt boring.</p>
+    <p>So I made a variety of arrangements, and I'm wearing one right now as a test.</p>
     Though, looking at everything that has happened, it looks like my turn will never come.
 </div>
 
@@ -1390,8 +1389,8 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">No? I already said that I would stay behind the scenes. I'm here to clean up after the Mystery Stage is over because this auditorium will be used for class tomorrow.</p>
-    <p class="l">Cleaning it up everyday...</p>
+    <p>No? I already said that I would stay behind the scenes. I'm here to clean up after the Mystery Stage is over because this auditorium will be used for class tomorrow.</p>
+    <p>Cleaning it up everyday...</p>
     And set everything back up before the show begins. It relies on physical strength more, so I couldn't ask Anzu-san to come and help.
 </div>
 
@@ -1404,8 +1403,8 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">No, no. I already feel like lecturing you for staying back to practice. It wouldn't be my problem if you push yourself too hard that you faint again.</p>
-    <p class="l">Please leave this kind of work to the backstage staff. You should go home immediately and get a good night's sleep to eliminate your fatigue.</p>
+    <p>No, no. I already feel like lecturing you for staying back to practice. It wouldn't be my problem if you push yourself too hard that you faint again.</p>
+    <p>Please leave this kind of work to the backstage staff. You should go home immediately and get a good night's sleep to eliminate your fatigue.</p>
     Living life in the fast lane won't do any good. I know you can't curb your enthusiasm, but being idle is part of our jobs as idols.
 </div>
 
@@ -1418,28 +1417,28 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">How painful. I always gave you advice in hopes of happy growth and even taught you with such care!</p>
+    <p>How painful. I always gave you advice in hopes of happy growth and even taught you with such care!</p>
     Aaah! This unrequited love is a tragedy that would render even Shakespeare speechless with shock!
 </div>
 
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble solo">
-    <p class="l">Uhm... You're always helping me improve, even if you <i>are</i> an absolute nutjob.</p>
+    <p>Uhm... You're always helping me improve, even if you <i>are</i> an absolute nutjob.</p>
     But to be honest, I can't really keep up with your footsteps...
 </div>
 
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">Indeed. What is truly a pity is that you're not Wataru Hibiki. I have forgotten about that and regret it greatly.</p>
+    <p>Indeed. What is truly a pity is that you're not Wataru Hibiki. I have forgotten about that and regret it greatly.</p>
     However, I shall forget about that in the blink of an eye <span class="b">tomorrow. ☆</span>
 </div>
 
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble solo">
-    <p class="l">Please keep it in mind a bit longer. Seriously, you're always saying such careless things...</p>
+    <p>Please keep it in mind a bit longer. Seriously, you're always saying such careless things...</p>
     I still want to practice some more. I don't want to get in your way, so is it fine if I dance here?
 </div>
 
@@ -1458,12 +1457,12 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble first">
-    <p class="l">What a spoiled child you are.</p>
+    <p>What a spoiled child you are.</p>
     Well, don't fret about it. I might have ran into you by chance...
 </div>
 <div class="wataru bubble last">
-    <p class="l">But I won't get any closer, since I wouldn't want to hurt you again.</p>
-    <p class="l">I shall leave right after I've finished cleaning up, so please pretend I'm not here.</p>
+    <p>But I won't get any closer, since I wouldn't want to hurt you again.</p>
+    <p>I shall leave right after I've finished cleaning up, so please pretend I'm not here.</p>
     I am quite inconsiderate and can only protect you by staying away.
 </div>
 
@@ -1472,7 +1471,7 @@
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble solo">
-    <p class="l">Is that so? Then why did you watch today's show despite saying you'd "stay away" from me?</p>
+    <p>Is that so? Then why did you watch today's show despite saying you'd "stay away" from me?</p>
     You were sitting in Row D, Seat 23, right?
 </div>
 
@@ -1485,8 +1484,8 @@
 <img class="icon" src="/tl/img/icon/enst/tomoya.png">
 <span class="name">Tomoya</span><div class="tomoya arrow"></div>
 <div class="tomoya bubble first">
-    <p class="l">Too perfect that it's unnatural.</p>
-    <p class="l">The one most unlike you in today's audience was the guy sitting in Row D, Seat 23.</p>
+    <p>Too perfect that it's unnatural.</p>
+    <p>The one most unlike you in today's audience was the guy sitting in Row D, Seat 23.</p>
     He was at our S3 too...
 </div>
 <div class="tomoya bubble last">
@@ -1496,7 +1495,7 @@
 <img class="icon" src="/tl/img/icon/enst/wataru.png">
 <span class="name">Wataru</span><div class="wataru arrow"></div>
 <div class="wataru bubble solo">
-    <p class="l">Oh, oh... How embarrassing. This is Wataru Hibiki's greatest mistake.</p>
+    <p>Oh, oh... How embarrassing. This is Wataru Hibiki's greatest mistake.</p>
     Thinking that someone as clueless Tomoya-kun would <i>never</i> see through my disguise, I slacked off, only to fail in the end.
 </div>
 
