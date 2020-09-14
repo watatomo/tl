@@ -15,11 +15,11 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] 3
 - [ ] Phantom Thieves VS Detectives (New lines)
   - [x] Epilogue
-- [ ] Dream-Colored Princes
+- [ ] Dead End Land
 
 #### Medium Priority
 
-- [ ] Dead End Land
+- [ ] Dream-Colored Princes
 - [ ] Idol Story: Tomoya Mashiro | Admirable Speciality
 - [ ] Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage *(Re-translating)*
 
