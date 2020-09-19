@@ -177,107 +177,6 @@
       </tags>
   </entry>
   <entry>
-    <title>Phoenix&#39;s Favorite Food</title>
-    <url>/tl/post/nrhd_apples/</url>
-    <content><![CDATA[<p>An apple a day keeps anyone away, if you throw it hard enough.</p>
-<p><strong>Series:</strong> <a href="/tl/categories/Ace-Attorney">Ace Attorney</a><br><strong>Source:</strong> Nintendo DREAM July 2016 Issue<br><strong>Characters:</strong> <a href="/tl/categories/Ace-Attorney/Phoenix-Wright">Phoenix Wright</a>, <a href="/tl/categories/Ace-Attorney/Trucy-Wright">Trucy Wright</a><br><strong>Special Thanks:</strong> <a href="https://twitter.com/zgriptsor">Lloyd</a></p>
-<a id="more"></a>
-
-<hr>
-<link href="/tl/css/aa.css" rel="stylesheet">
-
-<div class="trucy">
-    <div class="icon"></div>
-    <span class="name">Trucy</span><div class="arrow"></div>
-    <div class="bubble solo">
-        The question is, "What is your favorite food or drink and why?"
-    </div>
-</div>
-
-<div class="phoenix">
-    <div class="icon"></div>
-    <span class="name">Phoenix</span><div class="arrow"></div>
-    <div class="bubble solo">
-        My favorite food, huh...
-    </div>
-</div>
-
-<div class="trucy">
-    <div class="icon"></div>
-    <span class="name">Trucy</span><div class="arrow"></div>
-    <div class="bubble solo">
-        It's apples, right, Daddy?
-    </div>
-</div>
-
-<div class="phoenix">
-    <div class="icon"></div>
-    <span class="name">Phoenix</span><div class="arrow"></div>
-    <div class="bubble solo">
-        Well, I don't hate them.
-    </div>
-</div>
-
-<div class="trucy">
-    <div class="icon"></div>
-    <span class="name">Trucy</span><div class="arrow"></div>
-    <div class="bubble solo">
-        It must feel nice crunching through all that "red stuff."<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup><p>
-        Though, you said it would be even better if it had white frills<sup><a class="fn" href="#tn1" id="2" name="2">[2]</a></sup> on it.
-    </div>
-</div>
-
-<div class="phoenix">
-    <div class="icon"></div>
-    <span class="name">Phoenix</span><div class="arrow"></div>
-    <div class="bubble solo">
-        Wait, I don't remember saying that.
-    </div>
-</div>
-
-<div class="trucy">
-    <div class="icon"></div>
-    <span class="name">Trucy</span><div class="arrow"></div>
-    <div class="bubble first">
-        Huh?<p>
-        Didn't you eat apples a lot after trials back then?<p>
-        You bit into them with a glare as if it's your enemy.
-    </div>
-    <div class="bubble last">
-        ...Or at least, that's what I heard from Miss Fey.
-    </div>
-</div>
-
-<div class="phoenix">
-    <div class="icon"></div>
-    <span class="name">Phoenix</span><div class="arrow"></div>
-    <div class="bubble solo">
-        M-Maya...<p>
-        Trucy, you really shouldn't trust her.
-    </div>
-</div>
-
-<hr>
-<h2 id="Translator-39-s-Notes"><a href="#Translator-39-s-Notes" class="headerlink" title="Translator&#39;s Notes"></a>Translator&#39;s Notes</h2><ol>
-    <li>
-        <a class="arrow-link" href="#1" id="tn1" name="tn1">↑</a> 赤いヤツ can also be translated as "red guy."
-    </li>
-    <li>
-        <a class="arrow-link" href="#2" id="tn2" name="tn2">↑</a> 白いヒラヒラ = white frills. Often used to describe Edgeworth's <s>jabot</s> cravat.
-    </li>
-</ol>
-]]></content>
-      <categories>
-        <category>Ace Attorney</category>
-        <category>Phoenix Wright</category>
-        <category>Trucy Wright</category>
-      </categories>
-      <tags>
-        <tag>Magazine Article</tag>
-        <tag>Narrative</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>パレードは終わりさ (The Parade&#39;s Over)</title>
     <url>/tl/post/parade_wa_owari_sa/</url>
     <content><![CDATA[<div class="yt-vid">
@@ -322,70 +221,104 @@
       </tags>
   </entry>
   <entry>
-    <title>!! Profile/Lines: Hokuto Hidaka</title>
-    <url>/tl/post/!!-lines/hokuto/</url>
-    <content><![CDATA[<p>Hokuto&#39;s !! era profile and lines. Includes lines from the home screen, office, and work. (Under construction)</p>
-<p><strong>Series:</strong> <a href="/tl/categories/Ensemble-Stars">Ensemble Stars!!</a><br><strong>Character:</strong> <a href="/tl/categories/Ensemble-Stars/Hokuto-Hidaka">Hokuto Hidaka</a> (VA: Tomoaki Maeno)</p>
+    <title>Phoenix&#39;s Favorite Food</title>
+    <url>/tl/post/nrhd_apples/</url>
+    <content><![CDATA[<p>An apple a day keeps anyone away, if you throw it hard enough.</p>
+<p><strong>Series:</strong> <a href="/tl/categories/Ace-Attorney">Ace Attorney</a><br><strong>Source:</strong> Nintendo DREAM July 2016 Issue<br><strong>Characters:</strong> <a href="/tl/categories/Ace-Attorney/Phoenix-Wright">Phoenix Wright</a>, <a href="/tl/categories/Ace-Attorney/Trucy-Wright">Trucy Wright</a><br><strong>Special Thanks:</strong> <a href="https://twitter.com/zgriptsor">Lloyd</a></p>
 <a id="more"></a>
-<link href="/tl/css/enst.css" rel="stylesheet">
 
-<h2 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h2><blockquote class="blockquote-center">
-<p><em>If you give it your all, I believe you can do anything.</em> </p>
+<hr>
+<link href="/tl/css/aa.css" rel="stylesheet">
 
-</blockquote>
+<div class="trucy">
+    <div class="icon"></div>
+    <span class="name">Trucy</span><div class="arrow"></div>
+    <div class="bubble">
+        The question is, "What is your favorite food or drink and why?"
+    </div>
+</div>
 
-<picture>
-  <source srcset="/tl/img/enst/!!-lines/hidaka_hokuto.webp" style="float:right;clear:right;padding:0 0 0 .5em;max-width:20%;height:auto;margin-bottom:0" type="image/webp">
-  <source srcset="/tl/img/enst/!!-lines/hidaka_hokuto.png" style="float:right;clear:right;padding:0 0 0 .5em;max-width:20%;height:auto;margin-bottom:0" type="image/png">
-  <img src="/tl/img/enst/!!-lines/hidaka_hokuto.png" style="float:right;clear:right;padding:0 0 0 .5em;max-width:20%;height:auto;margin-bottom:0">
-</picture>
+<div class="phoenix">
+    <div class="icon"></div>
+    <span class="name">Phoenix</span><div class="arrow"></div>
+    <div class="bubble">
+        My favorite food, huh...
+    </div>
+</div>
 
-<p><strong>The Prince with a Zealous Glance</strong><br>The child of an active idol and a famous actress. Hokuto is brave and collected, but is also an airhead due to his upbringing. With a resounding, powerful voice, he delivers energetic performances. The leader of STARMAKER PRODUCTION&#39;s Trickstar.</p>
-<ul>
-<li><strong>Class:</strong> Yumenosaki Academy, 3-A</li>
-<li><strong>Circles:</strong> Dramatica, CRAFTMONSTER</li>
-<li><strong>Height:</strong> 173 cm</li>
-<li><strong>Weight:</strong> 55 kg</li>
-<li><strong>Blood Type:</strong> A</li>
-<li><strong>Age:</strong> 17 (on July 1)–18</li>
-<li><strong>Birthday:</strong> December 17 (Sagittarius)</li>
-<li><strong>Hobby:</strong> Crossword puzzles</li>
-<li><strong>Specialty:</strong> Singing</li>
-<li><strong>Image Color:</strong> <span style="color:#0068B7">★</span> (#0068B7)</li>
-</ul>
-<h2 id="Home-Screen-Interactions"><a href="#Home-Screen-Interactions" class="headerlink" title="Home Screen Interactions"></a>Home Screen Interactions</h2><div class="tabs" id="interaction"><ul class="nav-tabs"><li class="tab active"><a href="#interaction-1">?</a></li></ul><div class="tab-content"><div class="tab-pane active" id="interaction-1"><div class="hokuto">
-  <div class="icon"></div>
-  <span class="name">Hokuto</span><div class="arrow"></div>
-  <div class="bubble solo">
-     (Soon)
-  </div>
-</div></div></div></div>
+<div class="trucy">
+    <div class="icon"></div>
+    <span class="name">Trucy</span><div class="arrow"></div>
+    <div class="bubble">
+        It's apples, right, Daddy?
+    </div>
+</div>
 
-<h2 id="Office"><a href="#Office" class="headerlink" title="Office"></a>Office</h2><p><strong>SMILE Anniversary Glass Tower:</strong> Let&#39;s continue to paint a fun future.</p>
-<p><strong>Bookshelf:</strong> You should put things you&#39;re studying into practice.</p>
-<p><strong>TV:</strong> I&#39;m watching recordings of myself so I&#39;ll know what to improve next time.</p>
-<p><strong>Hydrangeas:</strong> Where did you wander off from?</p>
-<p><strong>Tanabata tree:</strong> I want to aim for the top with my comrades again.</p>
-<p><strong>No association</strong></p>
-<ul>
-<li>I will aim higher than the stars today and the day after.</li>
-</ul>
-<h3 id="Communications"><a href="#Communications" class="headerlink" title="Communications"></a>Communications</h3><div class="tabs" id="communication"><ul class="nav-tabs"><li class="tab active"><a href="#communication-1">?</a></li></ul><div class="tab-content"><div class="tab-pane active" id="communication-1"><div class="hokuto">
-  <div class="icon"></div>
-  <span class="name">Hokuto</span><div class="arrow"></div>
-  <div class="bubble solo">
-     (Soon)
-  </div>
-</div></div></div></div>
+<div class="phoenix">
+    <div class="icon"></div>
+    <span class="name">Phoenix</span><div class="arrow"></div>
+    <div class="bubble">
+        Well, I don't hate them.
+    </div>
+</div>
 
-<h2 id="Work"><a href="#Work" class="headerlink" title="Work"></a>Work</h2><p>Soon</p>
+<div class="trucy">
+    <div class="icon"></div>
+    <span class="name">Trucy</span><div class="arrow"></div>
+    <div class="bubble">
+        It must feel nice crunching through all that "red stuff."<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup><p>
+        Though, you said it would be even better if it had white frills<sup><a class="fn" href="#tn1" id="2" name="2">[2]</a></sup> on it.
+    </div>
+</div>
+
+<div class="phoenix">
+    <div class="icon"></div>
+    <span class="name">Phoenix</span><div class="arrow"></div>
+    <div class="bubble">
+        Wait, I don't remember saying that.
+    </div>
+</div>
+
+<div class="trucy">
+    <div class="icon"></div>
+    <span class="name">Trucy</span><div class="arrow"></div>
+    <div class="bubble">
+        Huh?<p>
+        Didn't you eat apples a lot after trials back then?<p>
+        You bit into them with a glare as if it's your enemy.
+    </div>
+    <div class="bubble">
+        ...Or at least, that's what I heard from Miss Fey.
+    </div>
+</div>
+
+<div class="phoenix">
+    <div class="icon"></div>
+    <span class="name">Phoenix</span><div class="arrow"></div>
+    <div class="bubble">
+        M-Maya...<p>
+        Trucy, you really shouldn't trust her.
+    </div>
+</div>
+
+<hr>
+<h2 id="Translator-39-s-Notes"><a href="#Translator-39-s-Notes" class="headerlink" title="Translator&#39;s Notes"></a>Translator&#39;s Notes</h2><ol>
+    <li>
+        <a class="arrow-link" href="#1" id="tn1" name="tn1">↑</a> 赤いヤツ can also be translated as "red guy."
+    </li>
+    <li>
+        <a class="arrow-link" href="#2" id="tn2" name="tn2">↑</a> 白いヒラヒラ = white frills. Often used to describe Edgeworth's <s>jabot</s> cravat.
+    </li>
+</ol>
 ]]></content>
       <categories>
-        <category>Ensemble Stars</category>
-        <category>Hokuto Hidaka</category>
+        <category>Ace Attorney</category>
+        <category>Phoenix Wright</category>
+        <category>Trucy Wright</category>
       </categories>
       <tags>
-        <tag>Lines</tag>
+        <tag>Magazine Article</tag>
+        <tag>Narrative</tag>
       </tags>
   </entry>
   <entry>
@@ -423,7 +356,7 @@
 <h2 id="Home-Screen-Interactions"><a href="#Home-Screen-Interactions" class="headerlink" title="Home Screen Interactions"></a>Home Screen Interactions</h2><div class="tabs" id="interaction"><ul class="nav-tabs"><li class="tab"><a href="#interaction-1">Hajime</a></li><li class="tab active"><a href="#interaction-2">Mitsuru</a></li><li class="tab"><a href="#interaction-3">Nazuna</a></li></ul><div class="tab-content"><div class="tab-pane" id="interaction-1"><div class="tomoya">
   <div class="icon"></div>
   <span class="name">Tomoya</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Soon)
   </div>
 </div>
@@ -431,13 +364,13 @@
 <div class="hajime">
   <div class="icon"></div>
   <span class="name">Hajime</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Soon)
   </div>
 </div></div><div class="tab-pane active" id="interaction-2"><div class="tomoya">
   <div class="icon"></div>
   <span class="name">Tomoya</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      It seems like the school's a bit more calmer ever since we became second years...
   </div>
 </div>
@@ -445,13 +378,13 @@
 <div class="mitsuru">
   <div class="icon"></div>
   <span class="name">Mitsuru</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      Really? Maybe it's 'cause you have more stuff to do at work, you've been spendin' less time at school.
   </div>
 </div></div><div class="tab-pane" id="interaction-3"><div class="tomoya">
   <div class="icon"></div>
   <span class="name">Tomoya</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      Nii~chan, there's a lot more things we can do now that we're under an agency! I'd love to take up a job that's out of the ordinary!
   </div>
 </div>
@@ -459,7 +392,7 @@
 <div class="nazuna">
   <div class="icon"></div>
   <span class="name">Nazuna</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      "A job that's out of the ordinary"... Why don't you star in a variety show with someone as unique as Wataru-chin?
   </div>
 </div></div></div></div>
@@ -477,7 +410,7 @@
 <h3 id="Communications"><a href="#Communications" class="headerlink" title="Communications"></a>Communications</h3><div class="tabs" id="communication"><ul class="nav-tabs"><li class="tab active"><a href="#communication-1">Hajime</a></li><li class="tab"><a href="#communication-2">Mitsuru</a></li><li class="tab"><a href="#communication-3">Nazuna</a></li></ul><div class="tab-content"><div class="tab-pane active" id="communication-1"><div class="hajime">
   <div class="icon"></div>
   <span class="name">Hajime</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      I happened to see Hibiki-senpai pass by♪
   </div>
 </div>
@@ -485,13 +418,13 @@
 <div class="tomoya">
   <div class="icon"></div>
   <span class="name">Tomoya</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      ...Hm. I guess I should go say hi to him.
   </div>
 </div></div><div class="tab-pane" id="communication-2"><div class="tomoya">
   <div class="icon"></div>
   <span class="name">Tomoya</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Soon)
   </div>
 </div>
@@ -499,13 +432,13 @@
 <div class="mitsuru">
   <div class="icon"></div>
   <span class="name">Mitsuru</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Soon)
   </div>
 </div></div><div class="tab-pane" id="communication-3"><div class="tomoya">
   <div class="icon"></div>
   <span class="name">Tomoya</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Soon)
   </div>
 </div>
@@ -513,7 +446,7 @@
 <div class="nazuna">
   <div class="icon"></div>
   <span class="name">Nazuna</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Soon)
   </div>
 </div></div></div></div>
@@ -523,6 +456,73 @@
       <categories>
         <category>Ensemble Stars</category>
         <category>Tomoya Mashiro</category>
+      </categories>
+      <tags>
+        <tag>Lines</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>!! Profile/Lines: Hokuto Hidaka</title>
+    <url>/tl/post/!!-lines/hokuto/</url>
+    <content><![CDATA[<p>Hokuto&#39;s !! era profile and lines. Includes lines from the home screen, office, and work. (Under construction)</p>
+<p><strong>Series:</strong> <a href="/tl/categories/Ensemble-Stars">Ensemble Stars!!</a><br><strong>Character:</strong> <a href="/tl/categories/Ensemble-Stars/Hokuto-Hidaka">Hokuto Hidaka</a> (VA: Tomoaki Maeno)</p>
+<a id="more"></a>
+<link href="/tl/css/enst.css" rel="stylesheet">
+
+<h2 id="Profile"><a href="#Profile" class="headerlink" title="Profile"></a>Profile</h2><blockquote class="blockquote-center">
+<p><em>If you give it your all, I believe you can do anything.</em> </p>
+
+</blockquote>
+
+<picture>
+  <source srcset="/tl/img/enst/!!-lines/hidaka_hokuto.webp" style="float:right;clear:right;padding:0 0 0 .5em;max-width:20%;height:auto;margin-bottom:0" type="image/webp">
+  <source srcset="/tl/img/enst/!!-lines/hidaka_hokuto.png" style="float:right;clear:right;padding:0 0 0 .5em;max-width:20%;height:auto;margin-bottom:0" type="image/png">
+  <img src="/tl/img/enst/!!-lines/hidaka_hokuto.png" style="float:right;clear:right;padding:0 0 0 .5em;max-width:20%;height:auto;margin-bottom:0">
+</picture>
+
+<p><strong>The Prince with a Zealous Glance</strong><br>The child of an active idol and a famous actress. Hokuto is brave and collected, but is also an airhead due to his upbringing. With a resounding, powerful voice, he delivers energetic performances. The leader of STARMAKER PRODUCTION&#39;s Trickstar.</p>
+<ul>
+<li><strong>Class:</strong> Yumenosaki Academy, 3-A</li>
+<li><strong>Circles:</strong> Dramatica, CRAFTMONSTER</li>
+<li><strong>Height:</strong> 173 cm</li>
+<li><strong>Weight:</strong> 55 kg</li>
+<li><strong>Blood Type:</strong> A</li>
+<li><strong>Age:</strong> 17 (on July 1)–18</li>
+<li><strong>Birthday:</strong> December 17 (Sagittarius)</li>
+<li><strong>Hobby:</strong> Crossword puzzles</li>
+<li><strong>Specialty:</strong> Singing</li>
+<li><strong>Image Color:</strong> <span style="color:#0068B7">★</span> (#0068B7)</li>
+</ul>
+<h2 id="Home-Screen-Interactions"><a href="#Home-Screen-Interactions" class="headerlink" title="Home Screen Interactions"></a>Home Screen Interactions</h2><div class="tabs" id="interaction"><ul class="nav-tabs"><li class="tab active"><a href="#interaction-1">?</a></li></ul><div class="tab-content"><div class="tab-pane active" id="interaction-1"><div class="hokuto">
+  <div class="icon"></div>
+  <span class="name">Hokuto</span><div class="arrow"></div>
+  <div class="bubble">
+     (Soon)
+  </div>
+</div></div></div></div>
+
+<h2 id="Office"><a href="#Office" class="headerlink" title="Office"></a>Office</h2><p><strong>SMILE Anniversary Glass Tower:</strong> Let&#39;s continue to paint a fun future.</p>
+<p><strong>Bookshelf:</strong> You should put things you&#39;re studying into practice.</p>
+<p><strong>TV:</strong> I&#39;m watching recordings of myself so I&#39;ll know what to improve next time.</p>
+<p><strong>Hydrangeas:</strong> Where did you wander off from?</p>
+<p><strong>Tanabata tree:</strong> I want to aim for the top with my comrades again.</p>
+<p><strong>No association</strong></p>
+<ul>
+<li>I will aim higher than the stars today and the day after.</li>
+</ul>
+<h3 id="Communications"><a href="#Communications" class="headerlink" title="Communications"></a>Communications</h3><div class="tabs" id="communication"><ul class="nav-tabs"><li class="tab active"><a href="#communication-1">?</a></li></ul><div class="tab-content"><div class="tab-pane active" id="communication-1"><div class="hokuto">
+  <div class="icon"></div>
+  <span class="name">Hokuto</span><div class="arrow"></div>
+  <div class="bubble">
+     (Soon)
+  </div>
+</div></div></div></div>
+
+<h2 id="Work"><a href="#Work" class="headerlink" title="Work"></a>Work</h2><p>Soon</p>
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Hokuto Hidaka</category>
       </categories>
       <tags>
         <tag>Lines</tag>
@@ -563,7 +563,7 @@
 <h2 id="Home-Screen-Interactions"><a href="#Home-Screen-Interactions" class="headerlink" title="Home Screen Interactions"></a>Home Screen Interactions</h2><div class="tabs" id="interaction"><ul class="nav-tabs"><li class="tab active"><a href="#interaction-1">?</a></li></ul><div class="tab-content"><div class="tab-pane active" id="interaction-1"><div class="wataru">
   <div class="icon"></div>
   <span class="name">Wataru</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Read Ash's translations <a href="https://twitter.com/haranami_/status/1299275192296812545">here</a>!)
   </div>
 </div></div></div></div>
@@ -580,7 +580,7 @@
 <h3 id="Communications"><a href="#Communications" class="headerlink" title="Communications"></a>Communications</h3><div class="tabs" id="communication"><ul class="nav-tabs"><li class="tab active"><a href="#communication-1">?</a></li></ul><div class="tab-content"><div class="tab-pane active" id="communication-1"><div class="wataru">
   <div class="icon"></div>
   <span class="name">Wataru</span><div class="arrow"></div>
-  <div class="bubble solo">
+  <div class="bubble">
      (Read Ash's translations <a href="https://twitter.com/haranami_/status/1301234887526023168">here</a>!)
   </div>
 </div></div></div></div>
@@ -609,7 +609,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         <i>Sigh,</i> I'm depressed. Being an idol isn't fun at all.<p>
         I knew it would suck, but...<p>
         This is depressing. This is just fucking depressing!
@@ -619,7 +619,7 @@
         To keep me company, to give me attention, to tell me everything's alright...<p>
         I want it! I wanna be idolized!
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         ...But no one's ever going to idolize me or whatever.<p>
         This break room's walls are the only friends I have!<p>
         Aaah, I'm sooo lonelyyyy!
@@ -629,7 +629,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Akira-chan, here!<p>
         This is the break room everyone's talking about!
     </div>
@@ -638,7 +638,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I see.<p>
         #BreakRoom #AKA<br>
         #GameRoom #FunTimesWithEveryone
@@ -648,7 +648,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         But I don't think this is a game room...<p>
         Ah! It's Riamu-san!<p>
         Riamu-saaan, good work out there!
@@ -658,7 +658,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Good work.
     </div>
 </div>
@@ -666,7 +666,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Eh!?!?<p>
         ...Huh? Is this a dream?<p>
         Is someone calling me?<p>
@@ -677,7 +677,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         ......?
     </div>
 </div>
@@ -685,7 +685,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
     ......
     </div>
 </div>
@@ -693,7 +693,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Why aren't you guys saying anything?!<p>
         You're being awfully silent! It's suffocating!<p>
         Can't you be a little bit nicer to me?
@@ -703,7 +703,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Hmm... Ah!<p>
         Riamu-san, thank you for performing with us in the last <span class="b">live♪</span>
     </div>
@@ -712,7 +712,7 @@
         The city's amazing as well!<p>
         It was quite enjoya-ple!
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         What about you, Akira-chan?
     </div>
 </div>
@@ -720,10 +720,10 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Well, that was the first time I had this feeling....
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Also, there were a lot of idols wearin' good clothes...<p>
         Lots of nice clothes.
     </div>
@@ -732,7 +732,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ehh, it wasn't good enough for me.<p>
         I wanna stand out and get a shit ton of attention...!
     </div>
@@ -741,7 +741,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Wow... Amazing, Riamu-san...<p>
         You're really unique, and you have a nice dream too.<p>
         I guess that's what being an idol is all about.
@@ -751,7 +751,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I wouldn't say that her dream's that great...<p>
         She definitely has personality, though.
     </div>
@@ -760,7 +760,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ugh, I wonder if I can match up to you...<p>
         I'm not the type that stands out too much, y'know?
     </div>
@@ -769,7 +769,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Alright then! Let's stir up some drama while we're at it!<p>
         As long as we're together, we'll be fine!
     </div>
@@ -778,7 +778,7 @@
 <div class="akari-akira">
     <div class="icon"></div>
     <span class="name">Akari & Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         ...Huh?
     </div>
 </div>
@@ -786,7 +786,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         No no! You can't just start drama...!<p>
         All the things you care about will go to waste!
     </div>
@@ -795,7 +795,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         But there are so many other idols out there!<p>
         If you don't stand out as much as possible, you won't survive!<p>
         Hey, Riamu-chan wants to survive!
@@ -805,11 +805,11 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Don't.<p>
         Stirrin' up drama will just cause trouble for the agency.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Aren't there other ways you can think of to survive?
     </div>
 </div>
@@ -817,7 +817,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I wanna stand out! With drama!<p>
         Isn't starting drama mental?<p>
         I wanna stand out as a joke!
@@ -827,7 +827,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
     Eh...<p>
     Riamu-san, why are you so problematic...?
     </div>
@@ -836,7 +836,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         It's because I wanna stand out!<p>
         Because I want people to care about me!<p>
         Because I wanna get some attention, at least!
@@ -846,7 +846,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         If it's like that, then there <i>should</i> be another way.<p>
         With drama, you'd constantly have to worry about dealin' with radical opinions.
     </div>
@@ -855,7 +855,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         ...So, I should just join the military.
     </div>
 </div>
@@ -863,7 +863,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         The military!? What the he—<p>
         Ah, I mean, why?
     </div>
@@ -872,11 +872,11 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Because people in the military are really smart, obviously!<p>
         Let's come up with some genius ideas that'll turn me into a cool officer character!
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         I'm 19, y'know!?<p>
         I want my juniors to rely on me!<p>
         I wanna make you two happy!
@@ -886,7 +886,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         W-What should we do, Akira-chan?<p>
         Riamu-san saying all of that isn't any good!
     </div>
@@ -895,10 +895,10 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Hey, both of you calm down.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         First off, it makes no sense to havin' a panic attack here.<p>
         Don't people relax here?
     </div>
@@ -907,12 +907,12 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         T-That's right! Ahahahaha!<p>
         I just started panicking all of a sudden!<p>
         Uh... Hm... Eh...
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Ah!<p>
         Why don't we get some ramen?
     </div>
@@ -921,7 +921,7 @@
 <div class="akira-riamu">
     <div class="icon"></div>
     <span class="name">Akira & Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ramen?
     </div>
 </div>
@@ -929,7 +929,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Let's go eat!<p>
         Eating tasty food with friends always cheers me up!
     </div>
@@ -937,7 +937,7 @@
         Cheer up, Riamu-san.<p>
         Your problematic thoughts might go away!
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Besides, Tokyo's ramen always looked so trendy and delicious. I've always wanted to try it...!
     </div>
 </div>
@@ -945,7 +945,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ah... In that case, I know a good place.<p>
         It's from my hometown that just opened a Tokyo branch...<p>
         But I guess that isn't really Tokyo ramen, huh.
@@ -955,7 +955,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Aha♪ As long as it's good, it's OK!
     </div>
 </div>
@@ -963,7 +963,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Eh, huh!? What the hell!?<p>
         I'm gonna eat ramen with someone...!?<p>
         Is this a dream? A dream to end all dreams!?
@@ -973,7 +973,7 @@
 <div class="akira">
     <div class="icon"></div>
     <span class="name">Akira</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         This is reality.
     </div>
 </div>
@@ -981,7 +981,7 @@
 <div class="akari">
     <div class="icon"></div>
     <span class="name">Akari</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Riamu-san, let's go as a <span class="b">grou-ple♪</span>
     </div>
 </div>
@@ -989,7 +989,7 @@
 <div class="riamu">
     <div class="icon"></div>
     <span class="name">Riamu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         You're joking... You're seriously not joking...?<p>
         Idols are so nice...<p>
         I wuv nice idols...!
@@ -1028,10 +1028,10 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Mayoi-dono~! Mayoi-dono, might you happen to be present?
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Hm? It appears that no one is here. We made an appointment to meet in the empty classroom after school, but have I arrived here first?
     </div>
 </div>
@@ -1039,7 +1039,7 @@
 <div class="mayoi_a">
     <div class="icon"></div>
     <span class="name">???</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         <i>Pant, pant...</i>
     </div>
 </div>
@@ -1047,7 +1047,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Oh...? Is the sound of breathing perhaps coming from...<p>
         ...the inside of that broom closet!?
     </div>
@@ -1058,7 +1058,7 @@
 <div class="mayoi">
     <div class="icon"></div>
         <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Chiiiief! I knew you'd notice meeeeee♪ You saw <i>right</i> through my camouflage!<p>
         As one would expect from the Ninja Association's leader! I'll follow you for the rest of my life♪
     </div>
@@ -1067,10 +1067,10 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Hehe. My suspicions were correct. It is unthinkable for a reliable person like you to have been late to our meeting, so I knew something <i>had</i> to be up.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Anyway, Mayoi-dono, let us begin our club activities for today!
     </div>
 </div>
@@ -1078,7 +1078,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Certainly, let's. Will we be checking the request box today as well?<p>
         I'll start up the PC, and... Oh my, it looks like we received two submissions.
     </div>
@@ -1087,7 +1087,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ooh, what a success! We <i>just</i> set it up this week, but we have already received two submissions... It appears our efforts have been noticed!
     </div>
 </div>
@@ -1095,7 +1095,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Receiving anonymous requests like this is fun... It feels quite ninja-like.
     </div>
 </div>
@@ -1103,7 +1103,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Well, to be precise, it is hero work. But it fits us too, since we're ninjas of justice♪
     </div>
 </div>
@@ -1111,7 +1111,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         "Hero" work?
     </div>
 </div>
@@ -1119,11 +1119,11 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Ah, it makes sense that you would not know about this. Last year, Morisawa-dono opened a request box and used it to help those in need~<p>
         There was no one to take it over after he graduated, and thus, I received permission to do so.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Morisawa-dono looked delighted; he even said, "It's wonderful that you're reaching out and helping others!"
     </div>
 </div>
@@ -1131,7 +1131,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I see... So you're carrying on his legacy.
     </div>
 </div>
@@ -1139,10 +1139,10 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Well, it is not as if I am only doing this out of a sense of justice like Morisawa-dono did; I'm not nearly as saintly, after all...
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         ...Because someday, the Ninja Association will become the Ninja <i>Club!</i><p>
         If we become an official school club, we will undoubtedly gain more members, and we can receive plenty of funding. It will be just one good thing after another!<p>
         As the head of the Ninja Association, it is natural for that to be my goal!
@@ -1152,11 +1152,11 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Ufufu. Even if your aim is to obtain a reward, it doesn't change the fact that you're performing good deeds.<p>
         If you need stealth, leave it to me. It's a bad habit of mine to flee and hide when I encounter others, but in the context of being a "ninja," that weakness becomes a strength.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         And I'd certainly rather be a "ninja" than a "phantom"...♪
     </div>
 </div>
@@ -1164,7 +1164,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         "Phantom"...?
     </div>
 </div>
@@ -1172,10 +1172,10 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Oh, it's nothing. Just a personal matter.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Ah, oops. Chatting with you is so fun that I ended up prolonging our discussion... Shall we take a look at what we received in the request box?
     </div>
 </div>
@@ -1183,10 +1183,10 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Ah, yes. We should do that.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         So, what does the box contain this time?
     </div>
 </div>
@@ -1194,7 +1194,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         The first submission is a request to help clean things up around the school. Judging from the manner of speech, it seems to be from the person who sent in a request earlier this week<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup> as well.
     </div>
 </div>
@@ -1202,7 +1202,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ooh, it surprises me that we'd get a repeat requester.
     </div>
 </div>
@@ -1210,11 +1210,11 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Indeed. Perhaps they have been trying to support the Ninja Association by bringing us jobs to help us establish a track record.<p>
         I am unsure of who it is, but if they want the Ninja Association to become a real club, they could be someone within Yumenosaki Academy.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Ufufu. It's like they're our "Daddy-Long-Legs"<sup><a class="fn" href="#tn1" id="2" name="2">[2]</a></sup>—our mysterious benefactor...♪
     </div>
 </div>
@@ -1222,10 +1222,10 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Hmm. If that is the case, I feel it would certainly be more fun if they could join the Ninja Association and partake in our activities...
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         No, this also depends on the timeframe it is occurring in. Perhaps it could be someone like Mayoi-dono!
     </div>
 </div>
@@ -1233,7 +1233,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
     Huh? M-Me...?
     </div>
 </div>
@@ -1241,7 +1241,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Of course~ I never expected a third year to join the Ninja Association.<p>
         When I think of how I am able to spend this much time with a companion of mine, my heart overflows with gratitude♪
     </div>
@@ -1252,7 +1252,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         C-Chiiiiief...♪ <i>(hugs)</i>
     </div>
 </div>
@@ -1260,7 +1260,7 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Mayoi-dono~♪ <i>(hugs back)</i>
     </div>
 </div>
@@ -1268,7 +1268,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ufufu. To be on a honeymoon with Chief, with no one getting in our way... It's comfortable to the point where I'd be just fine dying in your aaaaarms...♪
     </div>
 </div>
@@ -1276,11 +1276,11 @@
 <div class="shinobu">
     <div class="icon"></div>
     <span class="name">Shinobu</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         You mustn't be so hasty! The pair of us are fated companions who have finally managed to cross paths. It is too early to reach the end of our journey!<p>
         There was another request, yes? If so, we must fulfill our duty and be of service.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Look, I see another message there. Given the title, I'm quite curious as to what it may contain.
     </div>
 </div>
@@ -1288,7 +1288,7 @@
 <div class="mayoi">
     <div class="icon"></div>
     <span class="name">Mayoi</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Let's see... Oh, what's this...?<p>
         "A Request to the Members of the Ninja Association: Participate in Our Grand Opening Event"...?
     </div>
@@ -1341,10 +1341,10 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Ladies and gentlemen, please, come take a look! I shall now use my sentient hair to make art with <span class="b">ketchup! ♪</span>
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         <i>One, two, amazing...</i>☆<p>
         Heheh, the dead can control their hair at will! My hair shall be used to serve food as <span class="b">well~☆</span>
     </div>
@@ -1353,7 +1353,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="thought bubble solo">
+    <div class="thought bubble">
         (Yeah, all of the customers' reactions were great... The mood's not bad at all.)
     </div>
 </div>
@@ -1363,7 +1363,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="thought bubble first">
+    <div class="thought bubble">
         (Buuut he can't use theatrics to distract them from the slow service <span class="b">forever.)<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup></span><p>
         (Everyone looks hungry and such... They'd probably prefer character over <span class="b">looks.<sup><a class="fn" href="#tn2" id="2" name="2">[2]</a></sup>)</span><p>
         (Hmm, it's been a hour since Sengoku and Anzu-san left. I hope they come back soon.)
@@ -1375,7 +1375,7 @@
     <div class="bubble">
         Alright. If so, I'll be relaying this to Hibiki-senpai...
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (Hibiki-senpai, I think they're coming back soon!)<p>
         (Please hold out just a little bit longer!)
     </div>
@@ -1386,10 +1386,10 @@
 <div class="wataru">
     <div class="icon"></div>
         <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="thought bubble first">
+    <div class="thought bubble">
         (Haha. Are you trying to say "Hibiki-senpai, I really like you! You're so cool! I <i>love</i> you!"...?)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (That's too much of a compliment for me. Thank you, Tomoya<span class="b">-kun♪</span> <i>Kiss...</i>☆)
     </div>
 </div>
@@ -1397,10 +1397,10 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="thought bubble first">
+    <div class="thought bubble">
         (Uhm, I think there's a big misunderstanding here?! What's up with that weird signal I got back?)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (Oh, fuck it. This signal can only mean one thing! The rest is up to you!)
     </div>
 </div>
@@ -1408,11 +1408,11 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="thought bubble first">
+    <div class="thought bubble">
         (Hehe. I got the message.)<p>
         (Compared to Mrs. Hidaka's auditions, this is a piece of cake.)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (I am a clown who plays the role expected from him. That's what everyone is looking for, correct?)
     </div>
 </div>
@@ -1463,7 +1463,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="thought bubble first">
+    <div class="thought bubble">
         (Haaah... This ain't any good. 'M not gettin' anywhere...)<p>
         (I couldn't finish the new outfits in time, so we gotta settle with our usual ones fer tomorrow's live.)<p>
         (Even though it's gonna be Oshi-san's last performance as part of Valkyrie an' all...)
@@ -1474,7 +1474,7 @@
         (Those outfits're the first thing to come to mind when people think of Valkyrie... The fans'll probably be real happy to see 'em.)<p>
         (They're better than the crappy ones I made, anyways.)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (Valkyrie'll come to an end without mixin' in nothing unnecessary, maintainin' the essence of Oshi-san's style all the while.)<p>
         (And that's alright. It's a happy ending... We managed t'make it this far, despite havin' hit rock bottom before.)
     </div>
@@ -1483,7 +1483,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Huh? Heeey, Kagehira-senpai! Were you just about to leave?
     </div>
 </div>
@@ -1493,7 +1493,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ngah? We've been seein' each other a real lot lately, Tomoya-kun. Whatcha doin' here? This place's pretty far from school.<p>
         The apartment I'll be movin' into in spring's nearby, so I was just checkin' this place out.<p>
         I've been puttin' it off 'til now, but I figured it's 'bout time to start pickin' out furniture.
@@ -1505,7 +1505,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ohh, is that so... I'm just a regular shopper~ My family comes to this mall every once in a while.<p>
         We just finished buying everything we need, so I'm carrying our stuff to the car.
     </div>
@@ -1514,7 +1514,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I see... Ya sure have a lotta bags to carry there.
     </div>
 </div>
@@ -1524,7 +1524,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Yeah... Ah! Wait, I didn't buy this plush for myself, okay?! My little sister's just a big fan of President Hibiki...!
     </div>
 </div>
@@ -1532,7 +1532,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ahaha, nobody's askin' 'bout that. Ain't it fine, though? Just buy whatever ya like.
     </div>
 </div>
@@ -1540,7 +1540,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ugh... We tend to get too excited in places like this and end up buying lots of unnecessary things.<p>
         The word "sale" is my family's biggest weakness!
     </div>
@@ -1549,7 +1549,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ah, right. Ya did say yer with yer family. Where're they, anyways?
     </div>
 </div>
@@ -1557,7 +1557,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ah, I think they're looking at the store over there. Can you see them?
     </div>
 </div>
@@ -1565,7 +1565,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Hm...? Sorry, I don't think I do.
     </div>
 </div>
@@ -1573,7 +1573,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Yep... We're all "normal," so we blend right into the crowd.<p>
         It's not the best trait to have as an idol... I envy you, Kagehira-senpai. People have been staring and whispering things about you for quite some time.
     </div>
@@ -1582,7 +1582,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Eh? Oh, yer right. There're some kids pointin' 'n squealin' over there.
     </div>
 </div>
@@ -1590,7 +1590,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         You <i>just</i> noticed that?
     </div>
 </div>
@@ -1598,7 +1598,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Yeah, I was real deep in thought. Agh, I don't like bein' stared at...
     </div>
 </div>
@@ -1606,7 +1606,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I heard Valkyrie's really popular lately, so you're becoming more famous day by day.<p>
         If you're not in disguise, you'll cause an uproar in places like this.<p>
         You already stand out quite a lot as is.
@@ -1616,7 +1616,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Err, ya think so? My mismatched eyes really <i>are</i> weird, huh?
     </div>
 </div>
@@ -1624,7 +1624,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         No, that's not it. It's more like, your eyes are very attractive... Even though I'm a guy, I find you really good-looking! I get the chills every time I watch you perform!<p>
         If I were a girl, I'd fall in love with you the moment you start singing!
     </div>
@@ -1633,7 +1633,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Whatcha mean by that...? Wait, ya watch our lives? Thank ya <span class="b">kindly~♪</span>
     </div>
 </div>
@@ -1641,7 +1641,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Yeah, I've been keeping an eye on you guys for quite a while now. Though, you two only ever pay attention to Nii~chan, I think.<p>
         But Valkyrie's still our number one enemy—a wall we absolutely have to climb over.<p>
         There's no way we'd let ourselves be defeated. No, not just that—I want to make sure that Ra*bits is better than Valkyrie before Nii~chan graduates.
@@ -1651,7 +1651,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         ...Ngah?
     </div>
 </div>
@@ -1659,11 +1659,11 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         We have to! Otherwise, it'll seem like Nii~chan transferring from Valkyrie to Ra*bits was a mistake, right?<p>
         He's always been working so desperately. All the hardships he's gone through in the course of this year... I don't want him to think of it as a waste of time.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Sorry to keep talking on and on by myself. But ultimately, that's why...<p>
         In the end, we, Ra*bits, are going to beat Valkyrie one-on-one. At least once.<p>
         The Repayment Festival is our last chance we have left to do this...<p>
@@ -1675,7 +1675,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         ...Ya think y'can beat us? Even though yer nothin' but cute lil' bunnies?
     </div>
 </div>
@@ -1683,10 +1683,10 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         But we're the very bunnies <i>Nii~chan</i> trained for a whole year.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Oh shoot, my family finished shopping before I realized. They're leaving without me, so I have to go now!
     </div>
 </div>
@@ -1696,7 +1696,7 @@
 <div class="mika">
     <div class="icon"></div>
     <span class="name">Mika</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Hey, wait! We ain't performin' <span class="b">in—</span>
     </div>
     <div class="thought bubble">
@@ -1707,7 +1707,7 @@
         (What was that anyways? Was he tryin' to pick a fight?)<p>
         ("Ra*bits beating Valkyrie"? Now that's a first. There ain't no way that can happen, yeah? Not when Valkyrie—Oshi-san's the strongest! He's invincible!)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (That's how things should be, but... Honestly, I got a lil' bit scared there...)
     </div>
 </div>
@@ -1745,7 +1745,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         "Come now, everyone! Take a look and laugh!"<p>
         "I am a clown who seeks to spread laughter through silly antics!"<p>
         "Feel free to spit and throw rocks at me to cast away your daily <span class="b">sorrows! ♪</span>"
@@ -1757,7 +1757,7 @@
         (What am I doing wrong? I can't get into my role!)<p>
         (They told me that it would be a bit more challenging this time, but I should've learned some techniques from last year...)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (I stumble the moment I step out of my comfort zone. What am I supposed to do? I wish I was better at applying my skills into new <span class="b">roles—</span>)
     </div>
 </div>
@@ -1767,7 +1767,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Eek!
     </div>
     <div class="bubble">
@@ -1855,7 +1855,7 @@
         If I emphasize Ra*bits too much, I would tarnish our pure and innocent image.<p>
         Maybe people will grow tired of us if we just stick to being good kids.
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         However, that's only the brand we made for Ra*bits.<p>
         I want to keep that image. I know I'm trying to eat my cake and have it too...
     </div>
@@ -1866,7 +1866,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         But a true actor—a true idol—makes the impossible possible and turns dreams into reality. That is who I, Tomoya Mashiro, aspire to be.
     </div>
 </div>
@@ -1907,7 +1907,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         One, two, three, four! Hop, hop, <span class="b">hop♪</span><p>
         ...Alright, that's perfect. Tomoya Mashiro has made a full <span class="b">recovery♪</span>
     </div>
@@ -1932,7 +1932,7 @@
         (In order to take everyone's hands and move forward, I must go the extra mile.)<p>
         (I would be a burden to others if I don't. No... It's because I continue standing on the same stage with everyone.)
     </div>
-    <div class="thought bubble last">
+    <div class="thought bubble">
         (I can do it~ I'll stay after practice for a <span class="b">bit♪</span>)
     </div>
 </div>
@@ -1940,7 +1940,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Are there any naughty children here~? What a pity, there's only an average <span class="b">child☆</span>
     </div>
 </div>
@@ -1950,7 +1950,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         That scared me?! Woah, the Masked Pervert appeared!
     </div>
 </div>
@@ -1958,7 +1958,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Ahaha. Tomoya-kun's reactions are amusing as usual. It has a rather shocked value to it, hehehe!<p>
         How are you? You won't faint, correct?
     </div>
@@ -1967,7 +1967,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         I'm not <i>that</i> scared... What, wouldn't you typically shout "Are you surprised? You're surprised, aren't you! How <span class="b"><i>amazing!</i> ☆</span>" with such glee?
     </div>
 </div>
@@ -1975,7 +1975,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Tomoya-kun really can't imitate me well...<p>
         I am much more refined than <i>that!</i> My grace shines through even when I'm spouting nonsense, right?
     </div>
@@ -1984,7 +1984,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Go look at a mirror.<p>
         Uwah, on closer inspection, you're wearing some weird costume.<p>
         You're not even participating in the Mystery Stage, so why are you dressed up as a phantom thief?
@@ -1994,7 +1994,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         No, I was thinking of adding something <i>amazing</i> into the mix if the whole unfolding felt boring.<p>
         So I made a variety of arrangements, and I'm wearing one right now as a test.<p>
         Though, looking at everything that has happened, it looks like my turn will never come.
@@ -2004,7 +2004,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Yeah, I never thought <i>you'd</i> show up... Err, do you need something from me?
     </div>
 </div>
@@ -2012,7 +2012,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         No? I already said that I would stay behind the scenes. I'm here to clean up after the Mystery Stage is over because this auditorium will be used for class tomorrow.<p>
         Cleaning it up everyday...<p>
         And set everything back up before the show begins. It relies on physical strength more, so I couldn't ask Miss Anzu to come and help.
@@ -2022,7 +2022,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         So it's like that, how tiring... Would it be better if I came and helped out?
     </div>
 </div>
@@ -2030,7 +2030,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         No, no. I already feel like lecturing you for staying back to practice. It wouldn't be my problem if you push yourself too hard that you faint again.<p>
         Please leave this kind of work to the backstage staff. You should go home immediately and get a good night's sleep to eliminate your fatigue.<p>
         Living life in the fast lane won't do any good. I know you can't curb your enthusiasm, but being idle is part of our jobs as idols.
@@ -2040,7 +2040,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         ...You saying such wise words<sup><a class="fn" href="#tn1" id="1" name="1">[1]</a></sup> feels out of place.
     </div>
 </div>
@@ -2048,7 +2048,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         How painful. I always gave you advice in hopes of happy growth and even taught you with such care!<p>
         Aaah! This unrequited love is a tragedy that would render even Shakespeare speechless with shock!
     </div>
@@ -2057,7 +2057,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Uhm... You're always helping me improve, even if you <i>are</i> an absolute nutjob.<p>
         But to be honest, I can't really keep up with your footsteps...
     </div>
@@ -2066,7 +2066,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Indeed. What is truly a pity is that you're not Wataru Hibiki. I have forgotten about that and regret it greatly.<p>
         However, I shall forget about that in the blink of an eye <span class="b">tomorrow☆</span>
     </div>
@@ -2075,7 +2075,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Please keep it in mind a bit longer. Seriously, you're always saying such careless things...<p>
         I still want to practice some more. I don't want to get in your way, so is it fine if I dance here?
     </div>
@@ -2084,7 +2084,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Sure. Don't mind me, do as you wish. However, if you mess anything up, I'll use a roundhouse kick to stop you.
     </div>
 </div>
@@ -2092,7 +2092,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Can you be a little more gentle? That roundhouse kick will kill someone. I'm still recovering, so please be careful with me~
     </div>
 </div>
@@ -2100,11 +2100,11 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         What a spoiled child you are.<p>
         Well, don't fret about it. I might have ran into you by chance...
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         But I won't get any closer, since I wouldn't want to hurt you again.<p>
         I shall leave right after I've finished cleaning up, so please pretend I'm not here.<p>
         I am quite inconsiderate and can only protect you by staying away.
@@ -2116,7 +2116,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Is that so? Then why did you watch today's show despite saying you'd "stay away" from me?<p>
         You were sitting in Row D, Seat 23, right?
     </div>
@@ -2125,7 +2125,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Oops, I've been found out. My disguise should have been perfect.
     </div>
 </div>
@@ -2133,12 +2133,12 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble first">
+    <div class="bubble">
         Too perfect that it's unnatural.<p>
         The one most unlike you in today's audience was the guy sitting in Row D, Seat 23.<p>
         He was at our S3 too...
     </div>
-    <div class="bubble last">
+    <div class="bubble">
         Speaking of which, that guy was always around. You've been watching over me the whole time, huh? I didn't expect you to worry <i>that</i> much.
     </div>
 </div>
@@ -2146,7 +2146,7 @@
 <div class="wataru">
     <div class="icon"></div>
     <span class="name">Wataru</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Oh, oh... How embarrassing. This is Wataru Hibiki's greatest mistake.<p>
         Thinking that someone as clueless Tomoya-kun would <i>never</i> see through my disguise, I slacked off, only to fail in the end.
     </div>
@@ -2155,7 +2155,7 @@
 <div class="tomoya">
     <div class="icon"></div>
     <span class="name">Tomoya</span><div class="arrow"></div>
-    <div class="bubble solo">
+    <div class="bubble">
         Are you trying to piss me off?
     </div>
 </div>
