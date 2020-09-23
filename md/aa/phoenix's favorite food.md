@@ -26,7 +26,7 @@ You bit into them with a glare as if it's your enemy.
 
 Trucy, you really shouldn't trust her.
 
-# Translator's Notes
+## Translator's Notes
 
 1. 赤いヤツ can also be translated as "red guy."
 2. 白いヒラヒラ = white frills. Often used to describe Edgeworth's jabot cravat.

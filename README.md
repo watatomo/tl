@@ -9,18 +9,25 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
 #### Top Priority
 
 - [ ] High Five!
+  - [ ] Prologue
 - [ ] Idol Story: Tomoya Mashiro
   - [x] 1
   - [ ] 2
   - [ ] 3
+  - [ ] Admirable Specialty
 - [ ] Phantom Thieves VS Detectives (New lines)
   - [x] Epilogue
 - [ ] Dead End Land
+  - [x] Dead End Street (1)
+  - [x] Dead End Street (2)
+  - [ ] Dead End Street (3)
+  - [ ] Dead End Street (6)
+  - [x] Dead End Street (7)
+  - [x] Epilogue (1)
 
 #### Medium Priority
 
 - [ ] Dream-Colored Princes
-- [ ] Idol Story: Tomoya Mashiro | Admirable Speciality
 - [ ] Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage *(Re-translating)*
 
 #### Low Priority

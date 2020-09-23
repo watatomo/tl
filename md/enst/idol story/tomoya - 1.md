@@ -1,6 +1,6 @@
 # Idol Story: Tomoya Mashiro (1)
 
-> **Season:** Spring
+> **Season:** Spring<br>
 > **Location:** Dance Studio
 
 **Tomoya:** "Come now, everyone! Take a look and laugh!"
