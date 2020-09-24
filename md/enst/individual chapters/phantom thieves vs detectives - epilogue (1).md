@@ -1,6 +1,6 @@
 # Phantom Thieves VS Detectives: Epilogue (1)
 
-> **Season:** Winter
+> **Season:** Winter<br>
 > **Location:** Museum-like Stage
 
 **Tomoya:** One, two, three, four! Hop, hop, hop♪

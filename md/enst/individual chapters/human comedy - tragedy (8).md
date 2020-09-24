@@ -1,7 +1,8 @@
 # Human Comedy: Tragedy (8)
 
-> **Season:** Winter
+> **Season:** Winter<br>
 > **Location:** Shopping Mall - First Floor
+
 > *The next day, after school*
 
 **Mika:** (Haaah... This ain't any good. 'M not gettin' anywhere...)
