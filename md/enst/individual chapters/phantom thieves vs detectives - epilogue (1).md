@@ -124,6 +124,6 @@ Thinking that someone as clueless Tomoya-kun would *never* see through my disgui
 
 **Tomoya:** Are you trying to piss me off?
 
-## Translator's Notes
+## Translation Notes
 
 1. Localized from "先輩らしいこと" (*senpai*-like things). Wataru doesn't act like a "proper" *senpai* most of the time, which is why Tomoya felt off. [The relationship between *senpai* and *kouhai* is quite important.](https://en.wikipedia.org/wiki/Senpai_and_k%C5%8Dhai) Adding to that, *kouhai* usually talk to their senpai using [honorific speech](https://en.wikipedia.org/wiki/Honorific_speech_in_Japanese), but Tomoya often drops his formalities when talking to Wataru.
