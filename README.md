@@ -19,6 +19,7 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] Epilogue (1)
   - [ ] Epilogue (2)
 - [ ] Idol Story: Tomoya Mashiro | To the Deutzia-Colored You
+- [ ] Whatever the fucking hell is causing the `read more` buttons to mess up on iOS
 
 #### Medium Priority
 
@@ -29,6 +30,16 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] Admirable Specialty
 - [ ] Dream-Colored Princes
 - [ ] Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage *(Re-translating)*
+- [ ] 2★ Nene: Wonderlands×Showtime
+  - [ ] Part 1
+  - [ ] Part 2
+- [ ] Brand new!
+  - [ ] Opening: Our Respective Temperatures
+  - [ ] Chapter 1: The Shape of Fun
+  - [ ] Chapter 2: My Innovation
+  - [ ] Chapter 3: Even if Our Steps are Different
+  - [ ] Chapter 4: To Shine as You Are
+  - [ ] Ending: Our Respective Paths
 
 #### Low Priority
 
@@ -36,4 +47,6 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
 - [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Melancholy
 - [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like
 - [ ] Phantom Thieves VS Detectives (New lines)
+  - [ ] Prologue
   - [x] Epilogue
+- [ ] GO JUST GO!
