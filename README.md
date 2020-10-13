@@ -38,7 +38,7 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] Chapter 1: The Shape of Fun
   - [ ] Chapter 2: My Innovation
   - [ ] Chapter 3: Even if Our Steps are Different
-  - [ ] Chapter 4: To Shine as You Are
+  - [ ] Chapter 4: To Shine as You are
   - [ ] Ending: Our Respective Paths
 
 #### Low Priority
@@ -49,4 +49,4 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
 - [ ] Phantom Thieves VS Detectives (New lines)
   - [ ] Prologue
   - [x] Epilogue
-- [ ] GO JUST GO!
+- [ ] Go Just Go!
