@@ -14,12 +14,12 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [x] Dead End Street (3)
   - [x] Dead End Street (4)
   - [x] Dead End Street (5)
-  - [ ] Dead End Street (6)
+  - [x] Dead End Street (6)
   - [x] Dead End Street (7)
   - [ ] Epilogue (1)
   - [ ] Epilogue (2)
 - [ ] Idol Story: Tomoya Mashiro | To the Deutzia-Colored You
-- [x] Whatever the fucking hell is causing the `read more` buttons to mess up on iOS (gave up)
+- [ ] Full Power! Wonder Halloween!
 
 #### Medium Priority
 
@@ -29,10 +29,17 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] 3
   - [ ] Admirable Specialty
 - [ ] Dream-Colored Princes
-- [ ] Sub-story: Tomoya Mashiro | Cinderella on the Stake's Stage *(Re-translating)*
-- [ ] 2★ Nene: Wonderlands×Showtime
-  - [ ] Part 1
-  - [ ] Part 2
+- [ ] Idol Story: Tomoya Mashiro | Cinderella on the Stake's Stage *(TLC)*
+- [x] 2★ Nene: Wonderlands×Showtime
+- [ ] Business Communication: A Variety of Colors
+
+#### Low Priority
+
+- [ ] Light/dark theme toggle
+- [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like
+- [ ] Phantom Thieves VS Detectives (New lines)
+  - [ ] Prologue
+  - [x] Epilogue
 - [ ] Brand new!
   - [ ] Opening: Our Respective Temperatures
   - [ ] Chapter 1: The Shape of Fun
@@ -40,13 +47,4 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [ ] Chapter 3: Even if Our Steps are Different
   - [ ] Chapter 4: To Shine as You are
   - [ ] Ending: Our Respective Paths
-
-#### Low Priority
-
-- [ ] Light/dark theme toggle
-- [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★ Event | A Club Member's Melancholy
-- [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like
-- [ ] Phantom Thieves VS Detectives (New lines)
-  - [ ] Prologue
-  - [x] Epilogue
 - [ ] Go Just Go!
