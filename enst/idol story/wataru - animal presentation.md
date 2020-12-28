@@ -39,7 +39,7 @@ But I never had a pet before. Do you guys have any recommendations for a beginne
 
 **Koga:** A dog, obviously. I get if ya dunno what *breed* to get, though.
 
-**Subaru:** Yup! Dogs are great~ They're obedient; and they'll keep you in great shape too 'cause you'll need to walk 'em every day.
+**Subaru:** Yup! Dogs are great~ They're obedient; and they'll keep you in great shape too 'cause you'll need to walk 'em every day☆
 
 **Nazuna:** Rabbits are just as great! They're easy to take care of—and more importantly, they're super cute! ♪
 
@@ -51,7 +51,9 @@ I guess those are good too... But like, I'm a bit overwhelmed with all the choic
 
 **Koga:** Point is, you've gotta take responsibility of 'em 'til the end, got that? Pets aren't just any other animals. They're your partners, your family.
 
-**Tomoya:** I remember now. I never wanted to have a pet because it'd be so hard to say goodbye to them.
+**Tomoya:** Ah, right. Humans have longer life spans than most animals, huh...
+
+I remember now. I never wanted to have a pet because it'd be so hard to say goodbye to them.
 
 The more we spend time together, the more painful it'd be to part with them...
 
@@ -83,7 +85,7 @@ By the way, Tomoya-kun. Do you have any recollection of that dove you're holding
 
 **Tomoya:** "Saved"? You're exaggerating. You were the one who actually took care of her.
 
-**Wataru:** However, if you hadn't brought her to me, I wouldn't have even known she was in such a state. And she surely wouldn't have emerged unscathed either. 
+**Wataru:** However, if you hadn't brought her to me, I wouldn't have even known she was in such a state. And she surely wouldn't have emerged unscathed either.
 
 So you truly did save her, Tomoya-kun.
 
