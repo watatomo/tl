@@ -117,6 +117,6 @@ On that note, Tomoya-kun, let us do exactly that...☆
 
 **Tomoya:** Woaaah! Don't jump onto the balloon while carrying meee! P-Put me down~!
 
-## Translation encounters
+## Translation Notes
 
 1. A reference to Tomoya's Idol Story from !, *Cinderella on the Stake's Stage.* Tomoya rescues Jeanne d'Arc, who passed out on the side of a street. She's quite fond of him.
