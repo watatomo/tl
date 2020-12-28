@@ -79,7 +79,7 @@ By the way, Tomoya-kun. Do you have any recollection of that dove you're holding
 
 **Tomoya:** "Recollection"... Ah, is this Jeanne d'Arc?
 
-**Wataru:** That's absolutely correct; this is the child you saved. She hasn't been bullied by those around her at all lately, and now—as you can see—she's doing perfectly well.
+**Wataru:** That's absolutely correct; this is the child you saved. She hasn't been bullied by those around her at all lately, and now—as you can see—she's doing perfectly well.<sup>[1]</sup>
 
 **Tomoya:** "Saved"? You're exaggerating. You were the one who actually took care of her.
 
@@ -116,3 +116,7 @@ In any case, I cannot recommend that you take a pet under your wing on a mere wh
 On that note, Tomoya-kun, let us do exactly that...☆
 
 **Tomoya:** Woaaah! Don't jump onto the balloon while carrying meee! P-Put me down~!
+
+## Translation encounters
+
+1. A reference to Tomoya's Idol Story from !, *Cinderella on the Stake's Stage.* Tomoya rescues Jeanne d'Arc, who passed out on the side of a street. She's quite fond of him.
