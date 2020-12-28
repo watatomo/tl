@@ -83,7 +83,7 @@ By the way, Tomoya-kun. Do you have any recollection of that dove you're holding
 
 **Tomoya:** "Saved"? You're exaggerating. You were the one who actually took care of her.
 
-**Wataru:** However, if you hadn't brought her to me, I wouldn't have even known of her existence. And she surely wouldn't have emerged unscathed.
+**Wataru:** However, if you hadn't brought her to me, I wouldn't have even known she was in such a state. And she surely wouldn't have emerged unscathed either. 
 
 So you truly did save her, Tomoya-kun.
 
