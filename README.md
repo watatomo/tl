@@ -17,7 +17,7 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
   - [x] Dead End Street (6)
   - [x] Dead End Street (7)
   - [ ] Epilogue (1)
-  - [ ] Epilogue (2)
+  - [x] Epilogue (2)
 - [ ] Idol Story: Tomoya Mashiro | To the Deutzia-Colored You
 - [ ] Full Power! Wonder Halloween!
 
