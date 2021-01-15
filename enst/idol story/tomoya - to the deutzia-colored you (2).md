@@ -13,7 +13,7 @@
 
 **Wataru:** Oh? There's truly no need for you to look so despondent.
 
-Everything you wear will suit you, and as such you'll be able to play any role you'd like. Just like your name, you are a canvas of pure white. You can be painted in any color; you can become anything your heart desires.
+Everything you wear will suit you, and as such you'll be able to play any role you'd like. Just like your name, you are a canvas of pure white. You can be painted in any color; you can become anything your heart desires. [t/n]
 
 Perhaps I can only view this so positively because it is precisely what I am lacking, but...
 
@@ -103,7 +103,7 @@ Here. This is design for my personalized costume. I took your advice and such, s
 
 **Tomoya:** Yeah. I'm not able bring out the idol "Tomoya Mashiro's" character yet... Which is why the classic idol outfit is the best choice!
 
-**Wataru:** A wonderful choice. You're still pure white at the moment; I can't help but wonder what colors will burst forth from you in the future... I grow more and more eager to observe your growth.
+**Wataru:** A wonderful choice. You're still pure white at the moment; I can't help but wonder what colors will burst forth from you in the future... I grow more and more eager to observe your growth. [t/n (same as above)]
 
 **Tomoya:** Ahaha. I'm also looking forward to what my future as an idol holds.
 

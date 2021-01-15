@@ -57,7 +57,7 @@ See you later, Hokuto-chan, Tomoya-chan. Break a leg, you two! ♪
 
 It's about my personalized costume. I can't come up with any ideas no matter what I do.
 
-How were you able to come up with an idea for your personalized costume, Hokuto-senpai?
+How were you able to come up with your personalized costume, Hokuto-senpai?
 
 **Hokuto:** How did I? Mm, I had a person in mind as my target. That's all.
 
