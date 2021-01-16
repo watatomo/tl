@@ -99,9 +99,9 @@ Aha, this is it! I'll try on *The Emperor's New Clothes* next!
 
 **Hokuto:** Hold on, Tomoya. You'll be basically wearing nothing at all with that, so it's not much help as a reference, is it?
 
-You'll never know unless you try. You might even be surprised at how well it fits.
+**Tomoya:** You'll never know unless you try. You might even be surprised at how well it fits.
 
-Besides, everyone else's personalized costume made them stand out. I wanna stand out just as much them! If I don't do this, I'll—
+Besides, everyone else's personalized costume made them stand out. I wanna stand out just as much as them! If I don't do this, I'll—
 
 **???:** Ohh, how splendid!
 

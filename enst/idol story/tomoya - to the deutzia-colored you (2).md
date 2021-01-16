@@ -59,7 +59,7 @@ I'm going to rethink on how to design my personalized costume from scratch.
 
 I don't really know what my idol self is like at all...
 
-I was trying to do what Mitsuru did: to use the reason why I became an idol as a reference. However, my reason for becoming an idol is so boring... "The idols I saw on TV looked amazing! Maybe I could become too," and such...
+I was trying to do what Mitsuru did: use the reason why I became an idol as a reference. However, my reason for becoming an idol is so boring... "The idols I saw on TV looked amazing! Maybe I could become too," and such...
 
 **Hajime:** Mm-mm, I don't think it's a boring reason at all... Do you remember what I told you a long, looong time ago?
 
@@ -69,7 +69,7 @@ Even through the worst of times, you were always beside me, Tomoya-kun.
 
 You befriended me, and even the reason I'm here now is because you wanted to be an idol.
 
-Without you, the idol "Hajime Shino" wouldn't exist. I've always been considered such a dunce by others, so by now I surely would've been left behind in the dust–
+Without you, the idol "Hajime Shino" wouldn't exist. I've always been considered such a dunce by others, so by now I surely would've been left behind in the dust—
 
 I might've even stopped trying to catch up and cried in my loneliness. So please... Don't call your reason boring.
 
