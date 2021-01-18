@@ -25,7 +25,7 @@ You can become whoever and whatever you'd like. With that in mind, why don't you
 
 **Tomoya:** Thank you, Hibiki-senpai, Hokuto-senpai...
 
-I'm going to rethink on how to design my personalized costume from scratch.
+I'm going to rethink on how to design my personalized outfit from scratch.
 
 > **Location:** Seisou Hall Common Room
 
