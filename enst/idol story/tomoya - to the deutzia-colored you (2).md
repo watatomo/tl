@@ -97,7 +97,7 @@ Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on Wh
 
 **Tomoya:** Eep! D-Don't just show up out of the blue! You should've just called out to me... Geez.
 
-Here. This is design for my personalized outfit. I took your advice and such, so I thought I'd better show the final outcome to you.
+Here. This is the design for my personalized outfit. I took your advice and such, so I thought I'd better show the final outcome to you.
 
 **Wataru:** So you decided on a design that draws inspiration from idols in the end.
 
