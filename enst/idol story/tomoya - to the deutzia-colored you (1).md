@@ -3,7 +3,7 @@
 > **Season:** Summer<br>
 > **Location:** Dance Studio
 
-**Tomoya:** ...Once we blind the audience here, the lights go to blackout. Then we change the props and the next scene begins.
+**Tomoya:** ...Once we blind the audience here, the lights go to blackout. Then we'll change the props and the next scene begins.
 
 **Hokuto:** Yeah. I've been able to practice as both roles until now, but it'll be hard to do so in all the scenes after.
 
@@ -23,25 +23,25 @@ See you later, Hokuto-chan, Tomoya-chan. Break a leg, you two! ♪
 
 (I could practice on my own, but I already memorized all of my lines... I guess I'll just focus on this thing for now.)
 
-(My personalized costume... I was overjoyed when Anzu-san said it's my turn to get one but...)
+(My personalized outfit... I was overjoyed when Anzu-san said it was my turn to get one but...)
 
-(The moment she asked what kind of outfit I'd like, my mind went blank and I panicked. It was *really* embarrassing.)
+(The moment she asked what kind of outfit I'd like, my mind went blank—I totally panicked. It was *so* embarrassing.)
 
 (She told me to tell her if I had any ideas, but I can't even think of a single one that's good...)
 
-(How did everyone else come up with their personalized costumes? Should I go check on WholeHands?)
+(How did everyone else come up with their personalized outfits? Should I go check on WholeHands?)
 
 (...Narukami-senpai looks quite refined. She doesn't have a lot of accessories on, but that's exactly what makes her own beauty stand out.)
 
-(Kanzaki-senpai's costume has his family crest on it. Doesn't get any better than that, huh? It suits him. How cool...)
+(Kanzaki-senpai's costume has his family crest on it. Doesn't get any better than that, huh? It suits him—he looks really cool.)
 
 (It's amazing to see how everyone's characters were brought out.)
 
-("Characters," huh... A personalized costume is supposed to represent one's character, but there's nothing special about me.)
+("Characters," huh... A personalized outfit is supposed to represent one's character, but there's nothing special about me.)
 
-(...Oh, it's a picture of Mitsuru. When he came to show me it, he said something like, "I was thinkin' about what made me wanna become an idol!")
+(...Oh, it's a picture of Mitsuru. When he came to show me his, he said something like, "I was thinkin' about what made me wanna become an idol!")
 
-(Maybe I can get some ideas from that too?)
+(Maybe I can draw some inspiration from that?)
 
 (The reason why I want to become an idol was because "the idols I saw on TV looked amazing.")
 
@@ -55,9 +55,9 @@ See you later, Hokuto-chan, Tomoya-chan. Break a leg, you two! ♪
 
 **Tomoya:** Ahaha. Thank you. To be honest, I was actually worrying about something, but it's not related to acting...
 
-It's about my personalized costume. I can't come up with any ideas no matter what I do.
+It's about my personalized outfit. I can't come up with any ideas no matter what I do.
 
-How were you able to come up with your personalized costume, Hokuto-senpai?
+How were you able to come up with yours, Hokuto-senpai?
 
 **Hokuto:** How did I? Mm, I had a person in mind as my target. That's all.
 
@@ -91,9 +91,9 @@ The next costume I'll try on is from *One Thousand and One Nights!*
 
 Every word that comes out of your mouth should be written down, framed, and displayed in a museum!
 
-So! I'm gonna try and find an outfit that'll make you say something that isn't "cute"!
+So! I'm gonna try and find an outfit that'll make you say something other than "cute"!
 
-Not this one... Nor that one...
+Not this one... And not this one either...
 
 Aha, this is it! I'll try on *The Emperor's New Clothes* next!
 
@@ -101,11 +101,11 @@ Aha, this is it! I'll try on *The Emperor's New Clothes* next!
 
 **Tomoya:** You'll never know unless you try. You might even be surprised at how well it fits.
 
-Besides, everyone else's personalized costume made them stand out. I wanna stand out just as much as them! If I don't do this, I'll—
+Besides, everyone else's personalized outfit made them stand out. I wanna stand out just as much as them! If I don't do this, I'll—
 
 **???:** Ohh, how splendid!
 
-**Tomoya:** Woah!? A pigeon just came out of that sleeve... And it's talking!
+**Tomoya:** Woah!? A dove just came out of that sleeve... And it's talking!
 
 **Hokuto:** Pull yourself together, Tomoya. No matter how you look at it, this is just one of *that* guy's tricks.
 

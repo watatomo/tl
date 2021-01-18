@@ -17,7 +17,7 @@ Everything you wear will suit you, and as such you'll be able to play any role y
 
 Perhaps I can only view this so positively because it is precisely what I am lacking, but...
 
-Your "problem" is actually a skill that those with strong personalities cannot obtain no matter how hard they may wish to.
+Your "problem" is actually a skill that those with strong personalities cannot obtain no matter how desperately they may wish to.
 
 **Hokuto:** That's right, Tomoya. I'm not saying you're cute without any thought, I really do think so.
 
@@ -33,7 +33,7 @@ I'm going to rethink on how to design my personalized costume from scratch.
 
 (...Idols really are amazing, huh. They're always shining and full of joy.)
 
-(The venue is completely packed. I used to be the same spot, before becoming an idol.)
+(The venue is completely packed. I used to be right there, just another member of the audience, before I became an idol.)
 
 **Hajime:** Tomoya-kun, would you like to drink some warm milk with me?
 
@@ -51,11 +51,11 @@ I'm going to rethink on how to design my personalized costume from scratch.
 
 **Hajime:** We're friends, aren't we? I felt like that might be the case.
 
-**Tomoya:** Haha, yep. You saw right through me... It's just as you say: I'm worrying about my personalized costume—to the point where I'm starting to panic a bit.
+**Tomoya:** Haha, yep. You saw right through me... It's just as you say: I'm worrying about my personalized outfit—to the point where I'm starting to panic a bit.
 
 [CG]
 
-**Tomoya:** Mitsuru was able to come up with a costume that suits him, so why can't I do the same?
+**Tomoya:** Mitsuru was able to come up with a design that suits him, so why can't I do the same?
 
 I don't really know what my idol self is like at all...
 
@@ -65,13 +65,13 @@ I was trying to do what Mitsuru did: use the reason why I became an idol as a re
 
 I said that I wasn't really interested in idols. That I loved you and didn't want be separated from you, so I just tagged along without a single thought.
 
-Even through the worst of times, you were always beside me, Tomoya-kun.
+Tomoya-kun, *you* were the one who always stood by my side, no matter how painful and miserable it got.
 
-You befriended me, and even the reason I'm here now is because you wanted to be an idol.
+You befriended me, and even the reason I'm here *now* is because you wanted to be an idol.
 
 Without you, the idol "Hajime Shino" wouldn't exist. I've always been considered such a dunce by others, so by now I surely would've been left behind in the dust—
 
-I might've even stopped trying to catch up and cried in my loneliness. So please... Don't call your reason boring.
+I might've even stopped trying to catch up to you. I might've just given up and cried, all alone. So please... Don't call your reason boring.
 
 **Tomoya:** Hajime... Yeah, I understand.
 
@@ -79,9 +79,9 @@ I might've even stopped trying to catch up and cried in my loneliness. So please
 
 (I would've never met Mitsuru and Nii~chan. I would've been living a dull, uneventful life.)
 
-(Becoming an idol was a critical turning point in life for me. I didn't have to be some boring, worthless guy. I don't have to keep comparing myself to others.)
+(Becoming an idol was a critical turning point in life for me. Even though my reason for wanting to be one is pretty boring and worthless, I don't need to keep comparing it to others.)
 
-Well, why don't we brainstorm ideas for a personalized costume together? If you don't mind. You know me too well, anyways...
+Well, why don't we brainstorm ideas for a personalized outfit together? If you don't mind. You know me too well, anyways...
 
 With you, I feel like I could come up with a design that's like those idols I've always admired—the idols that shine beyond the screen.
 
@@ -89,7 +89,7 @@ Tomoya-kun... Yes, of course! ♪
 
 > **Location:** Starmaker Production Lobby
 
-**Tomoya:** (I finished brainstorming for my personalized costume, so I brought all the sheets here but...)
+**Tomoya:** (I finished brainstorming for my personalized outfit, so I brought all the sheets here but...)
 
 Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on WholeHands.
 
@@ -97,13 +97,13 @@ Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on Wh
 
 **Tomoya:** Eep! D-Don't just show up out of the blue! You should've just called out to me... Geez.
 
-Here. This is design for my personalized costume. I took your advice and such, so I thought I'd better show the final outcome to you.
+Here. This is design for my personalized outfit. I took your advice and such, so I thought I'd better show the final outcome to you.
 
 **Wataru:** So you decided on a design that draws inspiration from idols in the end.
 
 **Tomoya:** Yeah. I'm not able bring out the idol "Tomoya Mashiro's" character yet... Which is why the classic idol outfit is the best choice!
 
-**Wataru:** A wonderful choice. You're still pure white at the moment; I can't help but wonder what colors will burst forth from you in the future... I grow more and more eager to observe your growth. [t/n (same as above)]
+**Wataru:** A wonderful choice. You're still a blank canvas at the moment; I can't help but wonder what colors you'll paint yourself with in the future... I grow more and more eager to observe your growth. [t/n (same as above)]
 
 **Tomoya:** Ahaha. I'm also looking forward to what my future as an idol holds.
 
