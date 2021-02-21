@@ -1,5 +1,8 @@
 # [Birthday Celebration (2018)] Wataru Hibiki: Tomoya Mashiro
 
+> **Date:** February 21<br>
+>	**Location:** Birthday Venue
+
 **Tomoya:** Happy birthday, Masked Perv.
 
 Woah, why are you crying!? Uh, you want me to say it with your name instead?
