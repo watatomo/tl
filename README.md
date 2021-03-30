@@ -8,35 +8,36 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
 
 #### Top Priority
 
-- [ ] Dead End Land
-  - [x] Dead End Street (1)
-  - [x] Dead End Street (2)
-  - [x] Dead End Street (3)
-  - [x] Dead End Street (4)
-  - [x] Dead End Street (5)
-  - [x] Dead End Street (6)
-  - [x] Dead End Street (7)
-  - [ ] Epilogue (1)
-  - [x] Epilogue (2)
-- [ ] Idol Story: Tomoya Mashiro | To the Deutzia-Colored You
+- [ ] RELOADED
+- [ ] Unsatisfied Pale Color *(Hardsub, QC)*
 - [ ] Full Power! Wonder Halloween!
+- [Character Story] Agnes Tachyon
+  - [ ] 2 - Gordian Knot
+  - [ ] 3 - Event Horizon
+  - [ ] 4 - Tachyon
+  - [ ] 5 - Q: Dream or Reality?
+  - [ ] 6 - Q: Diet or Indulge?
+  - [ ] 7 - Q: Test Subject or Partner?
 
 #### Medium Priority
 
-- [ ] Idol Story: Tomoya Mashiro
-  - [x] 1
+- Idol Story: Tomoya Mashiro
   - [ ] 2
   - [ ] 3
   - [ ] Admirable Specialty
-- [ ] Dream-Colored Princes
 - [ ] Idol Story: Tomoya Mashiro | Cinderella on the Stake's Stage *(TLC)*
-- [x] 2★ Nene: Wonderlands×Showtime
-- [ ] Business Communication: A Variety of Colors
+- The Spectacular Cinderella Show
+  - [ ] [Mini Talk] Tomoya Mashiro: Cinderellaesque
+- [ ] [How the Shinonomes End the Year] Ena Shinonome
 
 #### Low Priority
 
 - [ ] Light/dark theme toggle
-- [ ] Play Your Part! Cinderella's Grand Stage: Tomoya Mashiro ★★★ Event | Cinderella-like
-- [ ] Phantom Thieves VS Detectives (New lines)
-  - [ ] Prologue
-  - [x] Epilogue
+- Phantom Thieves VS Detectives
+  - [ ] Prologue *(New lines)*
+  - [ ] [Mini Talk] Tomoya Mashiro: Incident at the Academy
+  - [ ] [Mini Talk] Tomoya Mashiro: Detective
+  - [ ] [Mini Talk] Wataru Hibiki: Love and Mystery
+  - [ ] [Mini Talk] Wataru Hibiki: Masked Phantom Thief
+- [ ] Dream-Colored Princes
+- [ ] [Business] A Variety of Colors
