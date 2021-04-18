@@ -22,13 +22,9 @@ Questions? Comments? Concerns? Contact me via [Twitter](https://twitter.com/riam
 #### Medium Priority
 
 - Idol Story: Tomoya Mashiro
-  - [ ] 2
   - [ ] 3
   - [ ] Admirable Specialty
 - [ ] Idol Story: Tomoya Mashiro | Cinderella on the Stake's Stage *(TLC)*
-- The Spectacular Cinderella Show
-  - [ ] [Mini Talk] Tomoya Mashiro: Cinderellaesque
-- [ ] [How the Shinonomes End the Year] Ena Shinonome
 
 #### Low Priority
 
