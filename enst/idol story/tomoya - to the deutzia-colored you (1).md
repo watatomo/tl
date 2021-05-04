@@ -29,7 +29,7 @@ See you later, Hokuto-chan, Tomoya-chan. Break a leg, you two! ♪
 
 (She told me to tell her if I had any ideas, but I can't even think of a single one that's good...)
 
-(How did everyone else come up with their personalized outfits? Should I go check on WholeHands?)
+(How did everyone else come up with their personalized outfits? Should I go check on HoldHands?)
 
 (...Narukami-senpai looks quite refined. She doesn't have a lot of accessories on, but that's exactly what makes her own beauty stand out.)
 

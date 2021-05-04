@@ -91,7 +91,7 @@ Tomoya-kun... Yes, of course! ♪
 
 **Tomoya:** (I finished brainstorming for my personalized outfit, so I brought all the sheets here but...)
 
-Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on WholeHands.
+Hibiki-senpai's not here, huh... Maybe I should've just called him upfront on HoldHands.
 
 **Wataru:** Hoho. I was wondering who you were searching for—to think that it was me.
 
