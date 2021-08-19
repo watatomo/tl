@@ -123,7 +123,7 @@ Anyhow, I'll be taking my dear Jeanne d'Arc home to take care of her. It's likel
 
 However, Jeanne d'Arc also has scratches from her fellow doves, not just stray cats.
 
-She's been getting bullied from those who are supposed to be her friends.
+She's been getting bullied by those who are supposed to be her friends.
 
 It's a good thing you saved her quickly.
 
