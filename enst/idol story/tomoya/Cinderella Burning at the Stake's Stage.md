@@ -139,11 +139,11 @@ And in the fairytale, Cinderella gets rescued by a prince.
 
 But in real life, one can still face persecution even if they were saved by a prince.
 
-People will get envious and say it's unfair, or that it's favoritism.
+People will get envious and say it's unfair—that it's favoritism...
 
 Please keep that in mind, Tomoya-kun.
 
-Animals loved you, no? For that reason, someone who adores you could fall into misery by the weight of your fans' "jealousy."
+Animals love you, no? For that reason, someone who adores you could fall into misery by the weight of your fans' "jealousy."
 
 Let this be a lesson to you, to avoid repeating the same tragedy.
 
