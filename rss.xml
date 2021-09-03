@@ -15,31 +15,8 @@
     <atom:link href="https://watatomo.github.io/tl/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>JP-EN translation archive</description>
-    <pubDate>Tue, 24 Aug 2021 18:49:10 GMT</pubDate>
+    <pubDate>Thu, 19 Aug 2021 10:12:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
-    
-    <item>
-      <title>Bubble Examples</title>
-      <link>https://watatomo.github.io/tl/post/hexo-bubble/</link>
-      <guid>https://watatomo.github.io/tl/post/hexo-bubble/</guid>
-      <pubDate>Tue, 24 Aug 2021 18:49:10 GMT</pubDate>
-      
-        
-        
-          
-          
-      <description>&lt;link rel=&quot;stylesheet&quot; type=&quot;text/css&quot; href=&quot;https://cdn.jsdelivr.net/npm/hexo-reference-mashiro/src/hint.min.css&quot;&gt;&lt;link rel=&quot;stylesheet&quot;</description>
-          
-        
-      
-      
-      
-      
-      
-      
-      <comments>https://watatomo.github.io/tl/post/hexo-bubble/#disqus_thread</comments>
-      
-    </item>
     
     <item>
       <title>[Idol Story] Cinderella Burning at the Stake&#39;s Stage</title>
@@ -217,13 +194,13 @@
       
       <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Izumi-Sena/">Izumi Sena</category>
       
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Kaoru-Hakaze/">Kaoru Hakaze</category>
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Koga-Ogami/">Koga Ogami</category>
       
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Souma-Kanzaki/">Souma Kanzaki</category>
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Kaoru-Hakaze/">Kaoru Hakaze</category>
       
       <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Subaru-Akehoshi/">Subaru Akehoshi</category>
       
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Koga-Ogami/">Koga Ogami</category>
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Souma-Kanzaki/">Souma Kanzaki</category>
       
       
       <category domain="https://watatomo.github.io/tl/tags/Gacha-Story/">Gacha Story</category>
@@ -621,6 +598,39 @@
       
       
       <comments>https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/#disqus_thread</comments>
+      
+    </item>
+    
+    <item>
+      <title>[Idol Story] To the Deutzia-Colored You (2)</title>
+      <link>https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/2/</link>
+      <guid>https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/2/</guid>
+      <pubDate>Mon, 18 Jan 2021 16:41:00 GMT</pubDate>
+      
+      <description>I wonder from whose point of view the story title is from? Either way, it&#39;s hard to ignore him.</description>
+      
+      
+      
+      
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/">Ensemble Stars</category>
+      
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Hajime-Shino/">Hajime Shino</category>
+      
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Hokuto-Hidaka/">Hokuto Hidaka</category>
+      
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Tomoya-Mashiro/">Tomoya Mashiro</category>
+      
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Wataru-Hibiki/">Wataru Hibiki</category>
+      
+      
+      <category domain="https://watatomo.github.io/tl/tags/Narrative/">Narrative</category>
+      
+      <category domain="https://watatomo.github.io/tl/tags/Idol-Story/">Idol Story</category>
+      
+      <category domain="https://watatomo.github.io/tl/tags/Yuumasu/">Yuumasu</category>
+      
+      
+      <comments>https://watatomo.github.io/tl/post/idol_story/tomoya/to_the_deutzia-colored_you/2/#disqus_thread</comments>
       
     </item>
     
