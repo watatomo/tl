@@ -15,8 +15,29 @@
     <atom:link href="https://watatomo.github.io/tl/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description>JP-EN translation archive</description>
-    <pubDate>Wed, 06 Oct 2021 20:29:00 GMT</pubDate>
+    <pubDate>Thu, 14 Oct 2021 19:59:00 GMT</pubDate>
     <generator>http://hexo.io/</generator>
+    
+    <item>
+      <title>Dramatica</title>
+      <link>https://watatomo.github.io/tl/post/dramatica/</link>
+      <guid>https://watatomo.github.io/tl/post/dramatica/</guid>
+      <pubDate>Thu, 14 Oct 2021 19:59:00 GMT</pubDate>
+      
+      <description>The theater company, Dramatica, is organizing their very first play. Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but…</description>
+      
+      
+      
+      
+      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/">Ensemble Stars</category>
+      
+      
+      <category domain="https://watatomo.github.io/tl/tags/Story-Index/">Story Index</category>
+      
+      
+      <comments>https://watatomo.github.io/tl/post/dramatica/#disqus_thread</comments>
+      
+    </item>
     
     <item>
       <title>Sanctuary: Polluted Paradise (12)</title>
@@ -513,10 +534,6 @@
       <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/">Ensemble Stars</category>
       
       
-      <category domain="https://watatomo.github.io/tl/tags/Event-Story/">Event Story</category>
-      
-      <category domain="https://watatomo.github.io/tl/tags/Main-Story/">Main Story</category>
-      
       <category domain="https://watatomo.github.io/tl/tags/Story-Index/">Story Index</category>
       
       
@@ -602,37 +619,6 @@
       
       
       <comments>https://watatomo.github.io/tl/post/reloaded/10/#disqus_thread</comments>
-      
-    </item>
-    
-    <item>
-      <title>RELOADED: Idol of the Dead (9)</title>
-      <link>https://watatomo.github.io/tl/post/reloaded/9/</link>
-      <guid>https://watatomo.github.io/tl/post/reloaded/9/</guid>
-      <pubDate>Wed, 28 Apr 2021 21:17:00 GMT</pubDate>
-      
-      <description>It all comes back to Wataru.</description>
-      
-      
-      
-      
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/">Ensemble Stars</category>
-      
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Wataru-Hibiki/">Wataru Hibiki</category>
-      
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Nazuna-Nito/">Nazuna Nito</category>
-      
-      <category domain="https://watatomo.github.io/tl/categories/Ensemble-Stars/Kanata-Shinkai/">Kanata Shinkai</category>
-      
-      
-      <category domain="https://watatomo.github.io/tl/tags/Narrative/">Narrative</category>
-      
-      <category domain="https://watatomo.github.io/tl/tags/Gacha-Story/">Gacha Story</category>
-      
-      <category domain="https://watatomo.github.io/tl/tags/Akira/">Akira</category>
-      
-      
-      <comments>https://watatomo.github.io/tl/post/reloaded/9/#disqus_thread</comments>
       
     </item>
     
