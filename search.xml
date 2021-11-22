@@ -1,402 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>Dramatica</title>
-    <url>/tl/post/dramatica/</url>
-    <content><![CDATA[
-    
-        
-        
-            
-                Dramatica
-                ドラマティカ
-                TBA
-            
-            
-                
-                    The theater company, Dramatica, is organizing their very first play. Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but... ➹
-                
-                
-                    
-                        
-                            Season
-                        
-                        
-                            Fall
-                        
-                    
-                    
-                        
-                            Chapters
-                        
-                        
-                            8
-                        
-                    
-                    
-                        
-                            Writer
-                        
-                        
-                            Yuumasu
-                        
-                    
-                    
-                        
-                            Characters
-                        
-                        
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                        
-                    
-                    
-                        
-                            Translator
-                        
-                        
-                            Ren
-                        
-                    
-                    
-                        
-                            Proofreaders
-                        
-                        
-                            En, TBA
-                        
-                    
-                
-            
-        
-    
-
-
-
-    .preview-wrapper {
-        display: none;
-    }
-    @media (max-width: 567px) {
-        .post-block {
-            padding: 5px 10px 8px !important;
-        }
-    }
-    :root {
-        --storyColor:#2550c2;
-        --storyColor-rgb:37,80,194;
-        --storyColor-h:223.6;
-        --storyColor-s:68%;
-        --storyColor-l:45.3%;
-    }
-
-
-    
-        
-        
-            
-                
-            
-            
-                Dramatica
-                ドラマティカ
-                
-                    TBA
-                
-            
-            
-                
-                    The theater company, Dramatica, is organizing their very first play. Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but... ➹
-                
-                
-                    
-                        
-                            Season
-                        
-                        
-                            Fall
-                        
-                    
-                    
-                        
-                            Chapters
-                        
-                        
-                            8
-                        
-                    
-                    
-                        
-                            Writer
-                        
-                        
-                            Yuumasu
-                        
-                    
-                    
-                        
-                            Characters
-                        
-                        
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                            
-                        
-                    
-                    
-                        
-                            Translator
-                        
-                        
-                            Ren
-                        
-                    
-                    
-                        
-                            Proofreaders
-                        
-                        
-                            En, TBA
-                        
-                    
-                
-                
-                    
-                        Extra Information
-                    
-                    
-                        
-                            
-                                Gacha
-                            
-                            
-                                Scout! Dramatica
-                            
-                        
-                        
-                            
-                                Gacha Duration
-                            
-                            
-                                10/14/2021 (15:00 JST) - 10/30/2021 (15:00 JST)
-                            
-                        
-                    
-                
-                
-                    
-                        CG Gallery
-                    
-                    
-                        
-                            
-                                
-                                    
-                                
-                                
-                                    Preparations for Tianzhu (3)
-                                
-                            
-                            
-                                
-                                    
-                                
-                                
-                                    Preparations for Tianzhu (1)
-                                
-                            
-                        
-                    
-                
-                
-                    
-                        Associated Cards
-                    
-                    
-                        
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                
-                                
-                                    [Wukong In My Own Style] Hokuto Hidaka
-                                    [自分流の悟空] 氷鷹 北斗
-                                    
-                                        
-                                            
-                                                A Major Role
-                                                Increases all stats of Glitter cards by 50%.
-                                            
-                                            
-                                                Flying Nimbus Soaring through the Skies
-                                                Increases score by 40% for 5 seconds.
-                                            
-                                            
-                                                Casting Consultation
-                                                Turns one BAD/MISS into a GREAT.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                
-                                
-                                    [Aesthetic Wukong] Shu Itsuki
-                                    [美学の悟空] 斎宮 宗
-                                    
-                                        
-                                            
-                                                Unrestricted Change
-                                                Increases the Performance of Brilliant cards by 80%.
-                                            
-                                            
-                                                Magic Staff Under the Sea
-                                                Increases score by 26% for 8 seconds.
-                                            
-                                            
-                                                Piglets and Life
-                                                Increases the drop rate of small Yellow Pieces by 1.5.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                
-                                
-                                    [Surprising Wukong] Wataru Hibiki
-                                    [意外な悟空] 日々樹 渉
-                                    
-                                        
-                                            
-                                                An Unprecedented Career
-                                                Increases the Dance of Sparkle cards by 80%.
-                                            
-                                            
-                                                The Way of the Wizard
-                                                Increases score by 8% for 12 seconds.
-                                            
-                                            
-                                                Ready for the Play
-                                                Increases the drop rate of small Red Pieces by 1.3.
-                                            
-                                        
-                                    
-                                
-                            
-                            
-                                
-                                    
-                                        
-                                    
-                                    
-                                        
-                                    
-                                    
-                                
-                                
-                                    [Normal Wukong] Tomoya Mashiro
-                                    [普遍の悟空] 真白 友也
-                                    
-                                        
-                                            
-                                                A Journey Full of Twists and Turns
-                                                Increases all stats of Flash cards by 35%.
-                                            
-                                            
-                                                Peach of Immorality
-                                                Increase score by 8% for 12 seconds.
-                                            
-                                            
-                                                Monsters and Animals
-                                                Slightly decreases the amount that Voltage lowers.
-                                            
-                                        
-                                    
-                                
-                            
-                        
-                    
-                
-            
-            
-                
-                    
-                        
-                        
-                        
-                            Preparations for Tianzhu
-                            1
-                            2
-                            3
-                            4
-                            5
-                            6
-                            7
-                            8
-                        
-                    
-                
-            
-        
-    
-
-
-    document.onreadystatechange = function () {
-            if (document.readyState == "complete") {
-            var e = document.getElementById("msr-preview");
-            e.remove();
-        }
-    };
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-      </categories>
-      <tags>
-        <tag>Story Index</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Dead End Land</title>
     <url>/tl/post/dead_end_land/</url>
     <content><![CDATA[
@@ -802,6 +406,402 @@
       </tags>
   </entry>
   <entry>
+    <title>Dramatica</title>
+    <url>/tl/post/dramatica/</url>
+    <content><![CDATA[
+    
+        
+        
+            
+                Dramatica
+                ドラマティカ
+                TBA
+            
+            
+                
+                    The theater company, Dramatica, is organizing their very first play. Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but... ➹
+                
+                
+                    
+                        
+                            Season
+                        
+                        
+                            Fall
+                        
+                    
+                    
+                        
+                            Chapters
+                        
+                        
+                            8
+                        
+                    
+                    
+                        
+                            Writer
+                        
+                        
+                            Yuumasu
+                        
+                    
+                    
+                        
+                            Characters
+                        
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                            Translator
+                        
+                        
+                            Ren
+                        
+                    
+                    
+                        
+                            Proofreaders
+                        
+                        
+                            En, TBA
+                        
+                    
+                
+            
+        
+    
+
+
+
+    .preview-wrapper {
+        display: none;
+    }
+    @media (max-width: 567px) {
+        .post-block {
+            padding: 5px 10px 8px !important;
+        }
+    }
+    :root {
+        --storyColor:#2550c2;
+        --storyColor-rgb:37,80,194;
+        --storyColor-h:223.6;
+        --storyColor-s:68%;
+        --storyColor-l:45.3%;
+    }
+
+
+    
+        
+        
+            
+                
+            
+            
+                Dramatica
+                ドラマティカ
+                
+                    TBA
+                
+            
+            
+                
+                    The theater company, Dramatica, is organizing their very first play. Wataru leaves the casting to Hokuto. Hokuto goes to Tomoya for advice, and decides to ask Shu to play Sanzang, but... ➹
+                
+                
+                    
+                        
+                            Season
+                        
+                        
+                            Fall
+                        
+                    
+                    
+                        
+                            Chapters
+                        
+                        
+                            8
+                        
+                    
+                    
+                        
+                            Writer
+                        
+                        
+                            Yuumasu
+                        
+                    
+                    
+                        
+                            Characters
+                        
+                        
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                            
+                        
+                    
+                    
+                        
+                            Translator
+                        
+                        
+                            Ren
+                        
+                    
+                    
+                        
+                            Proofreaders
+                        
+                        
+                            En, TBA
+                        
+                    
+                
+                
+                    
+                        Extra Information
+                    
+                    
+                        
+                            
+                                Gacha
+                            
+                            
+                                Scout! Dramatica
+                            
+                        
+                        
+                            
+                                Gacha Duration
+                            
+                            
+                                10/14/2021 (15:00 JST) - 10/30/2021 (15:00 JST)
+                            
+                        
+                    
+                
+                
+                    
+                        CG Gallery
+                    
+                    
+                        
+                            
+                                
+                                    
+                                
+                                
+                                    Preparations for Tianzhu (3)
+                                
+                            
+                            
+                                
+                                    
+                                
+                                
+                                    Preparations for Tianzhu (1)
+                                
+                            
+                        
+                    
+                
+                
+                    
+                        Associated Cards
+                    
+                    
+                        
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                
+                                
+                                    [Wukong In My Own Style] Hokuto Hidaka
+                                    [自分流の悟空] 氷鷹 北斗
+                                    
+                                        
+                                            
+                                                A Major Role
+                                                Increases all stats of Glitter cards by 50%.
+                                            
+                                            
+                                                Flying Nimbus Soaring through the Skies
+                                                Increases score by 40% for 5 seconds.
+                                            
+                                            
+                                                Casting Consultation
+                                                Turns one BAD/MISS into a GREAT.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                
+                                
+                                    [Aesthetic Wukong] Shu Itsuki
+                                    [美学の悟空] 斎宮 宗
+                                    
+                                        
+                                            
+                                                Unrestricted Change
+                                                Increases the Performance of Brilliant cards by 80%.
+                                            
+                                            
+                                                Magic Staff Under the Sea
+                                                Increases score by 26% for 8 seconds.
+                                            
+                                            
+                                                Piglets and Life
+                                                Increases the drop rate of small Yellow Pieces by 1.5.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                
+                                
+                                    [Surprising Wukong] Wataru Hibiki
+                                    [意外な悟空] 日々樹 渉
+                                    
+                                        
+                                            
+                                                An Unprecedented Career
+                                                Increases the Dance of Sparkle cards by 80%.
+                                            
+                                            
+                                                The Way of the Wizard
+                                                Increases score by 8% for 12 seconds.
+                                            
+                                            
+                                                Ready for the Play
+                                                Increases the drop rate of small Red Pieces by 1.3.
+                                            
+                                        
+                                    
+                                
+                            
+                            
+                                
+                                    
+                                        
+                                    
+                                    
+                                        
+                                    
+                                    
+                                
+                                
+                                    [Normal Wukong] Tomoya Mashiro
+                                    [普遍の悟空] 真白 友也
+                                    
+                                        
+                                            
+                                                A Journey Full of Twists and Turns
+                                                Increases all stats of Flash cards by 35%.
+                                            
+                                            
+                                                Peach of Immorality
+                                                Increase score by 8% for 12 seconds.
+                                            
+                                            
+                                                Monsters and Animals
+                                                Slightly decreases the amount that Voltage lowers.
+                                            
+                                        
+                                    
+                                
+                            
+                        
+                    
+                
+            
+            
+                
+                    
+                        
+                        
+                        
+                            Preparations for Tianzhu
+                            1
+                            2
+                            3
+                            4
+                            5
+                            6
+                            7
+                            8
+                        
+                    
+                
+            
+        
+    
+
+
+    document.onreadystatechange = function () {
+            if (document.readyState == "complete") {
+            var e = document.getElementById("msr-preview");
+            e.remove();
+        }
+    };
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+      </categories>
+      <tags>
+        <tag>Story Index</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Translation Guidelines</title>
     <url>/tl/post/guidelines/</url>
     <content><![CDATA[Guidelines
@@ -1183,8 +1183,8 @@ Translation Notes
       <categories>
         <category>Ensemble Stars</category>
         <category>Hajime Shino</category>
-        <category>Tomoya Mashiro</category>
         <category>Mitsuru Tenma</category>
+        <category>Tomoya Mashiro</category>
         <category>Nazuna Nito</category>
       </categories>
       <tags>
@@ -3126,169 +3126,6 @@ I guess it hurts just a bit... I wonder which pressure point it is? I&#39;m curi
       </tags>
   </entry>
   <entry>
-    <title>[Break Room] Are Three Heads Better Than One?</title>
-    <url>/tl/post/break_room/three_heads/</url>
-    <content><![CDATA[Riamu just wants some friends.
-I'll recreate the subbed video one day.
-Series: THE IDOLM@STER: Cinderella Girls
-Characters: Akari Tsujino, Akira Sunazuka, Riamu Yumemi
-TLC: Koi
-
-
-
-Sigh, I&#39;m depressed. Being an idol isn&#39;t fun at all.
-I knew it would suck, but...
-This is depressing. This is just fucking depressing!
-Aaah, I want someone to comfort me!
-To keep me company, to give me attention, to tell me everything&#39;s alright...
-I want it! I wanna be idolized!
-...But no one&#39;s ever going to idolize me or whatever.
-This break room&#39;s walls are the only friends I have!
-Aaah, I&#39;m sooo lonelyyyy!
-
-Akira-chan, here!
-This is the break room everyone&#39;s talking about!
-
-I see.
-#BreakRoom #AKA
-#GameRoom #FunTimesWithEveryone
-
-But I don&#39;t think this is a game room...
-Ah! It&#39;s Riamu-san!
-Riamu-saaan, good work out there!
-
-Good work.
-
-Eh!?!?
-...Huh? Is this a dream?
-Is someone calling me?
-Is this a dream...?
-
-......?
-
-......
-
-Why aren&#39;t you guys saying anything?!
-You&#39;re being awfully silent! It&#39;s suffocating!
-Can&#39;t you be a little bit nicer to me?
-
-Hmm... Ah!
-Riamu-san, thank you for performing with us in our last gig♪
-There were so many other idols!
-The city&#39;s amazing as well!
-It was quite enjoya-ple!
-What about you, Akira-chan?
-
-Well, that was the first time I had this feeling...
-Also, there were a lot of idols wearin&#39; good clothes...
-Lots of nice clothes.
-
-Ehh, it wasn&#39;t good enough for me.
-I wanna stand out and get a shit ton of attention...!
-
-Wow... Amazing, Riamu-san...
-You&#39;re really unique, and you have a nice dream too.
-I guess that&#39;s what being an idol is all about.
-
-I wouldn&#39;t say that her dream&#39;s that great...
-She definitely has personality, though.
-
-Ugh, I wonder if I can match up to you...
-I&#39;m not the type that stands out too much, y&#39;know?
-
-Alright then! Let&#39;s stir up some drama while we&#39;re at it!
-As long as we&#39;re together, we&#39;ll be fine!
-
-...Huh?
-
-No, no! You can&#39;t just start drama...!
-All the things you care about will go to waste!
-
-But there are so many other idols out there!
-If you don&#39;t stand out as much as possible, you won&#39;t survive!
-Hey, Riamu-chan wants to survive!
-
-Don&#39;t.
-Stirrin&#39; up drama will just cause trouble for the agency.
-Aren&#39;t there other ways you can think of to survive?
-
-I wanna stand out! With drama!
-Isn&#39;t starting drama mental?
-I wanna stand out as a joke!
-
-Eh...
-Riamu-san, why are you so problematic...?
-
-It&#39;s because I wanna stand out!
-Because I want people to care about me!
-Because I wanna get some attention, at least!
-
-If it&#39;s like that, then there should be another way.
-With drama, you&#39;d constantly have to worry about dealin&#39; with radical opinions.
-
-...So, I should just join the military.
-
-The military!? What the he—
-Ah, I mean, why?
-
-Because people in the military are really smart, obviously!
-Let&#39;s come up with some genius ideas that&#39;ll turn me into a cool officer character!
-I&#39;m 19, y&#39;know!?
-I want my juniors to rely on me!
-I wanna make you two happy!
-
-W-What should we do, Akira-chan?
-Riamu-san saying all of that isn&#39;t any good!
-
-Hey, both of you calm down.
-First off, it makes no sense to havin&#39; a panic attack here.
-Don&#39;t people relax here?
-
-T-That&#39;s right! Ahahahaha!
-I just started panicking all of a sudden!
-Uh... Hm... Eh...
-Ah!
-Why don&#39;t we get some ramen?
-
-Ramen?
-
-Let&#39;s go eat!
-Eating tasty food with friends always cheers me up!
-Cheer up, Riamu-san.
-Your problematic thoughts might go away!
-Besides, Tokyo&#39;s ramen always looked so trendy and delicious. I&#39;ve always wanted to try it...!
-
-Ah... In that case, I know a good place.
-It&#39;s from my hometown that just opened a Tokyo branch...
-But I guess that isn&#39;t really Tokyo ramen, huh.
-
-Aha♪ As long as it&#39;s good, it&#39;s OK!
-
-Eh, huh!? What the hell!?
-I&#39;m gonna eat ramen with someone...!?
-Is this a dream? A dream to end all dreams!?
-
-This is reality.
-
-Riamu-san, let&#39;s go as a grou-ple♪
-
-You&#39;re joking... You&#39;re seriously not joking...?
-Idols are so nice...
-I wuv nice idols...!
-
-]]></content>
-      <categories>
-        <category>THE IDOLM@STER: Cinderella Girls</category>
-        <category>Akari Tsujino</category>
-        <category>Akira Sunazuka</category>
-        <category>Riamu Yumemi</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Break Room</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Dead End Land: Dead End Street (1)</title>
     <url>/tl/post/dead_end_land/1/</url>
     <content><![CDATA[
@@ -3468,187 +3305,166 @@ Translation Notes
       </tags>
   </entry>
   <entry>
-    <title>Dead End Land: Dead End Street (3)</title>
-    <url>/tl/post/dead_end_land/3/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-                
-                    
-                    
-                    
-                    
-                
-    		
-			
-        		
-            		Writer
-        		
-        		
-            		Seitaro Kino
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Ren
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		Holi, Sheep
-        		
-    		
-		
-	
+    <title>[Break Room] Are Three Heads Better Than One?</title>
+    <url>/tl/post/break_room/three_heads/</url>
+    <content><![CDATA[Riamu just wants some friends.
+I'll recreate the subbed video one day.
+Series: THE IDOLM@STER: Cinderella Girls
+Characters: Akari Tsujino, Akira Sunazuka, Riamu Yumemi
+TLC: Koi
 
 
 
+Sigh, I&#39;m depressed. Being an idol isn&#39;t fun at all.
+I knew it would suck, but...
+This is depressing. This is just fucking depressing!
+Aaah, I want someone to comfort me!
+To keep me company, to give me attention, to tell me everything&#39;s alright...
+I want it! I wanna be idolized!
+...But no one&#39;s ever going to idolize me or whatever.
+This break room&#39;s walls are the only friends I have!
+Aaah, I&#39;m sooo lonelyyyy!
 
-    :root {
-	    --storyColor: #a24d8e;
-	    --storyColor-rgb: 162,77,142;
-	    --storyColor-h: 314.1;
-    	--storyColor-s: 35.6%;
-	    --storyColor-l: 46.9%;
-    }
+Akira-chan, here!
+This is the break room everyone&#39;s talking about!
 
+I see.
+#BreakRoom #AKA
+#GameRoom #FunTimesWithEveryone
 
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
+But I don&#39;t think this is a game room...
+Ah! It&#39;s Riamu-san!
+Riamu-saaan, good work out there!
 
-Season: Summer
-Location: Dead End Café
+Good work.
 
+Eh!?!?
+...Huh? Is this a dream?
+Is someone calling me?
+Is this a dream...?
 
-10 minutes later
+......?
 
-Alright, are the two from the Ninja Association finished changing?
-The grand opening event is soon, so apply your makeup quickly. If you&#39;re having trouble, I am willing to be of assistance♪
- I have plenty of experience as an actor, you know. So I can assist with your makeup...♪
+......
 
-Nah, you can&#39;t just do makeup—you can do pretty much anything.
+Why aren&#39;t you guys saying anything?!
+You&#39;re being awfully silent! It&#39;s suffocating!
+Can&#39;t you be a little bit nicer to me?
 
-I can&#39;t just do &quot;anything&quot;! For example, if I were thrown into a blast furnace, even I could only give a thumbs up before sinking.
+Hmm... Ah!
+Riamu-san, thank you for performing with us in our last gig♪
+There were so many other idols!
+The city&#39;s amazing as well!
+It was quite enjoya-ple!
+What about you, Akira-chan?
 
-That&#39;s such a weird scenario, though?
-Anyways... Don&#39;t be afraid to let me know if you&#39;re having trouble, Sengoku.
+Well, that was the first time I had this feeling...
+Also, there were a lot of idols wearin&#39; good clothes...
+Lots of nice clothes.
 
-Much obliged. Can you check if I have any stains on the back of my jacket, then?
+Ehh, it wasn&#39;t good enough for me.
+I wanna stand out and get a shit ton of attention...!
 
-Ah. If I coul—
+Wow... Amazing, Riamu-san...
+You&#39;re really unique, and you have a nice dream too.
+I guess that&#39;s what being an idol is all about.
 
-Oh my. It&#39;s quite rude to interrupt two friends talking, Mister Phantom.
- Let us leave them to themselves and talk about love! I have a feeling you and I are birds of a feather♪
+I wouldn&#39;t say that her dream&#39;s that great...
+She definitely has personality, though.
 
-Um... Huh...?
-(Scary! I don&#39;t get along too well with this person, but he keeps insisting on getting closer to me?)
+Ugh, I wonder if I can match up to you...
+I&#39;m not the type that stands out too much, y&#39;know?
 
-Tehehe. Please don&#39;t be afraid! As you are the phantom and I am the clown, don&#39;t we both wear a mask?
+Alright then! Let&#39;s stir up some drama while we&#39;re at it!
+As long as we&#39;re together, we&#39;ll be fine!
 
-W-Where on earth did that pigeon come from...!?
+...Huh?
 
-There aren&#39;t any tricks or gimmicks around here, tehe♪
+No, no! You can&#39;t just start drama...!
+All the things you care about will go to waste!
 
-Hey, what are you two doing? It&#39;s almost time for the grand opening, so please stop fooling around!
- Especially you, Hibiki-senpai! You&#39;re only here because Hokuto-senpai couldn&#39;t make it! Control yourself!
- You became a full-fledged member of society a long time ago. The academy clearly doesn&#39;t have your back anymore.
+But there are so many other idols out there!
+If you don&#39;t stand out as much as possible, you won&#39;t survive!
+Hey, Riamu-chan wants to survive!
 
-Ah, the good ol&#39; scolding...☆ However, the real world is far more selective than a school packed with a wide variety of people.
-Even impudent behavior can be shadowed with an impudent environment. That is particularly true in show business—a place out of the ordinary.
-In retrospect, aren&#39;t you still the same old Tomoya-kun? And I don&#39;t mean that in a bad way!
+Don&#39;t.
+Stirrin&#39; up drama will just cause trouble for the agency.
+Aren&#39;t there other ways you can think of to survive?
 
-You threw that at me so casually... I&#39;m hurt.
-I mean, just because you said it wasn&#39;t &quot;in a bad way&quot; doesn&#39;t mean you can just go say whatever the hell you please!
-Like, I was always told that I&#39;m too &quot;normal&quot; since childhood. Poppin&#39; Party1 would never happen if I was the same as before.
+I wanna stand out! With drama!
+Isn&#39;t starting drama mental?
+I wanna stand out as a joke!
 
-That&#39;s wonderful. You are raising the standards of what&#39;s &quot;normal&quot; in your own way~ It&#39;s a different approach from merely excelling in a single area, and I think it&#39;s commendable.
+Eh...
+Riamu-san, why are you so problematic...?
 
-Whatever you just said pisses me off... But that&#39;s just who you are.
-Sorry for getting carried away, Sengoku. You don&#39;t have any stains on your jacket from what I see.
+It&#39;s because I wanna stand out!
+Because I want people to care about me!
+Because I wanna get some attention, at least!
 
-That&#39;s a relief to hear. I finished applying my makeup, so I am all geared up.
+If it&#39;s like that, then there should be another way.
+With drama, you&#39;d constantly have to worry about dealin&#39; with radical opinions.
 
-Ooh, you&#39;re pretty good at this.
+...So, I should just join the military.
 
-Ryuseitai has done a lot of work in small venues, so I&#39;m rather skilled at getting myself ready.
- Though, I cannot cross-dress, unlike you all in the Drama Club.
+The military!? What the he—
+Ah, I mean, why?
 
-I-I&#39;m also done.
+Because people in the military are really smart, obviously!
+Let&#39;s come up with some genius ideas that&#39;ll turn me into a cool officer character!
+I&#39;m 19, y&#39;know!?
+I want my juniors to rely on me!
+I wanna make you two happy!
 
-You are all amazing at this! We must make haste now, Miss Anzu is waiting for us.
+W-What should we do, Akira-chan?
+Riamu-san saying all of that isn&#39;t any good!
 
-Oh, shoot. Is it almost time?
+Hey, both of you calm down.
+First off, it makes no sense to havin&#39; a panic attack here.
+Don&#39;t people relax here?
 
-I hear people discussing the sorts of routines we&#39;ll do over there.
+T-That&#39;s right! Ahahahaha!
+I just started panicking all of a sudden!
+Uh... Hm... Eh...
+Ah!
+Why don&#39;t we get some ramen?
 
-&quot;Routines&quot;...?
+Ramen?
 
-Correct. Since we are servers, there is practically no need for us to cook. One of those routines appears to be writing with white sauce2 in front of the customers.
+Let&#39;s go eat!
+Eating tasty food with friends always cheers me up!
+Cheer up, Riamu-san.
+Your problematic thoughts might go away!
+Besides, Tokyo&#39;s ramen always looked so trendy and delicious. I&#39;ve always wanted to try it...!
 
-It&#39;s like what maid cafés do, right? Where they go &quot;moe moe kyun☆&quot;3 while drawing hearts with ketchup?
+Ah... In that case, I know a good place.
+It&#39;s from my hometown that just opened a Tokyo branch...
+But I guess that isn&#39;t really Tokyo ramen, huh.
 
-Heheh. Good guess, Tomoya-kun! It&#39;s exactly what you say it is!
- As idols and actors, we are sure to be beautiful, graceful, and sometimes adorable! I am certain the customers will be pleased♪
-To show the others an example, please write &quot;LOVE&quot; in extra-large letters on my omurice...☆
+Aha♪ As long as it&#39;s good, it&#39;s OK!
 
-Ahaha. This is Dead End Café, so I&#39;ll be drawing a skull instead. Is that alright with you? ♪
+Eh, huh!? What the hell!?
+I&#39;m gonna eat ramen with someone...!?
+Is this a dream? A dream to end all dreams!?
 
-Oh my, even how you treat your superiors has changed~ Good grief, who taught you these manners?
+This is reality.
 
+Riamu-san, let&#39;s go as a grou-ple♪
 
-	
+You&#39;re joking... You&#39;re seriously not joking...?
+Idols are so nice...
+I wuv nice idols...!
 
-Translation Notes
-↑ &quot;Poppin' Party&quot; is the name of Nazuna's welcome back concert that took place in High Five!↑ Also known as béchamel sauce. Often used in omurice, but not really to &quot;write with&quot; unlike ketchup...↑ &quot;Moe moe kyun&quot; is an incantation to make food taste delicious. It can be localized as &quot;abracadabra&quot; or &quot;bibbidi bobbidi boo,&quot; but they don't give the same cutesy vibe. Popularized by K-On!]]></content>
+]]></content>
       <categories>
-        <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
-        <category>Wataru Hibiki</category>
-        <category>Mayoi Ayase</category>
-        <category>Shinobu Sengoku</category>
+        <category>THE IDOLM@STER: Cinderella Girls</category>
+        <category>Akari Tsujino</category>
+        <category>Akira Sunazuka</category>
+        <category>Riamu Yumemi</category>
       </categories>
       <tags>
         <tag>Narrative</tag>
-        <tag>Seitaro Kino</tag>
-        <tag>Gacha Story</tag>
+        <tag>Break Room</tag>
       </tags>
   </entry>
   <entry>
@@ -3872,8 +3688,192 @@ There&#39;s no need to be so scared of him. How he behaves may be a bit strange,
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
+        <category>Mayoi Ayase</category>
+        <category>Shinobu Sengoku</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Seitaro Kino</tag>
+        <tag>Gacha Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Dead End Land: Dead End Street (3)</title>
+    <url>/tl/post/dead_end_land/3/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+                
+                    
+                    
+                    
+                    
+                
+    		
+			
+        		
+            		Writer
+        		
+        		
+            		Seitaro Kino
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Ren
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		Holi, Sheep
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor: #a24d8e;
+	    --storyColor-rgb: 162,77,142;
+	    --storyColor-h: 314.1;
+    	--storyColor-s: 35.6%;
+	    --storyColor-l: 46.9%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Summer
+Location: Dead End Café
+
+
+10 minutes later
+
+Alright, are the two from the Ninja Association finished changing?
+The grand opening event is soon, so apply your makeup quickly. If you&#39;re having trouble, I am willing to be of assistance♪
+ I have plenty of experience as an actor, you know. So I can assist with your makeup...♪
+
+Nah, you can&#39;t just do makeup—you can do pretty much anything.
+
+I can&#39;t just do &quot;anything&quot;! For example, if I were thrown into a blast furnace, even I could only give a thumbs up before sinking.
+
+That&#39;s such a weird scenario, though?
+Anyways... Don&#39;t be afraid to let me know if you&#39;re having trouble, Sengoku.
+
+Much obliged. Can you check if I have any stains on the back of my jacket, then?
+
+Ah. If I coul—
+
+Oh my. It&#39;s quite rude to interrupt two friends talking, Mister Phantom.
+ Let us leave them to themselves and talk about love! I have a feeling you and I are birds of a feather♪
+
+Um... Huh...?
+(Scary! I don&#39;t get along too well with this person, but he keeps insisting on getting closer to me?)
+
+Tehehe. Please don&#39;t be afraid! As you are the phantom and I am the clown, don&#39;t we both wear a mask?
+
+W-Where on earth did that pigeon come from...!?
+
+There aren&#39;t any tricks or gimmicks around here, tehe♪
+
+Hey, what are you two doing? It&#39;s almost time for the grand opening, so please stop fooling around!
+ Especially you, Hibiki-senpai! You&#39;re only here because Hokuto-senpai couldn&#39;t make it! Control yourself!
+ You became a full-fledged member of society a long time ago. The academy clearly doesn&#39;t have your back anymore.
+
+Ah, the good ol&#39; scolding...☆ However, the real world is far more selective than a school packed with a wide variety of people.
+Even impudent behavior can be shadowed with an impudent environment. That is particularly true in show business—a place out of the ordinary.
+In retrospect, aren&#39;t you still the same old Tomoya-kun? And I don&#39;t mean that in a bad way!
+
+You threw that at me so casually... I&#39;m hurt.
+I mean, just because you said it wasn&#39;t &quot;in a bad way&quot; doesn&#39;t mean you can just go say whatever the hell you please!
+Like, I was always told that I&#39;m too &quot;normal&quot; since childhood. Poppin&#39; Party1 would never happen if I was the same as before.
+
+That&#39;s wonderful. You are raising the standards of what&#39;s &quot;normal&quot; in your own way~ It&#39;s a different approach from merely excelling in a single area, and I think it&#39;s commendable.
+
+Whatever you just said pisses me off... But that&#39;s just who you are.
+Sorry for getting carried away, Sengoku. You don&#39;t have any stains on your jacket from what I see.
+
+That&#39;s a relief to hear. I finished applying my makeup, so I am all geared up.
+
+Ooh, you&#39;re pretty good at this.
+
+Ryuseitai has done a lot of work in small venues, so I&#39;m rather skilled at getting myself ready.
+ Though, I cannot cross-dress, unlike you all in the Drama Club.
+
+I-I&#39;m also done.
+
+You are all amazing at this! We must make haste now, Miss Anzu is waiting for us.
+
+Oh, shoot. Is it almost time?
+
+I hear people discussing the sorts of routines we&#39;ll do over there.
+
+&quot;Routines&quot;...?
+
+Correct. Since we are servers, there is practically no need for us to cook. One of those routines appears to be writing with white sauce2 in front of the customers.
+
+It&#39;s like what maid cafés do, right? Where they go &quot;moe moe kyun☆&quot;3 while drawing hearts with ketchup?
+
+Heheh. Good guess, Tomoya-kun! It&#39;s exactly what you say it is!
+ As idols and actors, we are sure to be beautiful, graceful, and sometimes adorable! I am certain the customers will be pleased♪
+To show the others an example, please write &quot;LOVE&quot; in extra-large letters on my omurice...☆
+
+Ahaha. This is Dead End Café, so I&#39;ll be drawing a skull instead. Is that alright with you? ♪
+
+Oh my, even how you treat your superiors has changed~ Good grief, who taught you these manners?
+
+
+	
+
+Translation Notes
+↑ &quot;Poppin' Party&quot; is the name of Nazuna's welcome back concert that took place in High Five!↑ Also known as béchamel sauce. Often used in omurice, but not really to &quot;write with&quot; unlike ketchup...↑ &quot;Moe moe kyun&quot; is an incantation to make food taste delicious. It can be localized as &quot;abracadabra&quot; or &quot;bibbidi bobbidi boo,&quot; but they don't give the same cutesy vibe. Popularized by K-On!]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Mayoi Ayase</category>
         <category>Shinobu Sengoku</category>
       </categories>
@@ -4059,182 +4059,9 @@ I can handle the customers myself, so... Go help out in the kitchen, if you woul
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Mayoi Ayase</category>
-        <category>Shinobu Sengoku</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Seitaro Kino</tag>
-        <tag>Gacha Story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Dead End Land: Dead End Street (6)</title>
-    <url>/tl/post/dead_end_land/6/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-                
-                    
-                    
-                    
-                
-    		
-			
-        		
-            		Writer
-        		
-        		
-            		Seitaro Kino
-        		
-    		
-    		
-        		
-            		Translators
-        		
-        		
-            		Ren, Whisper
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		haranami, Holi, Sheep
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor: #a24d8e;
-	    --storyColor-rgb: 162,77,142;
-	    --storyColor-h: 314.1;
-    	--storyColor-s: 35.6%;
-	    --storyColor-l: 46.9%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
-
-Season: Summer
-Location: Saison Avenue
-
-
-One hour later
-
-He isn&#39;t here either... Just where on earth did Mayoi-dono disappear to?
- Anzu-dono, did you spot him on your end?
-Hm, so you caught neither hide nor hair of him. That&#39;s a problem... Mayoi-dono is very good at hiding, which can make it quite difficult for anyone searching for him.
-Oh, why are you pulling out your phone, Anzu-dono? Do you have some kind of secret strategy?
- I see... Since he&#39;s still wearing Dead End Café&#39;s uniform, perhaps people will be talking about him on social media?
-Interesting, this method didn&#39;t cross my mind at all!
- I am impressed indeed, Anzu-dono. I was so flustered that such an idea hadn&#39;t occurred to me.
-Alright, I&#39;ll do some searching on my phone as well!
- Keyword, keyword... Would something like &quot;ALKALOID&quot; work?
-Hmmm... I&#39;m not seeing anything. I suppose it isn&#39;t that easy. I&#39;ll try a different word...
-Oh? Did you find something, Anzu-dono?
-Oho... So you found something on a post that mentioned the department store on Saison Avenue. This photo...is certainly of Mayoi-dono, isn&#39;t it?
-Hm...? Why is he curled up on a bench? How strange.
-No, it won&#39;t do any good to make assumptions from the photo. I would like to ask Mayoi-dono himself for details. Let us head to the location in the photo immediately.
-That was an impressive feat, Anzu-dono. Perhaps it&#39;s much like the old saying: &quot;If you want to hide a tree, hide it within a forest&quot;... And if you want to hide a person, do so within a crowd.
-I have just noticed the multitude of &quot;eyes&quot;—phone cameras—pointed at him.
-It would be good if Mayoi-dono is unharmed despite all the gazes upon him, but...for some reason, I am incredibly concerned.
-
-Location: Dead End Café
-
-
-Welcome~♪
- Yes, the restaurant is full right now. Please put your name on the waiting list, and we&#39;ll call you when a table is available.
-&quot;How long will it take&quot;? Umm, I&#39;d say around 30 minutes. Apologies for the delay.
-(This is bad... It&#39;s impossible to keep up with everything when two of our servers are away...)
-(I wonder if this is too much for even Hibiki-senpai to handle...?)
-
-(Whispering) Tomoya-kun, Tomoya-kun.
-
-Yeah, what is it, Hibiki-senpai?
-
-I suddenly feel like putting on a show. Would you be so kind as to become my assistant and lend me a hand?
-
-Hah? Just when I thought you&#39;d say that...
-Generally speaking, if you were to do that, the table turnover would decrease.
-The people waiting outside would get mad and start filing complaints.
-
-That is precisely why I want to do it, Tomoya-kun! Please put aside common sense and think for yourself. Now, take a close look around the café...☆
-Although there are no empty seats, there is still an abundance of empty space within the café.
-We can therefore let everyone in and entertain them with a performance as they wait to be seated.
-Why don&#39;t we bet on the possibility that Sengoku-kun will arrive with Mister Phantom before the end of our show? The moment they return, we&#39;ll have enough hands to resolve this entire situation.
-
-Eh? Well, it is possible in theory. But...
-
-&quot;But&quot;? Now, Tomoya-kun, surely you can&#39;t be entertaining the possibility of failure?
-I&#39;m not too fond of boasting, but allow me to remind you that I am the best of the best—that I am one of the Five Eccentrics, Wataru Hibiki!
-I shan&#39;t perform for merely 30 minutes, but an hour—no, I could even do this for all eternity!
-Indeed, I could provide everyone with so much amazing, they forget the passing of time itself! ♪
-Or were you entertaining the possibility that Miss Anzu and the rest won&#39;t return in time? Oh dear, I don&#39;t recall raising such a heartless child.
-
-Since when did I ever see you as my dad!?
-...Fine. Whatever. I&#39;ll go along with your plans, if you insist.
-After all, I believe that they&#39;ll come back as well.
-
-Splendid! I knew you would say that♪
-Now then, Tomoya-kun, please let everyone in at once! We shall make all of them have the time of their lives—it&#39;s showtime! ♪
-
-God, you truly are a natural-born entertainer, huh?
-Go break a leg, Hibiki-senpai! You better apologize if this show of yours fails!
-
-Hehehe. If it came to that, I&#39;d give you permission to boil or burn me, to reprobate me in any way you&#39;d see fit. But fear not, I&#39;d sooner perish than allow such mistakes to occur...
-Though, I&#39;m already dead right now♪
-Ladies and gentlemen, boys and girls—come one, come all! The dead man&#39;s act is about to begin! All payments can be made later on♪
-Welcome to Dead End Café&#39;s surprise grand opening show! Brought to you by the passerby street performer, your very own Wataru Hibiki...☆
-
-
-	
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
-        <category>Wataru Hibiki</category>
         <category>Shinobu Sengoku</category>
       </categories>
       <tags>
@@ -4430,9 +4257,182 @@ Translation Notes
 ↑ Mayoi used &quot;お花を摘みに行く&quot; (lit. to go flower picking) when he talked to Tomoya. It's a feminine way to say &quot;I'm going to use the restroom&quot; without specifying the location and act. The more masculine version is &quot;キジ撃ち&quot; (lit. shooting pheasants).]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Mayoi Ayase</category>
+        <category>Shinobu Sengoku</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Seitaro Kino</tag>
+        <tag>Gacha Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Dead End Land: Dead End Street (6)</title>
+    <url>/tl/post/dead_end_land/6/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+                
+                    
+                    
+                    
+                
+    		
+			
+        		
+            		Writer
+        		
+        		
+            		Seitaro Kino
+        		
+    		
+    		
+        		
+            		Translators
+        		
+        		
+            		Ren, Whisper
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		haranami, Holi, Sheep
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor: #a24d8e;
+	    --storyColor-rgb: 162,77,142;
+	    --storyColor-h: 314.1;
+    	--storyColor-s: 35.6%;
+	    --storyColor-l: 46.9%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Summer
+Location: Saison Avenue
+
+
+One hour later
+
+He isn&#39;t here either... Just where on earth did Mayoi-dono disappear to?
+ Anzu-dono, did you spot him on your end?
+Hm, so you caught neither hide nor hair of him. That&#39;s a problem... Mayoi-dono is very good at hiding, which can make it quite difficult for anyone searching for him.
+Oh, why are you pulling out your phone, Anzu-dono? Do you have some kind of secret strategy?
+ I see... Since he&#39;s still wearing Dead End Café&#39;s uniform, perhaps people will be talking about him on social media?
+Interesting, this method didn&#39;t cross my mind at all!
+ I am impressed indeed, Anzu-dono. I was so flustered that such an idea hadn&#39;t occurred to me.
+Alright, I&#39;ll do some searching on my phone as well!
+ Keyword, keyword... Would something like &quot;ALKALOID&quot; work?
+Hmmm... I&#39;m not seeing anything. I suppose it isn&#39;t that easy. I&#39;ll try a different word...
+Oh? Did you find something, Anzu-dono?
+Oho... So you found something on a post that mentioned the department store on Saison Avenue. This photo...is certainly of Mayoi-dono, isn&#39;t it?
+Hm...? Why is he curled up on a bench? How strange.
+No, it won&#39;t do any good to make assumptions from the photo. I would like to ask Mayoi-dono himself for details. Let us head to the location in the photo immediately.
+That was an impressive feat, Anzu-dono. Perhaps it&#39;s much like the old saying: &quot;If you want to hide a tree, hide it within a forest&quot;... And if you want to hide a person, do so within a crowd.
+I have just noticed the multitude of &quot;eyes&quot;—phone cameras—pointed at him.
+It would be good if Mayoi-dono is unharmed despite all the gazes upon him, but...for some reason, I am incredibly concerned.
+
+Location: Dead End Café
+
+
+Welcome~♪
+ Yes, the restaurant is full right now. Please put your name on the waiting list, and we&#39;ll call you when a table is available.
+&quot;How long will it take&quot;? Umm, I&#39;d say around 30 minutes. Apologies for the delay.
+(This is bad... It&#39;s impossible to keep up with everything when two of our servers are away...)
+(I wonder if this is too much for even Hibiki-senpai to handle...?)
+
+(Whispering) Tomoya-kun, Tomoya-kun.
+
+Yeah, what is it, Hibiki-senpai?
+
+I suddenly feel like putting on a show. Would you be so kind as to become my assistant and lend me a hand?
+
+Hah? Just when I thought you&#39;d say that...
+Generally speaking, if you were to do that, the table turnover would decrease.
+The people waiting outside would get mad and start filing complaints.
+
+That is precisely why I want to do it, Tomoya-kun! Please put aside common sense and think for yourself. Now, take a close look around the café...☆
+Although there are no empty seats, there is still an abundance of empty space within the café.
+We can therefore let everyone in and entertain them with a performance as they wait to be seated.
+Why don&#39;t we bet on the possibility that Sengoku-kun will arrive with Mister Phantom before the end of our show? The moment they return, we&#39;ll have enough hands to resolve this entire situation.
+
+Eh? Well, it is possible in theory. But...
+
+&quot;But&quot;? Now, Tomoya-kun, surely you can&#39;t be entertaining the possibility of failure?
+I&#39;m not too fond of boasting, but allow me to remind you that I am the best of the best—that I am one of the Five Eccentrics, Wataru Hibiki!
+I shan&#39;t perform for merely 30 minutes, but an hour—no, I could even do this for all eternity!
+Indeed, I could provide everyone with so much amazing, they forget the passing of time itself! ♪
+Or were you entertaining the possibility that Miss Anzu and the rest won&#39;t return in time? Oh dear, I don&#39;t recall raising such a heartless child.
+
+Since when did I ever see you as my dad!?
+...Fine. Whatever. I&#39;ll go along with your plans, if you insist.
+After all, I believe that they&#39;ll come back as well.
+
+Splendid! I knew you would say that♪
+Now then, Tomoya-kun, please let everyone in at once! We shall make all of them have the time of their lives—it&#39;s showtime! ♪
+
+God, you truly are a natural-born entertainer, huh?
+Go break a leg, Hibiki-senpai! You better apologize if this show of yours fails!
+
+Hehehe. If it came to that, I&#39;d give you permission to boil or burn me, to reprobate me in any way you&#39;d see fit. But fear not, I&#39;d sooner perish than allow such mistakes to occur...
+Though, I&#39;m already dead right now♪
+Ladies and gentlemen, boys and girls—come one, come all! The dead man&#39;s act is about to begin! All payments can be made later on♪
+Welcome to Dead End Café&#39;s surprise grand opening show! Brought to you by the passerby street performer, your very own Wataru Hibiki...☆
+
+
+	
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Shinobu Sengoku</category>
       </categories>
       <tags>
@@ -4639,177 +4639,8 @@ A &quot;projectile&quot; is an actor who surprises their audience with how they 
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
-        <category>Mayoi Ayase</category>
-        <category>Shinobu Sengoku</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Seitaro Kino</tag>
-        <tag>Gacha Story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Dead End Land: Epilogue (2)</title>
-    <url>/tl/post/dead_end_land/9/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-                
-                    
-                    
-                    
-                    
-                
-    		
-			
-        		
-            		Writer
-        		
-        		
-            		Seitaro Kino
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Whisper
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		haranami, Holi
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor: #a24d8e;
-	    --storyColor-rgb: 162,77,142;
-	    --storyColor-h: 314.1;
-    	--storyColor-s: 35.6%;
-	    --storyColor-l: 46.9%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-	
-
-Season: Summer
-Location: Dead End Café
-
-
-After closing hours
-
-Tomoya-kun, what incredible moxie! You had such amazing reactions☆
-
-Ugh, I&#39;m seriously exhausted...
-I was genuinely terrified! It doesn&#39;t matter how much of it was just &quot;magic,&quot; I really thought I was gonna have a heart attack!
-
-Hm~ It was because of your dedication to the show that all the customers were able to enjoy it to the fullest, though!
- And so, due to the disorder in the restaurant turning into excitement, we were able to have an extremely satisfying opening event!
-It was certainly a performance befitting Dead End Café♪
-
-Could you not involve me in such a dangerous act without letting me know first!?
- You might&#39;ve just been pretending to debate with yourself on whether you&#39;d actually shove that sword right through me or not, but I seriously thought I was gonna die!
-
-Hehehe. If we are to deceive an audience, it simply must be from atop a stage...♪
-
-You can&#39;t pull one over on me by trying to say it like it&#39;s some proverb, okay!?
-
-Um...
-
-Whoa!? Were you here the whole time, Ayase-senpai? I didn&#39;t notice you at all!
-
-Ah, I-I&#39;m sorry for not having much of a presence... Um, as you requested earlier, I prepared some food for the staff; would you like to have some...?
- No, right, you wouldn&#39;t want to go out of your way and eat food that I made, would you!?
-
-Of course I would. Are you having any, Hibiki-senpai?
-
-Certainly~ I am, as one would expect from our series of performances, quite hungry. I will accept with great gratitude.
-
-Ahaha. I shall partake in this meal as well♪ You know, Mayoi-dono is so skillful that he was able to master any dish after only reading the menu~
- This recipe for omurice that he adapted from it is his specialty... I absolutely couldn&#39;t wait to try it♪
-
-Things really do turn out well if you just put the right people in the right jobs, huh?
-
-The show must go on... On stage, whatever will be, will be.
- It is simply inevitable that you will be involved in such predicaments when performing, Tomoya-kun♪
-
-Uh, no. Don&#39;t try to justify your actions from earlier.
-
-F-Feel free to have some as well, Miss Producer... I caused you a great deal of trouble, so at least allow me to treat you to this as an apology...
- I-I hope I&#39;m not being too pushy... Ah, you&#39;re hungry, so you&#39;d be happy to have some? Here you are, then.
-
-
-I put all my effort into making this. It&#39;s my special omurice.
- Here you go, please enjoy your meal...♪
- Ufufu, I&#39;m so glad... Just watching everyone eat the food I made is enough to save my soul.
- But I truly did a terrible thing to you all... Because of this mess, becoming the Ninja Club feels like a distant dream, and the road ahead is but a long and precipitous path.
-
-And it is fine that way. All&#39;s well that ends well—to travel an even, paved road is unlike a ninja to do.
- The manager looks grateful as well. Though they wondered whether things would turn out all right, this became a good opportunity for publicity, and it seems they had fun, too.
-
-Hehehe. They&#39;ve nerves of steel.
- I suppose that if they didn’t, they wouldn&#39;t be managing a café as odd as this one.
-
-I see. Certainly, to have those that take the stage―or rather, ninjas―manage an event is an eccentric idea to have, but...
- The manager also seems to think that things should be done that way, don&#39;t they?
-Surprisingly, I have been told that we may be requested to come back and work here again in the near future. It didn&#39;t sound like they were just saying it to be polite.
-
-R-Really...?
- If that’s the case, I&#39;m glad to hear it...♪
- Though the existence of idols atop a glittering stage has changed my life...
- I told myself that it would be better for me to return to the darkness.
- But it would be tactless of me to say that to the Ninja Association… No, to you all.
- If someone, somewhere out there ever requires our aid, we will rush to wherever they may be. That is what we, as the Ninja Association, do—
- ...Right, Chief? ♪
-
-
-	
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
         <category>Tomoya Mashiro</category>
-        <category>Wataru Hibiki</category>
         <category>Mayoi Ayase</category>
         <category>Shinobu Sengoku</category>
       </categories>
@@ -5006,8 +4837,177 @@ Translation Notes
 ↑ A reference to Shinobu saying this phrase to Mayoi in Motor Show. Referring to the &quot;stay&quot; command one says to dogs.]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
+        <category>Mayoi Ayase</category>
+        <category>Shinobu Sengoku</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Seitaro Kino</tag>
+        <tag>Gacha Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Dead End Land: Epilogue (2)</title>
+    <url>/tl/post/dead_end_land/9/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+                
+                    
+                    
+                    
+                    
+                
+    		
+			
+        		
+            		Writer
+        		
+        		
+            		Seitaro Kino
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Whisper
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		haranami, Holi
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor: #a24d8e;
+	    --storyColor-rgb: 162,77,142;
+	    --storyColor-h: 314.1;
+    	--storyColor-s: 35.6%;
+	    --storyColor-l: 46.9%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+	
+
+Season: Summer
+Location: Dead End Café
+
+
+After closing hours
+
+Tomoya-kun, what incredible moxie! You had such amazing reactions☆
+
+Ugh, I&#39;m seriously exhausted...
+I was genuinely terrified! It doesn&#39;t matter how much of it was just &quot;magic,&quot; I really thought I was gonna have a heart attack!
+
+Hm~ It was because of your dedication to the show that all the customers were able to enjoy it to the fullest, though!
+ And so, due to the disorder in the restaurant turning into excitement, we were able to have an extremely satisfying opening event!
+It was certainly a performance befitting Dead End Café♪
+
+Could you not involve me in such a dangerous act without letting me know first!?
+ You might&#39;ve just been pretending to debate with yourself on whether you&#39;d actually shove that sword right through me or not, but I seriously thought I was gonna die!
+
+Hehehe. If we are to deceive an audience, it simply must be from atop a stage...♪
+
+You can&#39;t pull one over on me by trying to say it like it&#39;s some proverb, okay!?
+
+Um...
+
+Whoa!? Were you here the whole time, Ayase-senpai? I didn&#39;t notice you at all!
+
+Ah, I-I&#39;m sorry for not having much of a presence... Um, as you requested earlier, I prepared some food for the staff; would you like to have some...?
+ No, right, you wouldn&#39;t want to go out of your way and eat food that I made, would you!?
+
+Of course I would. Are you having any, Hibiki-senpai?
+
+Certainly~ I am, as one would expect from our series of performances, quite hungry. I will accept with great gratitude.
+
+Ahaha. I shall partake in this meal as well♪ You know, Mayoi-dono is so skillful that he was able to master any dish after only reading the menu~
+ This recipe for omurice that he adapted from it is his specialty... I absolutely couldn&#39;t wait to try it♪
+
+Things really do turn out well if you just put the right people in the right jobs, huh?
+
+The show must go on... On stage, whatever will be, will be.
+ It is simply inevitable that you will be involved in such predicaments when performing, Tomoya-kun♪
+
+Uh, no. Don&#39;t try to justify your actions from earlier.
+
+F-Feel free to have some as well, Miss Producer... I caused you a great deal of trouble, so at least allow me to treat you to this as an apology...
+ I-I hope I&#39;m not being too pushy... Ah, you&#39;re hungry, so you&#39;d be happy to have some? Here you are, then.
+
+
+I put all my effort into making this. It&#39;s my special omurice.
+ Here you go, please enjoy your meal...♪
+ Ufufu, I&#39;m so glad... Just watching everyone eat the food I made is enough to save my soul.
+ But I truly did a terrible thing to you all... Because of this mess, becoming the Ninja Club feels like a distant dream, and the road ahead is but a long and precipitous path.
+
+And it is fine that way. All&#39;s well that ends well—to travel an even, paved road is unlike a ninja to do.
+ The manager looks grateful as well. Though they wondered whether things would turn out all right, this became a good opportunity for publicity, and it seems they had fun, too.
+
+Hehehe. They&#39;ve nerves of steel.
+ I suppose that if they didn’t, they wouldn&#39;t be managing a café as odd as this one.
+
+I see. Certainly, to have those that take the stage―or rather, ninjas―manage an event is an eccentric idea to have, but...
+ The manager also seems to think that things should be done that way, don&#39;t they?
+Surprisingly, I have been told that we may be requested to come back and work here again in the near future. It didn&#39;t sound like they were just saying it to be polite.
+
+R-Really...?
+ If that’s the case, I&#39;m glad to hear it...♪
+ Though the existence of idols atop a glittering stage has changed my life...
+ I told myself that it would be better for me to return to the darkness.
+ But it would be tactless of me to say that to the Ninja Association… No, to you all.
+ If someone, somewhere out there ever requires our aid, we will rush to wherever they may be. That is what we, as the Ninja Association, do—
+ ...Right, Chief? ♪
+
+
+	
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Mayoi Ayase</category>
         <category>Shinobu Sengoku</category>
       </categories>
@@ -5292,13 +5292,201 @@ Are you trying to piss me off?
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
         <tag>Narrative</tag>
         <tag>Akira</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>RELOADED: Idol of the Dead (1)</title>
+    <url>/tl/post/reloaded/1/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+                
+                    
+                    
+                    
+                    
+                
+    		
+			
+        		
+            		Writer
+        		
+        		
+            		Akira
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		moricchiichan
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		allegiantheart, nazunyan427, Ren
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor: #d16752;
+	    --storyColor-rgb: 209,103,82;
+	    --storyColor-h: 9.9;
+    	--storyColor-s: 58%;
+	    --storyColor-l: 57.1%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Summer
+Location: Seisou Hall Kitchen
+
+
+Early September, Seisou Hall
+
+...now, let&#39;s &quot;talk&quot; about &quot;dinosaurs&quot;.
+
+Why dinosaurs...? We&#39;re in the middle of talking about how to split the Creature Clubs&#39; budgets right now—don&#39;t change the subject!
+
+sadly, the &quot;dinosaurs&quot; have all gone &quot;extinct&quot;.
+
+Okay then, so you basically don&#39;t intend to listen to a word I say.
+
+there was a dramatic &quot;change&quot; in the &quot;environment&quot;, caused by a &quot;meteorite&quot; colliding into the earth.
+ it&#39;s said that the &quot;dinosaurs&quot; all died out because they couldn&#39;t overcome that change.
+
+Oh, yeah~ I&#39;ve heard of that. The meteorite made dust cover the entire sky, blocking out the sun and causing the Earth to freeze over.
+ Since most dinosaurs were cold-blooded, they couldn&#39;t move around in the cold, so they couldn&#39;t hunt for food and eventually starved to death, right?
+ But mammals were fine with the cold, because they had fur to keep them warm... or something like that.
+
+you&#39;re so knowledgeable, nazuna.
+
+Nah, I&#39;m just saying what I remember off the top of my head.
+More importantly, I can&#39;t see where this discussion is going. What&#39;re you trying to say? What do dinosaurs have to do with how we split the dorm circles&#39; budget?
+
+fufu. kids these days always want to jump to a &quot;conclusion&quot;.
+
+We&#39;re the same age, though~ Don&#39;t start talking like Rei-chin.
+If you&#39;re saying something weirdly cryptic to confuse me and make me agree with you, it&#39;s not gonna work.
+ As the representative of Creature Club: Animals, I won&#39;t budge.
+ In fact, we could have all the money in the world and it still wouldn&#39;t be enough, y&#39;know~ In contrast, you guys at Oceans don&#39;t need much money at all, right?
+
+whose money do you think is used to &quot;purchase&quot; the &quot;fish&quot; and other seafood we eat every day here at &quot;seisou hall&quot;?
+
+Wait, you mean you guys were the ones purchasing the fish we eat at the dorms?
+
+no, the actual purchasing is done by &quot;suppliers&quot;.
+ but the &quot;decision&quot; of which &quot;fish&quot; to &quot;buy&quot; is left to us at &quot;oceans&quot;.
+also, if we saw any decrease in our &quot;budget allocation&quot;, it would become more difficult to buy more &quot;tanks&quot; for the dorms.
+ if that happens, i would be in a worse &quot;mood&quot;, and the &quot;quality&quot; of &quot;fish&quot; we purchase would drop. are you sure you want that?
+
+So it&#39;s a matter of your mood!? We&#39;re talking money right now!
+ The Creature Clubs get their budgets from ES under the premise that it&#39;s used for things like the dorms&#39; pet expenses.
+ Don&#39;t go wasting it on vague stuff like putting yourself in a better mood or something.
+
+what i&#39;m saying is that using all the &quot;budget&quot; on &quot;land animals&quot; is &quot;unfair&quot;.
+ &quot;seisou hall&quot; is very lacking in &quot;moisture&quot; right now, because none of the &quot;budget&quot; is given to us.
+ &quot;fish&quot; have &quot;existed&quot; since ancient times long ago, and have survived that which killed the &quot;dinosaurs&quot;...
+ they&#39;re the &quot;great elders&quot; of this planet. can&#39;t you show them some more &quot;respect&quot;?
+
+I&#39;m not looking down on fish or anything. But we don&#39;t need to go as far as cutting down on pet expenses, which are absolutely necessary, just to get more tanks to keep fish in.
+
+the &quot;creature clubs&quot; get a &quot;lot more&quot; money in their &quot;budget&quot; than necessary...
+so i&#39;m asking if &quot;oceans&quot; can get even just a little bit more of it.
+
+No means no! I can&#39;t give you guys what we don&#39;t have, and the current budget split is just fine!
+
+ehh~? that&#39;s unfair! that&#39;s favoritism! does having a &quot;fur pelt&quot; really make you so much more &quot;important&quot;?
+
+Hmmm~? But we do need to save up extra money, just in case someone&#39;s pet gets sick or something...
+...!?
+
+mn? what&#39;s the matter, nazuna?
+ please don&#39;t make that &quot;face&quot;. i got &quot;worked up&quot; and reacted a little too &quot;harshly&quot;, okay? i&#39;m sorry.
+
+O-Oh, no, that&#39;s okay, I understand how you feel, Kanata-chin. But that&#39;s not—just, leave that for later and look! Look, over there!
+
+look at what...?
+
+Location: Seisou Hall - First Floor Hallway
+
+
+......
+
+......
+
+Location: Seisou Hall Kitchen
+
+
+...? that&#39;s someone from &quot;oceans&quot;—
+the lover of &quot;shrimp&quot;, izumi.
+
+Yeah, and our Tomo-chin is there too. What are they doing? They&#39;re walking so close to each other...
+
+yes, as if they&#39;re a &quot;couple&quot;~♪
+
+Yeah, you&#39;re right—they&#39;re being kinda weird, huh!? C-Could it be that... that Izumi-chin isn&#39;t satisfied with just Mako-chin, and now he&#39;s subjecting Tomo-chin to his torment?
+
+
+	
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Tomoya Mashiro</category>
+        <category>Nazuna Nito</category>
+        <category>Izumi Sena</category>
+        <category>Kanata Shinkai</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Akira</tag>
+        <tag>Gacha Story</tag>
       </tags>
   </entry>
   <entry>
@@ -5643,194 +5831,6 @@ Ow, ow, ow!? The handcuffs are chafing my wrist! Will you please just calm down,
       </tags>
   </entry>
   <entry>
-    <title>RELOADED: Idol of the Dead (1)</title>
-    <url>/tl/post/reloaded/1/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-                
-                    
-                    
-                    
-                    
-                
-    		
-			
-        		
-            		Writer
-        		
-        		
-            		Akira
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		moricchiichan
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		allegiantheart, nazunyan427, Ren
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor: #d16752;
-	    --storyColor-rgb: 209,103,82;
-	    --storyColor-h: 9.9;
-    	--storyColor-s: 58%;
-	    --storyColor-l: 57.1%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
-
-Season: Summer
-Location: Seisou Hall Kitchen
-
-
-Early September, Seisou Hall
-
-...now, let&#39;s &quot;talk&quot; about &quot;dinosaurs&quot;.
-
-Why dinosaurs...? We&#39;re in the middle of talking about how to split the Creature Clubs&#39; budgets right now—don&#39;t change the subject!
-
-sadly, the &quot;dinosaurs&quot; have all gone &quot;extinct&quot;.
-
-Okay then, so you basically don&#39;t intend to listen to a word I say.
-
-there was a dramatic &quot;change&quot; in the &quot;environment&quot;, caused by a &quot;meteorite&quot; colliding into the earth.
- it&#39;s said that the &quot;dinosaurs&quot; all died out because they couldn&#39;t overcome that change.
-
-Oh, yeah~ I&#39;ve heard of that. The meteorite made dust cover the entire sky, blocking out the sun and causing the Earth to freeze over.
- Since most dinosaurs were cold-blooded, they couldn&#39;t move around in the cold, so they couldn&#39;t hunt for food and eventually starved to death, right?
- But mammals were fine with the cold, because they had fur to keep them warm... or something like that.
-
-you&#39;re so knowledgeable, nazuna.
-
-Nah, I&#39;m just saying what I remember off the top of my head.
-More importantly, I can&#39;t see where this discussion is going. What&#39;re you trying to say? What do dinosaurs have to do with how we split the dorm circles&#39; budget?
-
-fufu. kids these days always want to jump to a &quot;conclusion&quot;.
-
-We&#39;re the same age, though~ Don&#39;t start talking like Rei-chin.
-If you&#39;re saying something weirdly cryptic to confuse me and make me agree with you, it&#39;s not gonna work.
- As the representative of Creature Club: Animals, I won&#39;t budge.
- In fact, we could have all the money in the world and it still wouldn&#39;t be enough, y&#39;know~ In contrast, you guys at Oceans don&#39;t need much money at all, right?
-
-whose money do you think is used to &quot;purchase&quot; the &quot;fish&quot; and other seafood we eat every day here at &quot;seisou hall&quot;?
-
-Wait, you mean you guys were the ones purchasing the fish we eat at the dorms?
-
-no, the actual purchasing is done by &quot;suppliers&quot;.
- but the &quot;decision&quot; of which &quot;fish&quot; to &quot;buy&quot; is left to us at &quot;oceans&quot;.
-also, if we saw any decrease in our &quot;budget allocation&quot;, it would become more difficult to buy more &quot;tanks&quot; for the dorms.
- if that happens, i would be in a worse &quot;mood&quot;, and the &quot;quality&quot; of &quot;fish&quot; we purchase would drop. are you sure you want that?
-
-So it&#39;s a matter of your mood!? We&#39;re talking money right now!
- The Creature Clubs get their budgets from ES under the premise that it&#39;s used for things like the dorms&#39; pet expenses.
- Don&#39;t go wasting it on vague stuff like putting yourself in a better mood or something.
-
-what i&#39;m saying is that using all the &quot;budget&quot; on &quot;land animals&quot; is &quot;unfair&quot;.
- &quot;seisou hall&quot; is very lacking in &quot;moisture&quot; right now, because none of the &quot;budget&quot; is given to us.
- &quot;fish&quot; have &quot;existed&quot; since ancient times long ago, and have survived that which killed the &quot;dinosaurs&quot;...
- they&#39;re the &quot;great elders&quot; of this planet. can&#39;t you show them some more &quot;respect&quot;?
-
-I&#39;m not looking down on fish or anything. But we don&#39;t need to go as far as cutting down on pet expenses, which are absolutely necessary, just to get more tanks to keep fish in.
-
-the &quot;creature clubs&quot; get a &quot;lot more&quot; money in their &quot;budget&quot; than necessary...
-so i&#39;m asking if &quot;oceans&quot; can get even just a little bit more of it.
-
-No means no! I can&#39;t give you guys what we don&#39;t have, and the current budget split is just fine!
-
-ehh~? that&#39;s unfair! that&#39;s favoritism! does having a &quot;fur pelt&quot; really make you so much more &quot;important&quot;?
-
-Hmmm~? But we do need to save up extra money, just in case someone&#39;s pet gets sick or something...
-...!?
-
-mn? what&#39;s the matter, nazuna?
- please don&#39;t make that &quot;face&quot;. i got &quot;worked up&quot; and reacted a little too &quot;harshly&quot;, okay? i&#39;m sorry.
-
-O-Oh, no, that&#39;s okay, I understand how you feel, Kanata-chin. But that&#39;s not—just, leave that for later and look! Look, over there!
-
-look at what...?
-
-Location: Seisou Hall - First Floor Hallway
-
-
-......
-
-......
-
-Location: Seisou Hall Kitchen
-
-
-...? that&#39;s someone from &quot;oceans&quot;—
-the lover of &quot;shrimp&quot;, izumi.
-
-Yeah, and our Tomo-chin is there too. What are they doing? They&#39;re walking so close to each other...
-
-yes, as if they&#39;re a &quot;couple&quot;~♪
-
-Yeah, you&#39;re right—they&#39;re being kinda weird, huh!? C-Could it be that... that Izumi-chin isn&#39;t satisfied with just Mako-chin, and now he&#39;s subjecting Tomo-chin to his torment?
-
-
-	
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
-        <category>Nazuna Nito</category>
-        <category>Izumi Sena</category>
-        <category>Kanata Shinkai</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Akira</tag>
-        <tag>Gacha Story</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>RELOADED: Idol of the Dead (3)</title>
     <url>/tl/post/reloaded/3/</url>
     <content><![CDATA[
@@ -6011,8 +6011,8 @@ Even though considering my current abilities, or lack thereof, that probably sou
       </tags>
   </entry>
   <entry>
-    <title>RELOADED: Idol of the Dead (5)</title>
-    <url>/tl/post/reloaded/5/</url>
+    <title>RELOADED: Idol of the Dead (4)</title>
+    <url>/tl/post/reloaded/4/</url>
     <content><![CDATA[
 	
 		
@@ -6021,8 +6021,8 @@ Even though considering my current abilities, or lack thereof, that probably sou
             		Characters
         		
                 
-                
-                
+                    
+                    
                 
     		
 			
@@ -6096,93 +6096,80 @@ Even though considering my current abilities, or lack thereof, that probably sou
 	
 
 Season: Summer
-Location: Ensemble Square - Emergency Stairs
+Location: Drink Stand
 
 
-We return to the day of The Abduction Of Tomoya Mashiro ft. Izumi Sena
+......
 
-After that, for some reason, you ended up lending me a hand, Sena-senpai.
-You stood in as a member of the audience, and I practiced some magic in front of you.
+...Sena-senpai? Were you even listening to me?
 
-Yeah. That&#39;s one of the fundamentals of any craft, be it magic, idol work, modeling, or whatever else.
-When you hole yourself up and practice something alone, you develop bad habits—which ends up rendering all the time you spent not just pointless, but outright harmful.
-When it comes to improving, what you need is someone to scrutinize and evaluate your performance, and then offer you the guidance to proceed in the right direction.
-I just happened to have slightly more free time than I know what to do with, and I have excellent taste no matter the field, so I was perfect for the job! ♪
+Huh? Oh, were you talking to me?
 
-Ughh... You sounded so sure of yourself and weirdly confident that I just took you at your word, without so much as a second thought.
-I was even about to completely reevaluate my opinion of you. Like, &quot;Wow, maybe Sena-senpai&#39;s actually pretty kind~♪&quot;
+Who else would I be talking to? There&#39;s no one else here! Besides, weren&#39;t you the one who started the conversation~?
 
-What do you mean &quot;maybe&quot;? I&#39;m always kind, aren&#39;t I? Did you forget all those times I had your back last year!?
+But it&#39;s not like you and I are close enough to talk about things like this in the first place, To-mo-ya-kun.
+If you need an agony aunt to pour your heart out to, you should be going to Hibiki or Nazunyan.
+I happen to be extremely busy picking out a delicious beverage in order to appease even a smidgeon of my irritation.
+Idols can take any of these drinks for free, right?
 
-No, uh. This is kind of hard to say but, basically all you did was criticize me, Sena-senpai. I don&#39;t remember you giving me any real guidance or support.
+Oh, yes. That sounds right. You can drink as much as you want free of charge, but as a result none of the drinks here are particularly good.
 
-Excuse me? Criticism is essential, isn&#39;t it? Back when I was studying ballet, my instructor would constantly lambast me to the point that it was dehumanizing!
+Yeah, I can see that, huh. Talk about cheaping out with the drink bar...
+Everything looks packed with sugar and atrocious for your health. So you&#39;re telling me there&#39;s not one drink here that&#39;s good for beauty?
 
-Oh... So that experience shaped who you are today, Sena-senpai...
-I&#39;m totally fine with being treated like trash, but I think you should be kinder to the rest of your juniors.
-Positive encouragement seems to be the best motivation to grow as a person.
+Ahaha. If that&#39;s the kind of drink you&#39;re after, you&#39;d be better off heading to the café inside the main building.
 
-But look here: to put it bluntly, I didn&#39;t have a single thing to praise you for, To-mo-ya-kun. You&#39;re obviously a novice at magic, and every single move you made was just stiff and awkward and clumsy.
-I&#39;m no magician, but I could still tell you were crap. You made it pretty obvious how all of your tricks were done. It was just painful to watch, don&#39;t you agree?
+Mm... But then I&#39;d have to pay using L$, wouldn&#39;t I? If I were to do that, there would be a record that I&#39;ve been loitering around here instead of heading back to Italy.
+That said, I feel like it would be a total waste to pay with yen.
 
-Ugh... It sounds like I&#39;m just making excuses, but I swear I was way better when I was practicing by myself!
-But the way you kept staring at me with that piercing gaze made me weirdly nervous—
+Ahaha, Hajime said something similar before. That guy will do every conceivable thing he can think of to make something cheaper by even a single cent. If anything, I&#39;ve got a lot of respect for that side of him.
 
-Hmm? Well, I do happen to be incredibly beautiful, but there&#39;s nothing I can do about that♪
+Oh, Hajime Shino from Ra*bits... He&#39;s in the same unit as you, so you&#39;re close?
+I do envy you. Just about everyone in my unit can be ridiculously cheeky to me, would you believe?
+Especially lately, we&#39;ve been butting heads a lot, and the atmosphere always feels prickly. I&#39;m fairly jealous of Nazunyan&#39;s lot—everything seems to be so calm and peaceful all the time.
+Is there a knack to it? No, it could just simply be a matter of personalities...
+Unlike the brats in my unit, from what I can see, Hajime-kun and the others seem to be obedient, well-behaved kids, right?
 
-It was more like, I was terrified that you&#39;d start scolding me no matter what I did.
+F-From the sound of things, you don&#39;t have any trouble remembering who Hajime is. Even though it seems like you completely forgot who I am.
 
-I don&#39;t particularly intend to scold you. For the most part, I have nothing but support for hard-working kids.
-Giving you straightforward critiques was simply me doing everything in my power to help you out—wouldn&#39;t you see that as an expression of my kindness?
+That kid&#39;s famous lately, isn&#39;t he? What with being marketed as a duo along with that prominent something-or-other from the same agency.
 
-But you didn&#39;t just stop at critiques alone, you&#39;d want to physically get involved too...
-When I was practicing that escape stunt, you insisted that I &quot;let you try, just this once.&quot;
+Oh, you mean Bishoujo-senpai... So that person is famous overseas too?
 
-Well, it looked easy enough to me.
+Not sure if I&#39;d call them &quot;famous&quot;... More like, they stand out pretty noticeably, and not always in a good way. Rather like me. So you could say they left an impression on me.
 
-No, it&#39;s super difficult! I&#39;m using real handcuffs for this escape stunt, like the ones the police use!
-The whole point of the trick is to escape from something unescapable! That&#39;s what makes people go &quot;Whoa!&quot; or &quot;Amazing!&quot;
+Oh wow... For some reason, I&#39;m kinda jealous.
 
-Well, I suppose... If handcuffs were easy to escape from, the police wouldn&#39;t always be using them to apprehend criminals, huh.
-But still. They just looked like a pair of cheap and flimsy toys. On the off chance something went wrong, I figured it would be easy to bust out of them.
+Mn? Of what?
 
-Excuse this, excuse that... What are you, a little kid?
-Oh god, I&#39;m so sorry for being so cheeky to you, Sena-senpai!
+I was just thinking there&#39;s nothing about me that would stand out in such a way that I&#39;d get people talking about me like that.
+When you&#39;re surrounded by colorful people while you&#39;re plain and average and ordinary, that can actually become a quirk in itself, I guess.
+But I really wish there was something unique about me, something that only I can bring to the table... I wish I had some sort of merit or skill to be praised for, or make others envious.
+When you say the name Tomoya Mashiro, you immediately think of this! Something like that that others could look up to and even try to imitate...
+It seems like my quirk is just being &quot;ordinary,&quot; but it&#39;s not like anyone&#39;s out there like, &quot;Man, I wish I was as ordinary as him!&quot;
+Hajime, Mitsuru, and everyone else are evolving at an exponential rate and really making an impact, so I guess I&#39;m sorta panicking and worrying about myself a whole lot.
+Our agency also seems to be at a loss for how to promote me...
+They took advantage of the rumor that I&#39;m good at magic and asked me to do some magic tricks on some TV show.
+They figured that if I can pull off something impressive and things end up going well, that could become my thing.
+So like, even though it was all based on a big misunderstanding, I felt kinda flattered that they had high expectations for me.
+Besides, back when Nii~chan was about to make his official return to the group, I was kinda aggressive towards them and kicked up a bit of a fuss, so I don&#39;t really wanna go against our agency&#39;s wishes right now if I can help it—
+So I just went ahead and accepted the invitation to appear on that TV show without really thinking it through. And now I seriously regret it.
+There&#39;s no way I can master any seriously impressive magic in such a short amount of time.
+For the record, I did suck it up and beg Hibiki-senpai to give me some guidance. And I&#39;m using whatever free time I have to practice as hard as I can, like I&#39;m doing right now. But I just don&#39;t seem to be improving.
+I feel like I&#39;m going needlessly out of my way, and I&#39;m just wasting my own time—
 
-No, it&#39;s fine. A touch of rebelliousness is cute. You&#39;re the child of someone who &quot;has a sharp tongue when he gets all riled up,&quot; aren&#39;t you, To-mo-ya-kun?
+......
 
-Ughh... Sorry, I guess I&#39;m also kinda losing it, thanks to this bizarre situation.
+Oh, sorry! I&#39;ve been rambling about something that has nothing to do with you, Sena-senpai.
 
-Yeah. Who would have thought amidst the chaos of trying to get the handcuffs off we&#39;d end up like this?
+No, it&#39;s fine. It&#39;s one way for me to kill time.
+And precisely because it has nothing to do with me, I don&#39;t feel so much as an iota of stress listening to you go on. You&#39;re talking about a world a million miles away from me.
+Besides. I don&#39;t exactly dislike hard-working kids such as yourself.
+If anything, now I&#39;m itching to lend a hand. Lately I haven&#39;t been able to lend any support to Yuu-kun nor Kasa-kun, so I&#39;m kind of frustrated—
+I&#39;m kind of warming to idea of becoming your kind-hearted, beloved &quot;Onii~chan,&quot; To-mo-ya-kun...♪
 
-Yeah. On top of the two of us being handcuffed together—
-
-—We can&#39;t get the handcuffs off, either. But why? Didn&#39;t you have a key ready? Isn&#39;t it normal to have a key ready?
-
-I&#39;ve told you over and over again, we were so flustered trying to get the handcuffs off that I guess I lost the key in the scuffle.
-So I think I might&#39;ve dropped it in the same place I was practicing magic yesterday.
-
-Worst case scenario, one of the cleaning staff handed it in. But are you certain that was really when you lost the key?
-We searched all over that room yesterday until late at night, but couldn&#39;t find it anywhere.
-
-Right, I know... That&#39;s what makes it such a mystery. I know I had a key ready, but it just disappeared.
-
-Well, it didn&#39;t just disappear. You definitely just dropped it somewhere, or put it away in your pocket and forgot about it, I&#39;m telling you.
-
-That&#39;s what I believe too, and yet... While we were retracing our steps god knows how many times yesterday, we ended up running out of time.
-We were making such a fuss that the security guards and other staff in the building came over to investigate...
-Then you insisted that you &quot;couldn&#39;t be seen like this!&quot; and started dragging me away to flee the scene.
-
-Well, I didn&#39;t have a choice in the matter. I&#39;ve already said this before, but I do not want the rest of Knights to know that I&#39;ve been staying out here instead of flying back to Italy.
-Not to mention, if they saw me handcuffed to a cute younger boy, there&#39;d probably be a big misunderstanding that I&#39;m up to some funny business like kidnapping all over again.
-
-It actually did seem like Nii~chan had that kind of misunderstanding when he saw us. Though I&#39;m sure he&#39;ll understand if we explain the situation to him.
-
-No, no! When blood rushes to Nazunyan&#39;s head, he won&#39;t listen to a word from anyone around him! And I have my doubts whether Shinkai is capable of a sensible conversation in the first place.
-
-Not that it matters, but why were those two together anyways? They&#39;re a pretty unusual pair.
-
-Don&#39;t know, don&#39;t care. Never mind what anyone else is up to—all that matters right now is sorting ourselves out, right?
+Y-You&#39;re not my big brother though, Sena-senpai!? Not under any circumstances!
+Ohhh god—the way you got all excited just now is giving me the same stench as the Masked Pervert!
 
 
 	
@@ -6411,8 +6398,8 @@ Yeah, it is. It&#39;s been a while, getting to hear Nii~chan&#39;s voice over th
       </tags>
   </entry>
   <entry>
-    <title>RELOADED: Idol of the Dead (4)</title>
-    <url>/tl/post/reloaded/4/</url>
+    <title>RELOADED: Idol of the Dead (5)</title>
+    <url>/tl/post/reloaded/5/</url>
     <content><![CDATA[
 	
 		
@@ -6421,8 +6408,8 @@ Yeah, it is. It&#39;s been a while, getting to hear Nii~chan&#39;s voice over th
             		Characters
         		
                 
-                    
-                    
+                
+                
                 
     		
 			
@@ -6496,80 +6483,93 @@ Yeah, it is. It&#39;s been a while, getting to hear Nii~chan&#39;s voice over th
 	
 
 Season: Summer
-Location: Drink Stand
+Location: Ensemble Square - Emergency Stairs
 
 
-......
+We return to the day of The Abduction Of Tomoya Mashiro ft. Izumi Sena
 
-...Sena-senpai? Were you even listening to me?
+After that, for some reason, you ended up lending me a hand, Sena-senpai.
+You stood in as a member of the audience, and I practiced some magic in front of you.
 
-Huh? Oh, were you talking to me?
+Yeah. That&#39;s one of the fundamentals of any craft, be it magic, idol work, modeling, or whatever else.
+When you hole yourself up and practice something alone, you develop bad habits—which ends up rendering all the time you spent not just pointless, but outright harmful.
+When it comes to improving, what you need is someone to scrutinize and evaluate your performance, and then offer you the guidance to proceed in the right direction.
+I just happened to have slightly more free time than I know what to do with, and I have excellent taste no matter the field, so I was perfect for the job! ♪
 
-Who else would I be talking to? There&#39;s no one else here! Besides, weren&#39;t you the one who started the conversation~?
+Ughh... You sounded so sure of yourself and weirdly confident that I just took you at your word, without so much as a second thought.
+I was even about to completely reevaluate my opinion of you. Like, &quot;Wow, maybe Sena-senpai&#39;s actually pretty kind~♪&quot;
 
-But it&#39;s not like you and I are close enough to talk about things like this in the first place, To-mo-ya-kun.
-If you need an agony aunt to pour your heart out to, you should be going to Hibiki or Nazunyan.
-I happen to be extremely busy picking out a delicious beverage in order to appease even a smidgeon of my irritation.
-Idols can take any of these drinks for free, right?
+What do you mean &quot;maybe&quot;? I&#39;m always kind, aren&#39;t I? Did you forget all those times I had your back last year!?
 
-Oh, yes. That sounds right. You can drink as much as you want free of charge, but as a result none of the drinks here are particularly good.
+No, uh. This is kind of hard to say but, basically all you did was criticize me, Sena-senpai. I don&#39;t remember you giving me any real guidance or support.
 
-Yeah, I can see that, huh. Talk about cheaping out with the drink bar...
-Everything looks packed with sugar and atrocious for your health. So you&#39;re telling me there&#39;s not one drink here that&#39;s good for beauty?
+Excuse me? Criticism is essential, isn&#39;t it? Back when I was studying ballet, my instructor would constantly lambast me to the point that it was dehumanizing!
 
-Ahaha. If that&#39;s the kind of drink you&#39;re after, you&#39;d be better off heading to the café inside the main building.
+Oh... So that experience shaped who you are today, Sena-senpai...
+I&#39;m totally fine with being treated like trash, but I think you should be kinder to the rest of your juniors.
+Positive encouragement seems to be the best motivation to grow as a person.
 
-Mm... But then I&#39;d have to pay using L$, wouldn&#39;t I? If I were to do that, there would be a record that I&#39;ve been loitering around here instead of heading back to Italy.
-That said, I feel like it would be a total waste to pay with yen.
+But look here: to put it bluntly, I didn&#39;t have a single thing to praise you for, To-mo-ya-kun. You&#39;re obviously a novice at magic, and every single move you made was just stiff and awkward and clumsy.
+I&#39;m no magician, but I could still tell you were crap. You made it pretty obvious how all of your tricks were done. It was just painful to watch, don&#39;t you agree?
 
-Ahaha, Hajime said something similar before. That guy will do every conceivable thing he can think of to make something cheaper by even a single cent. If anything, I&#39;ve got a lot of respect for that side of him.
+Ugh... It sounds like I&#39;m just making excuses, but I swear I was way better when I was practicing by myself!
+But the way you kept staring at me with that piercing gaze made me weirdly nervous—
 
-Oh, Hajime Shino from Ra*bits... He&#39;s in the same unit as you, so you&#39;re close?
-I do envy you. Just about everyone in my unit can be ridiculously cheeky to me, would you believe?
-Especially lately, we&#39;ve been butting heads a lot, and the atmosphere always feels prickly. I&#39;m fairly jealous of Nazunyan&#39;s lot—everything seems to be so calm and peaceful all the time.
-Is there a knack to it? No, it could just simply be a matter of personalities...
-Unlike the brats in my unit, from what I can see, Hajime-kun and the others seem to be obedient, well-behaved kids, right?
+Hmm? Well, I do happen to be incredibly beautiful, but there&#39;s nothing I can do about that♪
 
-F-From the sound of things, you don&#39;t have any trouble remembering who Hajime is. Even though it seems like you completely forgot who I am.
+It was more like, I was terrified that you&#39;d start scolding me no matter what I did.
 
-That kid&#39;s famous lately, isn&#39;t he? What with being marketed as a duo along with that prominent something-or-other from the same agency.
+I don&#39;t particularly intend to scold you. For the most part, I have nothing but support for hard-working kids.
+Giving you straightforward critiques was simply me doing everything in my power to help you out—wouldn&#39;t you see that as an expression of my kindness?
 
-Oh, you mean Bishoujo-senpai... So that person is famous overseas too?
+But you didn&#39;t just stop at critiques alone, you&#39;d want to physically get involved too...
+When I was practicing that escape stunt, you insisted that I &quot;let you try, just this once.&quot;
 
-Not sure if I&#39;d call them &quot;famous&quot;... More like, they stand out pretty noticeably, and not always in a good way. Rather like me. So you could say they left an impression on me.
+Well, it looked easy enough to me.
 
-Oh wow... For some reason, I&#39;m kinda jealous.
+No, it&#39;s super difficult! I&#39;m using real handcuffs for this escape stunt, like the ones the police use!
+The whole point of the trick is to escape from something unescapable! That&#39;s what makes people go &quot;Whoa!&quot; or &quot;Amazing!&quot;
 
-Mn? Of what?
+Well, I suppose... If handcuffs were easy to escape from, the police wouldn&#39;t always be using them to apprehend criminals, huh.
+But still. They just looked like a pair of cheap and flimsy toys. On the off chance something went wrong, I figured it would be easy to bust out of them.
 
-I was just thinking there&#39;s nothing about me that would stand out in such a way that I&#39;d get people talking about me like that.
-When you&#39;re surrounded by colorful people while you&#39;re plain and average and ordinary, that can actually become a quirk in itself, I guess.
-But I really wish there was something unique about me, something that only I can bring to the table... I wish I had some sort of merit or skill to be praised for, or make others envious.
-When you say the name Tomoya Mashiro, you immediately think of this! Something like that that others could look up to and even try to imitate...
-It seems like my quirk is just being &quot;ordinary,&quot; but it&#39;s not like anyone&#39;s out there like, &quot;Man, I wish I was as ordinary as him!&quot;
-Hajime, Mitsuru, and everyone else are evolving at an exponential rate and really making an impact, so I guess I&#39;m sorta panicking and worrying about myself a whole lot.
-Our agency also seems to be at a loss for how to promote me...
-They took advantage of the rumor that I&#39;m good at magic and asked me to do some magic tricks on some TV show.
-They figured that if I can pull off something impressive and things end up going well, that could become my thing.
-So like, even though it was all based on a big misunderstanding, I felt kinda flattered that they had high expectations for me.
-Besides, back when Nii~chan was about to make his official return to the group, I was kinda aggressive towards them and kicked up a bit of a fuss, so I don&#39;t really wanna go against our agency&#39;s wishes right now if I can help it—
-So I just went ahead and accepted the invitation to appear on that TV show without really thinking it through. And now I seriously regret it.
-There&#39;s no way I can master any seriously impressive magic in such a short amount of time.
-For the record, I did suck it up and beg Hibiki-senpai to give me some guidance. And I&#39;m using whatever free time I have to practice as hard as I can, like I&#39;m doing right now. But I just don&#39;t seem to be improving.
-I feel like I&#39;m going needlessly out of my way, and I&#39;m just wasting my own time—
+Excuse this, excuse that... What are you, a little kid?
+Oh god, I&#39;m so sorry for being so cheeky to you, Sena-senpai!
 
-......
+No, it&#39;s fine. A touch of rebelliousness is cute. You&#39;re the child of someone who &quot;has a sharp tongue when he gets all riled up,&quot; aren&#39;t you, To-mo-ya-kun?
 
-Oh, sorry! I&#39;ve been rambling about something that has nothing to do with you, Sena-senpai.
+Ughh... Sorry, I guess I&#39;m also kinda losing it, thanks to this bizarre situation.
 
-No, it&#39;s fine. It&#39;s one way for me to kill time.
-And precisely because it has nothing to do with me, I don&#39;t feel so much as an iota of stress listening to you go on. You&#39;re talking about a world a million miles away from me.
-Besides. I don&#39;t exactly dislike hard-working kids such as yourself.
-If anything, now I&#39;m itching to lend a hand. Lately I haven&#39;t been able to lend any support to Yuu-kun nor Kasa-kun, so I&#39;m kind of frustrated—
-I&#39;m kind of warming to idea of becoming your kind-hearted, beloved &quot;Onii~chan,&quot; To-mo-ya-kun...♪
+Yeah. Who would have thought amidst the chaos of trying to get the handcuffs off we&#39;d end up like this?
 
-Y-You&#39;re not my big brother though, Sena-senpai!? Not under any circumstances!
-Ohhh god—the way you got all excited just now is giving me the same stench as the Masked Pervert!
+Yeah. On top of the two of us being handcuffed together—
+
+—We can&#39;t get the handcuffs off, either. But why? Didn&#39;t you have a key ready? Isn&#39;t it normal to have a key ready?
+
+I&#39;ve told you over and over again, we were so flustered trying to get the handcuffs off that I guess I lost the key in the scuffle.
+So I think I might&#39;ve dropped it in the same place I was practicing magic yesterday.
+
+Worst case scenario, one of the cleaning staff handed it in. But are you certain that was really when you lost the key?
+We searched all over that room yesterday until late at night, but couldn&#39;t find it anywhere.
+
+Right, I know... That&#39;s what makes it such a mystery. I know I had a key ready, but it just disappeared.
+
+Well, it didn&#39;t just disappear. You definitely just dropped it somewhere, or put it away in your pocket and forgot about it, I&#39;m telling you.
+
+That&#39;s what I believe too, and yet... While we were retracing our steps god knows how many times yesterday, we ended up running out of time.
+We were making such a fuss that the security guards and other staff in the building came over to investigate...
+Then you insisted that you &quot;couldn&#39;t be seen like this!&quot; and started dragging me away to flee the scene.
+
+Well, I didn&#39;t have a choice in the matter. I&#39;ve already said this before, but I do not want the rest of Knights to know that I&#39;ve been staying out here instead of flying back to Italy.
+Not to mention, if they saw me handcuffed to a cute younger boy, there&#39;d probably be a big misunderstanding that I&#39;m up to some funny business like kidnapping all over again.
+
+It actually did seem like Nii~chan had that kind of misunderstanding when he saw us. Though I&#39;m sure he&#39;ll understand if we explain the situation to him.
+
+No, no! When blood rushes to Nazunyan&#39;s head, he won&#39;t listen to a word from anyone around him! And I have my doubts whether Shinkai is capable of a sensible conversation in the first place.
+
+Not that it matters, but why were those two together anyways? They&#39;re a pretty unusual pair.
+
+Don&#39;t know, don&#39;t care. Never mind what anyone else is up to—all that matters right now is sorting ourselves out, right?
 
 
 	
@@ -7154,188 +7154,6 @@ Translation Notes
       </tags>
   </entry>
   <entry>
-    <title>Sanctuary: Polluted Paradise (10)</title>
-    <url>/tl/post/sanctuary/11/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-				
-					
-					
-					
-					
-					
-				
-    		
-            
-        		
-            		Writer
-        		
-        		
-            		Akira
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Nui
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		honeyspades, remi
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor:#965e7d;
-	    --storyColor-rgb:150,94,125;
-	    --storyColor-h:326.8;
-    	--storyColor-s: 23%;
-	    --storyColor-l:47.8%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
-
-Season: Winter
-Location: SANCTUARY Amusement Park
-
-
-Well then, now that the anxiety you felt from not knowing where your friends are should have faded away—
-I will once again give an explanation about SANCTUARY.
-
-If you excuse me... Since we are talking about companions we don&#39;t know the whereabouts of, I&#39;ve been thinking that I haven&#39;t seen Hibiki-sama in quite a while.
-
-Ah, now that you mention it, Hibiki-senpai isn&#39;t around. It seemed like all of fine was getting along rather well these days, though?
-How careless of me... I&#39;m always so anxious about myself that I end up not paying attention to everyone else around me.
-
-It&#39;s alrighty! There&#39;s things you won&#39;t be able to focus on by yourself, but that&#39;s why the four of us are here!
-
-That&#39;s right. ...About Wataru, pay no mind to him. He&#39;s quite the free spirit.
-
-Well, he&#39;s the type that wouldn&#39;t die even when killed. I wasn&#39;t necessarily expressing any concerns about him.
-
-Yup. I bet he&#39;s just preparing a bunch of new tricks~! That guy sometimes disappears after saying he&#39;s gonna do that.
-Sometimes I wonder if he uses that as an excuse to go grab a meal or something.
-But regardless of what happens to him, he&#39;ll be okay. He&#39;ll be back with that annoying laugh of his like nothing happened before we even realize it.
-
-Yes. That&#39;s very like him. I think so too.
-Either way, what do you think about the qualifiers we&#39;re going through here in Kanto?
-
-Eh, well even if you ask me what I think... I have the feeling there isn&#39;t that much excitement.
-
-I don&#39;t really think! Whatever happens around me, I&#39;ll always be myself and give it my very best shot!
-
-That&#39;s what you think. But it&#39;s probably better if you don&#39;t get the idea that all the other idols are good hardworking kids like you.
-Humans are destined to become lazy. As long as we are animals, this is something akin to an instinct.
-In the wild, this would be for the sake of preserving energy and not dying.
-Because if someone gives their best every single time they do any work, they&#39;re bound to burn out and perish.
-Modern society is full of those who believe that even if they don&#39;t work hard they can still live—that living a lazy life is correct.
-Or rather, those who struggle and squirm desperately despite not being in mortal danger are the ones who are strange.
-This function that we should have as living beings might have gotten broken at some point along the way.
-But you know, I believe we gained something that made us human precisely because it&#39;s broken. We are now sitting at the very top of this planet, precisely because we deviated from the ways of all other living beings.
-
-
-If you start talkin&#39; about complicated stuff, I&#39;ll get sleepy!
-
-Refusing to think more than you should is the correct thing to do as a living creature, Tenma-kun. Our brains are gluttonous, so if we stop to think about every single detail we are presented with, we will be left without energy.
-That&#39;s why phrases like &quot;think,&quot; &quot;do something,&quot; or &quot;give it your best&quot; all have the same meaning as &quot;go die&quot; when someone says them.
-But of course, saying things like that is bound to be met with some backlash.
-Still. Back when we were in high school, we were young and inexperienced—it was something we hadn&#39;t realized.
-We—who were always &quot;giving our utmost best&quot;—were right, so everyone else who wasn&#39;t trying hard enough was wrong.
-The constantly very serious Keito would always say that with dissatisfaction. That something was weird, there was a mistake somewhere—
-Therefore we had to start a revolution.
-I wanted to reform the conscience of those who were playing to be an idol, living as if they were already dead. I aimed for the ideal where motivation would just overflow from everyone.
-Stirring myself with a vow like that, we truly started a revolution. Because we believed from our very core that was just.
-And then. The miraculous existence called Trickstar were the ones who accomplished a real revolution.
-That&#39;s why I was deeply moved when I saw them shining more brightly than anyone else in last year&#39;s SS.
-Ahh, we weren&#39;t wrong at all. I thought so from the bottom of my heart.
-
-Yes. Akehoshi-senpai and the others were amazing last year. Even now, I still feel like tearing up whenever I remember it.
-Even though something so cruel happened, he was able to stand on stage and shine so brightly, bringing happiness to everyone.
-I have always looked up to him. We want to become like that too—
-
-You will. That&#39;s why we have Ensemble Square and SANCTUARY.
-A system created so the miraculous existence of Trickstar doesn&#39;t become &quot;a fleeting shooting star shining in the night sky.&quot;
-
-What could you mean...?
-
-A picture is worth a thousand words. Rather than explaining it myself, it would be easier to show it. Everyone, follow me♪
-Let me show you how the dream we once imagined looks like now.
-
-......?
-
-(—You must be seeing this from somewhere, Wataru.)
-(Look at it. Become aware of it. And if you agree with me this time, I would be happy.)
-(If not... I will have no choice but to walk over your corpse once again.)
-(.........)
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Hajime Shino</category>
-        <category>Mitsuru Tenma</category>
-        <category>Tori Himemiya</category>
-        <category>Eichi Tenshouin</category>
-        <category>Yuzuru Fushimi</category>
-      </categories>
-      <tags>
-        <tag>Event Story</tag>
-        <tag>Narrative</tag>
-        <tag>Akira</tag>
-        <tag>Main Story</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>Sanctuary: Prologue</title>
     <url>/tl/post/sanctuary/1/</url>
     <content><![CDATA[
@@ -7527,8 +7345,8 @@ Don&#39;t tell me that you&#39;re actually...d-dead...?
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Nazuna Nito</category>
       </categories>
       <tags>
@@ -7763,8 +7581,8 @@ No matter how horrible my actions might become, there is a chance that they were
       </tags>
   </entry>
   <entry>
-    <title>Sanctuary: Polluted Paradise (12)&lt;/th&gt;</title>
-    <url>/tl/post/sanctuary/13/</url>
+    <title>Sanctuary: Polluted Paradise (10)</title>
+    <url>/tl/post/sanctuary/11/</url>
     <content><![CDATA[
 	
 		
@@ -7773,6 +7591,9 @@ No matter how horrible my actions might become, there is a chance that they were
             		Characters
         		
 				
+					
+					
+					
 					
 					
 				
@@ -7790,7 +7611,7 @@ No matter how horrible my actions might become, there is a chance that they were
             		Translator
         		
         		
-            		Ren
+            		Nui
         		
     		
     		
@@ -7807,13 +7628,13 @@ No matter how horrible my actions might become, there is a chance that they were
 
 
 
-:root {
-	--storyColor:#965e7d;
-	--storyColor-rgb:150,94,125;
-	--storyColor-h:326.8;
-	--storyColor-s: 23%;
-	--storyColor-l:47.8%;
-}
+    :root {
+	    --storyColor:#965e7d;
+	    --storyColor-rgb:150,94,125;
+	    --storyColor-h:326.8;
+    	--storyColor-s: 23%;
+	    --storyColor-l:47.8%;
+    }
 
 
 	
@@ -7848,113 +7669,91 @@ No matter how horrible my actions might become, there is a chance that they were
 	
 
 Season: Winter
-Location: Helicopter
+Location: SANCTUARY Amusement Park
 
 
-Meanwhile, on Ensemble Square's private helicopter.
+Well then, now that the anxiety you felt from not knowing where your friends are should have faded away—
+I will once again give an explanation about SANCTUARY.
 
-(Heheh. Thank you as always, Yuzuru.)
-(I know you&#39;re content simply serving from the sidelines, but you are Tori&#39;s sun—a warm and reassuring presence in his life.)
-(I would only lead Tori down the wrong path with my current mental state.)
-(So I need you to keep him on the right path at all times.)
-(...I suppose you could say that I have a bad habit of putting up a façade in front of my adorable juniors.)
-(Arguably, I&#39;m treating him as a fan I must entertain rather than as a friend and equal.)
-(Which is rude of me, as he only wants to get closer.)
-(What a way to analyze myself. Oh well. It&#39;s meaningless to remain like this. I have to take things into my own hands if I want to change the world.)
-(I have no time left. If I want to move forward, I have to push aside any and all obstacles.)
+If you excuse me... Since we are talking about companions we don&#39;t know the whereabouts of, I&#39;ve been thinking that I haven&#39;t seen Hibiki-sama in quite a while.
+
+Ah, now that you mention it, Hibiki-senpai isn&#39;t around. It seemed like all of fine was getting along rather well these days, though?
+How careless of me... I&#39;m always so anxious about myself that I end up not paying attention to everyone else around me.
+
+It&#39;s alrighty! There&#39;s things you won&#39;t be able to focus on by yourself, but that&#39;s why the four of us are here!
+
+That&#39;s right. ...About Wataru, pay no mind to him. He&#39;s quite the free spirit.
+
+Well, he&#39;s the type that wouldn&#39;t die even when killed. I wasn&#39;t necessarily expressing any concerns about him.
+
+Yup. I bet he&#39;s just preparing a bunch of new tricks~! That guy sometimes disappears after saying he&#39;s gonna do that.
+Sometimes I wonder if he uses that as an excuse to go grab a meal or something.
+But regardless of what happens to him, he&#39;ll be okay. He&#39;ll be back with that annoying laugh of his like nothing happened before we even realize it.
+
+Yes. That&#39;s very like him. I think so too.
+Either way, what do you think about the qualifiers we&#39;re going through here in Kanto?
+
+Eh, well even if you ask me what I think... I have the feeling there isn&#39;t that much excitement.
+
+I don&#39;t really think! Whatever happens around me, I&#39;ll always be myself and give it my very best shot!
+
+That&#39;s what you think. But it&#39;s probably better if you don&#39;t get the idea that all the other idols are good hardworking kids like you.
+Humans are destined to become lazy. As long as we are animals, this is something akin to an instinct.
+In the wild, this would be for the sake of preserving energy and not dying.
+Because if someone gives their best every single time they do any work, they&#39;re bound to burn out and perish.
+Modern society is full of those who believe that even if they don&#39;t work hard they can still live—that living a lazy life is correct.
+Or rather, those who struggle and squirm desperately despite not being in mortal danger are the ones who are strange.
+This function that we should have as living beings might have gotten broken at some point along the way.
+But you know, I believe we gained something that made us human precisely because it&#39;s broken. We are now sitting at the very top of this planet, precisely because we deviated from the ways of all other living beings.
+
+
+If you start talkin&#39; about complicated stuff, I&#39;ll get sleepy!
+
+Refusing to think more than you should is the correct thing to do as a living creature, Tenma-kun. Our brains are gluttonous, so if we stop to think about every single detail we are presented with, we will be left without energy.
+That&#39;s why phrases like &quot;think,&quot; &quot;do something,&quot; or &quot;give it your best&quot; all have the same meaning as &quot;go die&quot; when someone says them.
+But of course, saying things like that is bound to be met with some backlash.
+Still. Back when we were in high school, we were young and inexperienced—it was something we hadn&#39;t realized.
+We—who were always &quot;giving our utmost best&quot;—were right, so everyone else who wasn&#39;t trying hard enough was wrong.
+The constantly very serious Keito would always say that with dissatisfaction. That something was weird, there was a mistake somewhere—
+Therefore we had to start a revolution.
+I wanted to reform the conscience of those who were playing to be an idol, living as if they were already dead. I aimed for the ideal where motivation would just overflow from everyone.
+Stirring myself with a vow like that, we truly started a revolution. Because we believed from our very core that was just.
+And then. The miraculous existence called Trickstar were the ones who accomplished a real revolution.
+That&#39;s why I was deeply moved when I saw them shining more brightly than anyone else in last year&#39;s SS.
+Ahh, we weren&#39;t wrong at all. I thought so from the bottom of my heart.
+
+Yes. Akehoshi-senpai and the others were amazing last year. Even now, I still feel like tearing up whenever I remember it.
+Even though something so cruel happened, he was able to stand on stage and shine so brightly, bringing happiness to everyone.
+I have always looked up to him. We want to become like that too—
+
+You will. That&#39;s why we have Ensemble Square and SANCTUARY.
+A system created so the miraculous existence of Trickstar doesn&#39;t become &quot;a fleeting shooting star shining in the night sky.&quot;
+
+What could you mean...?
+
+A picture is worth a thousand words. Rather than explaining it myself, it would be easier to show it. Everyone, follow me♪
+Let me show you how the dream we once imagined looks like now.
+
+......?
+
+(—You must be seeing this from somewhere, Wataru.)
+(Look at it. Become aware of it. And if you agree with me this time, I would be happy.)
+(If not... I will have no choice but to walk over your corpse once again.)
 (.........)
 
 
-&quot;Tenshouinnnn!&quot;1
-
-...Why, hello, Nito-kun. I know that you&#39;re full of energy, but could you please quiet down a little? The static is killing me.
-
-&quot;Shaddup! Whadda hell have ya been up to?!&quot;
-
-Ahaha. Fumbling on your words again, aren&#39;t you? How cute.
-
-&quot;Oh, heck off! That&#39;s creepy! I don&#39;t want you to like me!&quot;
-
-I only said that you were cute, not that I like you.
-In this case, &quot;cute&quot; is a negative description.
-
-&quot;I dunno... Maybe the definition of the word changed for me?&quot;
-&quot;But, y&#39;know, it&#39;s great to see you in such high spirits. Hope you die soon.&quot;
-
-Tehe. I adore that you can say that to pitiful little me.
-
-&quot;Shut the hell up! I heard alllll about you from Anzu-chin and Gatekeeper!&quot;
-&quot;What have you been doing to my kids? Some kind of experiment?!&quot;
-&quot;I dunno what&#39;s going on, but if you lay a single finger on them, I&#39;LL GET YOUR ASS!&quot;
-
-You don&#39;t know what&#39;s going on, yet you&#39;re already this upset? I&#39;m impressed.
-You&#39;re truly like an animal acting with its instincts, which is exactly why this experiment matters so much for all of you.
-
-&quot;The hell are you talking about...? Why don&#39;t you ever talk in a way people would understand?!&quot;
-
-Because they don&#39;t need to. Thinking will only tire you out, after all.
-You&#39;re just like livestock utterly dependent on their owners. You give no thought to anything, happily accepting whatever is given to you.
-Mhm. I will create a paradise just for you.
-
-&quot;...? The heck are ya sayin&#39;? And for the record, no one asked you to do anything!&quot;
-&quot;We&#39;re happy as is! You wanna say that actually, we&#39;re all unfortunate and pathetic and that you&#39;ll make us happy?!&quot;
-
-Yes, precisely. Ah, you always respond exactly in the way I want you to.
-In that respect, you would&#39;ve been a magnificent idol, Nito-kun. It&#39;d be such a waste for you to remain an ordinary college student.
-It&#39;s all because of you that we were able to defeat Valkyrie two years ago. I thank you from the bottom of my heart.
-
-&quot;......?&quot;
-
-Love makes us weak, foolish. It was love that drove Itsuki-kun to try to protect what was in front of him, only to slip into the guillotine.
-As pointless as it is to discuss situations from the past, let&#39;s say he did operate independently, like the rest of the Five Eccentrics...
-He would be able to withstand any attack, convert that will into artistic inspiration, and rise like a phoenix from the ashes.
-Even if we defeated him, he could return from the dead before the Five Eccentrics were all executed.
-But that&#39;d be quite the problem, no? Hence why I insulted him and stripped him of everything, right in front of his loved one.
 
 
-He could bear defeat, but he was too proud to bear disgrace.
-And so Itsuki-kun died under the weight of his own conceit.
-
-&quot;Nah... That guy&#39;s still alive and kicking. Don&#39;t just kill people as you please.&quot;
-
-It seems, like any animal, you can&#39;t wrap your head around metaphors, Nito-kun.
-Which is exactly why I wanted you to be a part of this experiment, if possible.
-Its leadership may have changed, but you are still the heart of Ra*bits. Your mere presence is enough to pollute the way the younger ones react and respond.
-You are their big brother. Their role model. An idol they look up to. Their perception of idols is influenced by you whenever they see you.
-I want them to experience a &quot;SANCTUARY&quot; free of textbooks and outside influences. That is why I&#39;m conducting this experiment.
-
-&quot;...Is that why Anzu-chin&#39;s isolated from the other idols?!&quot;
-
-You make completely illogical statements based on gut instinct—yet they are all factual. How frightening.
-This is why I&#39;m so bad at dealing with pure and innocent children like you.
-But at the same time, I need you all to retain the purity I could no longer attain.
-
-&quot;I&#39;ve said it before, and I&#39;ll say it again: I&#39;ve got no idea what the hell you&#39;re talking about!&quot;
-
-And I&#39;ve told you I&#39;m offering no explanation. I don&#39;t even want to talk with you. ...Put me on the line with Gatekeeper.
-We are having a bit of trouble due to an oversight on my part.
-But I want him to know I&#39;ll deal with it myself, and I don&#39;t want anyone interfering.
-
-&quot;Trouble?! A-Are my kids alright?!&quot;
-
-I would have to get in touch with Gatekeeper to know for sure. Some things here just make no sense, and I want to hear his response.
-
-&quot;No sense...?&quot;
-
-Yes. For one, I want to know exactly what Order he gave Wataru.
-Secondly, I want him to know that I will not let it slide if he&#39;s the reason behind Wataru&#39;s odd behavior.
 
 
-	
-	
-	
-
-Translation Notes
-↑ Just imagine Nazuna screaming into his phone here. He's calling from SANCTUARY's information desk. You can see some of Nazuna's side of the conversation in his rare Mini Talk.]]></content>
+]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Nazuna Nito</category>
+        <category>Hajime Shino</category>
+        <category>Mitsuru Tenma</category>
+        <category>Tori Himemiya</category>
         <category>Eichi Tenshouin</category>
+        <category>Yuzuru Fushimi</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -8151,6 +7950,207 @@ Translation Notes
         <category>Mitsuru Tenma</category>
         <category>Tori Himemiya</category>
         <category>Yuzuru Fusimi</category>
+      </categories>
+      <tags>
+        <tag>Event Story</tag>
+        <tag>Narrative</tag>
+        <tag>Akira</tag>
+        <tag>Main Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sanctuary: Polluted Paradise (12)&lt;/th&gt;</title>
+    <url>/tl/post/sanctuary/13/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+				
+					
+					
+				
+    		
+            
+        		
+            		Writer
+        		
+        		
+            		Akira
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Ren
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		honeyspades, remi
+        		
+    		
+		
+	
+
+
+
+
+:root {
+	--storyColor:#965e7d;
+	--storyColor-rgb:150,94,125;
+	--storyColor-h:326.8;
+	--storyColor-s: 23%;
+	--storyColor-l:47.8%;
+}
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Winter
+Location: Helicopter
+
+
+Meanwhile, on Ensemble Square's private helicopter.
+
+(Heheh. Thank you as always, Yuzuru.)
+(I know you&#39;re content simply serving from the sidelines, but you are Tori&#39;s sun—a warm and reassuring presence in his life.)
+(I would only lead Tori down the wrong path with my current mental state.)
+(So I need you to keep him on the right path at all times.)
+(...I suppose you could say that I have a bad habit of putting up a façade in front of my adorable juniors.)
+(Arguably, I&#39;m treating him as a fan I must entertain rather than as a friend and equal.)
+(Which is rude of me, as he only wants to get closer.)
+(What a way to analyze myself. Oh well. It&#39;s meaningless to remain like this. I have to take things into my own hands if I want to change the world.)
+(I have no time left. If I want to move forward, I have to push aside any and all obstacles.)
+(.........)
+
+
+&quot;Tenshouinnnn!&quot;1
+
+...Why, hello, Nito-kun. I know that you&#39;re full of energy, but could you please quiet down a little? The static is killing me.
+
+&quot;Shaddup! Whadda hell have ya been up to?!&quot;
+
+Ahaha. Fumbling on your words again, aren&#39;t you? How cute.
+
+&quot;Oh, heck off! That&#39;s creepy! I don&#39;t want you to like me!&quot;
+
+I only said that you were cute, not that I like you.
+In this case, &quot;cute&quot; is a negative description.
+
+&quot;I dunno... Maybe the definition of the word changed for me?&quot;
+&quot;But, y&#39;know, it&#39;s great to see you in such high spirits. Hope you die soon.&quot;
+
+Tehe. I adore that you can say that to pitiful little me.
+
+&quot;Shut the hell up! I heard alllll about you from Anzu-chin and Gatekeeper!&quot;
+&quot;What have you been doing to my kids? Some kind of experiment?!&quot;
+&quot;I dunno what&#39;s going on, but if you lay a single finger on them, I&#39;LL GET YOUR ASS!&quot;
+
+You don&#39;t know what&#39;s going on, yet you&#39;re already this upset? I&#39;m impressed.
+You&#39;re truly like an animal acting with its instincts, which is exactly why this experiment matters so much for all of you.
+
+&quot;The hell are you talking about...? Why don&#39;t you ever talk in a way people would understand?!&quot;
+
+Because they don&#39;t need to. Thinking will only tire you out, after all.
+You&#39;re just like livestock utterly dependent on their owners. You give no thought to anything, happily accepting whatever is given to you.
+Mhm. I will create a paradise just for you.
+
+&quot;...? The heck are ya sayin&#39;? And for the record, no one asked you to do anything!&quot;
+&quot;We&#39;re happy as is! You wanna say that actually, we&#39;re all unfortunate and pathetic and that you&#39;ll make us happy?!&quot;
+
+Yes, precisely. Ah, you always respond exactly in the way I want you to.
+In that respect, you would&#39;ve been a magnificent idol, Nito-kun. It&#39;d be such a waste for you to remain an ordinary college student.
+It&#39;s all because of you that we were able to defeat Valkyrie two years ago. I thank you from the bottom of my heart.
+
+&quot;......?&quot;
+
+Love makes us weak, foolish. It was love that drove Itsuki-kun to try to protect what was in front of him, only to slip into the guillotine.
+As pointless as it is to discuss situations from the past, let&#39;s say he did operate independently, like the rest of the Five Eccentrics...
+He would be able to withstand any attack, convert that will into artistic inspiration, and rise like a phoenix from the ashes.
+Even if we defeated him, he could return from the dead before the Five Eccentrics were all executed.
+But that&#39;d be quite the problem, no? Hence why I insulted him and stripped him of everything, right in front of his loved one.
+
+
+He could bear defeat, but he was too proud to bear disgrace.
+And so Itsuki-kun died under the weight of his own conceit.
+
+&quot;Nah... That guy&#39;s still alive and kicking. Don&#39;t just kill people as you please.&quot;
+
+It seems, like any animal, you can&#39;t wrap your head around metaphors, Nito-kun.
+Which is exactly why I wanted you to be a part of this experiment, if possible.
+Its leadership may have changed, but you are still the heart of Ra*bits. Your mere presence is enough to pollute the way the younger ones react and respond.
+You are their big brother. Their role model. An idol they look up to. Their perception of idols is influenced by you whenever they see you.
+I want them to experience a &quot;SANCTUARY&quot; free of textbooks and outside influences. That is why I&#39;m conducting this experiment.
+
+&quot;...Is that why Anzu-chin&#39;s isolated from the other idols?!&quot;
+
+You make completely illogical statements based on gut instinct—yet they are all factual. How frightening.
+This is why I&#39;m so bad at dealing with pure and innocent children like you.
+But at the same time, I need you all to retain the purity I could no longer attain.
+
+&quot;I&#39;ve said it before, and I&#39;ll say it again: I&#39;ve got no idea what the hell you&#39;re talking about!&quot;
+
+And I&#39;ve told you I&#39;m offering no explanation. I don&#39;t even want to talk with you. ...Put me on the line with Gatekeeper.
+We are having a bit of trouble due to an oversight on my part.
+But I want him to know I&#39;ll deal with it myself, and I don&#39;t want anyone interfering.
+
+&quot;Trouble?! A-Are my kids alright?!&quot;
+
+I would have to get in touch with Gatekeeper to know for sure. Some things here just make no sense, and I want to hear his response.
+
+&quot;No sense...?&quot;
+
+Yes. For one, I want to know exactly what Order he gave Wataru.
+Secondly, I want him to know that I will not let it slide if he&#39;s the reason behind Wataru&#39;s odd behavior.
+
+
+	
+	
+	
+
+Translation Notes
+↑ Just imagine Nazuna screaming into his phone here. He's calling from SANCTUARY's information desk. You can see some of Nazuna's side of the conversation in his rare Mini Talk.]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Nazuna Nito</category>
+        <category>Eichi Tenshouin</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -8865,6 +8865,180 @@ Translation Notes
       </tags>
   </entry>
   <entry>
+    <title>Sanctuary: Polluted Paradise (4)</title>
+    <url>/tl/post/sanctuary/5/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+        		
+                    
+                    
+        		
+    		
+            
+        		
+            		Writer
+        		
+        		
+            		Akira
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Nui
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		honeyspades, remi
+        		
+    		
+		
+	
+
+
+
+
+	:root {
+		--storyColor:#965e7d;
+		--storyColor-rgb:150,94,125;
+		--storyColor-h:326.8;
+		--storyColor-s: 23%;
+		--storyColor-l:47.8%;
+	}
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Winter
+Location: SANCTUARY - Emperor's Room
+
+
+That&#39;s exactly why we arranged for fine, one of the Big Three from ES to be here. If things go like I&#39;m thinkin&#39;, they&#39;d end up being the ones who achieve utmost victory in the qualifier round.
+It&#39;d practically be the same as gettin&#39; seeded. Tenshouin—or rather, the Tenshouin conglomerate, has spent a pretty hefty amount of resources to manage ES for this year&#39;s SS.
+They&#39;re getting a preference because they&#39;re stockholders. They dropped a lotta money on us, so &#39;course, we&#39;re lettin&#39; the son of the distinguished Tenshouin family have an easy win.
+
+Sounds nasty... In the end, as you&#39;ve got the money for it, it seems like seems like you can buy your way anywhere long.
+
+Yup. That&#39;s exactly what money&#39;s for.
+The poor can&#39;t stand the rich. But it&#39;s &#39;cause money exists that even talentless people can make themselves look promisin&#39; in the eyes of others, and it&#39;s even possible to turn the tables around with it.
+If you get your hands on some cash, you&#39;ll have a shot to get the things ya want. If society were to lose a merit-based system like that, people who aren&#39;t born blessed with some kinda good fortune won&#39;t have any opportunities at all.
+It&#39;d become a real survival of the fittest, and the weak would die as they got preyed on.
+That&#39;s what true hell&#39;s like, yeah?
+Without the help of dirty money, even those flowery words about how &quot;if you give it your all, you can achieve your dreams and obtain happiness&quot; are nothin&#39; but the whines an&#39; whimpers of sore losers.
+If you&#39;re a dimwit who can&#39;t even get that fact through your thick skull, don&#39;t talk about dirty money or despicable methods like ya understand &#39;em.
+You&#39;d choke to death without money, lowlife.
+
+.........
+
+Anyway, any idol who might&#39;ve had a shot of getting in fine&#39;s way has been sent away from the Kanto region.
+Whether or not it&#39;s a large area, the committee&#39;s got a certain degree of influence over which idols manage to pass the qualifiers.
+fine&#39;ll win by a landslide in Kanto. There&#39;s no other possible outcome.
+Because, other than fine, all the idols who ended up in Kanto are small fry.
+There&#39;s no way I&#39;d bring over an idol who&#39;s worth spendin&#39; money on knowin&#39; that they&#39;re gonna fail in the qualifiers against fine and disappear, yeah?
+We&#39;ve gotta avoid losing money. The idols that got sent to Kanto are a sacrifice for that.
+Basically, the idols placed in other areas are idols that we, the committee, have deemed worth movin&#39; on.
+That&#39;s something they oughta take pride in.
+
+Hold your horses. So you&#39;re telling me you think Ra*bits isn&#39;t worth it?
+That&#39;s it, isn&#39;t it? We wouldn&#39;t cause a monetary loss, so we got sent to Kanto?
+If that&#39;s the case, I&#39;m not gonna allow it. We aren&#39;t worthless trash you can just throw away that easily.
+
+Hah. You only got angry when it started concernin&#39; you, Nito. Even though you didn&#39;t bat an eye when I was mockin&#39; everyone else sent to Kanto.
+
+
+.........
+
+Well, that&#39;s normal. Only weirdos worry about whatever tragedy might be happenin&#39; to someone they ain&#39;t got a thing to do with.
+You ain&#39;t a villain or a hero. You&#39;re just some regular human being that can be found anywhere at all in the world.
+
+.........
+
+Don&#39;t get the wrong idea though. We&#39;ve deemed that Ra*bits are idols worth investin&#39; in.
+Despite that, your appearance in Kanto was demanded by the partner who signed a contract with us—or more simply put, by fine.
+
+fine did? Why?
+Do they plan on having a power trip by stomping all over us?
+
+Beats me. I haven&#39;t a damn clue what their intention is, which is why it&#39;s a pain in my ass—
+We&#39;ve got no pretext to refuse a demand from fine, so the committee had no choice but to accept.
+To be more specific, it was Tenshouin who forced us to do that.
+
+Tenshouin... What the heck is he thinking?
+
+How &#39;bout we make that our chitchat? I&#39;ve got no intentions of dancin&#39; on the palm of his hand, so I wanna know what the hell he&#39;s up to.
+Only a fool&#39;d strike a deal without figurin&#39; out what&#39;s going on with the other side of it.
+
+We are talking about Tenshouin here, though. There&#39;s a chance it&#39;s all just a simple prank~ He&#39;s been real namby-pamby lately.
+
+Just a simple prank, you say? He&#39;s doin&#39; a pretty good job if even someone like you, who doesn&#39;t seem to think too highly of him, has got that goin&#39; through your head.
+
+......?
+
+A crime won&#39;t be considered a crime unless you&#39;re found guilty of it. Tenshouin is probably workin&#39; with that fact in mind.
+I&#39;m the same way, so I get it. It&#39;s how rotten people like us work.
+People like us know that there&#39;s no light that reaches every nook and cranny of the universe.
+Justice and goodwill are nothin&#39; but fleetin&#39;, sparkling lights that&#39;ll be consumed by darkness in the end.
+Ultimately, evil will always triumph. As long as death and decay exist in this world, everything&#39;ll eventually reach an end—that&#39;ll never change.
+
+
+	
+	
+	
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Nazuna Nito</category>
+        <category>Gatekeeper</category>
+      </categories>
+      <tags>
+        <tag>Event Story</tag>
+        <tag>Narrative</tag>
+        <tag>Akira</tag>
+        <tag>Main Story</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>Sanctuary: Polluted Paradise (3)</title>
     <url>/tl/post/sanctuary/4/</url>
     <content><![CDATA[
@@ -9230,556 +9404,8 @@ Translation Notes
 ↑ Tomoya's Live Skill name references this: Jumping into Trouble.]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
-      </categories>
-      <tags>
-        <tag>Event Story</tag>
-        <tag>Narrative</tag>
-        <tag>Akira</tag>
-        <tag>Main Story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Sanctuary: Polluted Paradise (4)</title>
-    <url>/tl/post/sanctuary/5/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-        		
-                    
-                    
-        		
-    		
-            
-        		
-            		Writer
-        		
-        		
-            		Akira
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Nui
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		honeyspades, remi
-        		
-    		
-		
-	
-
-
-
-
-	:root {
-		--storyColor:#965e7d;
-		--storyColor-rgb:150,94,125;
-		--storyColor-h:326.8;
-		--storyColor-s: 23%;
-		--storyColor-l:47.8%;
-	}
-
-
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
-
-Season: Winter
-Location: SANCTUARY - Emperor's Room
-
-
-That&#39;s exactly why we arranged for fine, one of the Big Three from ES to be here. If things go like I&#39;m thinkin&#39;, they&#39;d end up being the ones who achieve utmost victory in the qualifier round.
-It&#39;d practically be the same as gettin&#39; seeded. Tenshouin—or rather, the Tenshouin conglomerate, has spent a pretty hefty amount of resources to manage ES for this year&#39;s SS.
-They&#39;re getting a preference because they&#39;re stockholders. They dropped a lotta money on us, so &#39;course, we&#39;re lettin&#39; the son of the distinguished Tenshouin family have an easy win.
-
-Sounds nasty... In the end, as you&#39;ve got the money for it, it seems like seems like you can buy your way anywhere long.
-
-Yup. That&#39;s exactly what money&#39;s for.
-The poor can&#39;t stand the rich. But it&#39;s &#39;cause money exists that even talentless people can make themselves look promisin&#39; in the eyes of others, and it&#39;s even possible to turn the tables around with it.
-If you get your hands on some cash, you&#39;ll have a shot to get the things ya want. If society were to lose a merit-based system like that, people who aren&#39;t born blessed with some kinda good fortune won&#39;t have any opportunities at all.
-It&#39;d become a real survival of the fittest, and the weak would die as they got preyed on.
-That&#39;s what true hell&#39;s like, yeah?
-Without the help of dirty money, even those flowery words about how &quot;if you give it your all, you can achieve your dreams and obtain happiness&quot; are nothin&#39; but the whines an&#39; whimpers of sore losers.
-If you&#39;re a dimwit who can&#39;t even get that fact through your thick skull, don&#39;t talk about dirty money or despicable methods like ya understand &#39;em.
-You&#39;d choke to death without money, lowlife.
-
-.........
-
-Anyway, any idol who might&#39;ve had a shot of getting in fine&#39;s way has been sent away from the Kanto region.
-Whether or not it&#39;s a large area, the committee&#39;s got a certain degree of influence over which idols manage to pass the qualifiers.
-fine&#39;ll win by a landslide in Kanto. There&#39;s no other possible outcome.
-Because, other than fine, all the idols who ended up in Kanto are small fry.
-There&#39;s no way I&#39;d bring over an idol who&#39;s worth spendin&#39; money on knowin&#39; that they&#39;re gonna fail in the qualifiers against fine and disappear, yeah?
-We&#39;ve gotta avoid losing money. The idols that got sent to Kanto are a sacrifice for that.
-Basically, the idols placed in other areas are idols that we, the committee, have deemed worth movin&#39; on.
-That&#39;s something they oughta take pride in.
-
-Hold your horses. So you&#39;re telling me you think Ra*bits isn&#39;t worth it?
-That&#39;s it, isn&#39;t it? We wouldn&#39;t cause a monetary loss, so we got sent to Kanto?
-If that&#39;s the case, I&#39;m not gonna allow it. We aren&#39;t worthless trash you can just throw away that easily.
-
-Hah. You only got angry when it started concernin&#39; you, Nito. Even though you didn&#39;t bat an eye when I was mockin&#39; everyone else sent to Kanto.
-
-
-.........
-
-Well, that&#39;s normal. Only weirdos worry about whatever tragedy might be happenin&#39; to someone they ain&#39;t got a thing to do with.
-You ain&#39;t a villain or a hero. You&#39;re just some regular human being that can be found anywhere at all in the world.
-
-.........
-
-Don&#39;t get the wrong idea though. We&#39;ve deemed that Ra*bits are idols worth investin&#39; in.
-Despite that, your appearance in Kanto was demanded by the partner who signed a contract with us—or more simply put, by fine.
-
-fine did? Why?
-Do they plan on having a power trip by stomping all over us?
-
-Beats me. I haven&#39;t a damn clue what their intention is, which is why it&#39;s a pain in my ass—
-We&#39;ve got no pretext to refuse a demand from fine, so the committee had no choice but to accept.
-To be more specific, it was Tenshouin who forced us to do that.
-
-Tenshouin... What the heck is he thinking?
-
-How &#39;bout we make that our chitchat? I&#39;ve got no intentions of dancin&#39; on the palm of his hand, so I wanna know what the hell he&#39;s up to.
-Only a fool&#39;d strike a deal without figurin&#39; out what&#39;s going on with the other side of it.
-
-We are talking about Tenshouin here, though. There&#39;s a chance it&#39;s all just a simple prank~ He&#39;s been real namby-pamby lately.
-
-Just a simple prank, you say? He&#39;s doin&#39; a pretty good job if even someone like you, who doesn&#39;t seem to think too highly of him, has got that goin&#39; through your head.
-
-......?
-
-A crime won&#39;t be considered a crime unless you&#39;re found guilty of it. Tenshouin is probably workin&#39; with that fact in mind.
-I&#39;m the same way, so I get it. It&#39;s how rotten people like us work.
-People like us know that there&#39;s no light that reaches every nook and cranny of the universe.
-Justice and goodwill are nothin&#39; but fleetin&#39;, sparkling lights that&#39;ll be consumed by darkness in the end.
-Ultimately, evil will always triumph. As long as death and decay exist in this world, everything&#39;ll eventually reach an end—that&#39;ll never change.
-
-
-	
-	
-	
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Nazuna Nito</category>
-        <category>Gatekeeper</category>
-      </categories>
-      <tags>
-        <tag>Event Story</tag>
-        <tag>Narrative</tag>
-        <tag>Akira</tag>
-        <tag>Main Story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Sanctuary: Polluted Paradise (8)</title>
-    <url>/tl/post/sanctuary/9/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-				
-					
-					
-					
-					
-					
-				
-    		
-            
-        		
-            		Writer
-        		
-        		
-            		Akira
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Nui
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		honeyspades, remi
-        		
-    		
-		
-	
-
-
-
-
-	:root {
-		--storyColor:#965e7d;
-		--storyColor-rgb:150,94,125;
-		--storyColor-h:326.8;
-		--storyColor-s: 23%;
-		--storyColor-l:47.8%;
-	}
-
-
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
-
-Season: Winter
-Location: SANCTUARY Amusement Park
-
-
-The next day at noon. Somewhere in Kanto, at the newly established amusement park, SANCTUARY.
-
-Welcome to the amusement park where people of all ages can have fun: SANCTUARY!
-
-.........
-
-.........
-
-I welcome you, Ra*bits. Although, right now it appears that there are only two of you.
-
-Yes... Tomoya-kun and Nii~chan have both been missing ever since yesterday.
-I&#39;m worried so... I don&#39;t think I can have fun in an amusement park right now. You went through the trouble of inviting us, and yet... I&#39;m sorry.
-
-Ahh, don&#39;t make such a sad face! A smile suits you better, Shinonon♪
-
-Uhm. I already told you so before, but please don&#39;t call me Shinonon.
-
-Why not? I&#39;m simply copying the way Subaru-kun calls you. Haven&#39;t your fans also started calling you Shinonon these days?
-
-If it&#39;s from my fans it&#39;s okay—or rather, I don&#39;t mind it.
-But in your case, Eichi-onii-chan, how do I say it... It kind of gives me the creeps—
-I&#39;m so sorry!
-
-Hehe. It gives you the creeps... What a cruel thing to say. I&#39;m hurt.
-I wonder if you think me calling you Shinonon out of envy for your closeness with Subaru-kun is creepy.
-
-Uhm, eh, what...?
-
-You are right to feel grossed out.
-But your disgust fills me with joy like dribbling nectar, so I must insist on calling you so.
-
-
-Ugh... Please stop it, I&#39;m being serious. Or do you not want to be called &quot;Eichi-onii-chan&quot; anymore?
-
-Ah, that would be no good! I can already picture Ritsu-kun proudly boasting about being the only one who gets called onii-chan!
-My pride wouldn&#39;t allow for something like that to happen.
-Hehe. You&#39;ve gotten better at negotiating, Hajime-kun. I promise I won&#39;t ever call you Shinonon again.
-
-Yes! Ehehe, I&#39;m happy you finally got it♪
-
-Of course I did. I, Eichi-onii-chan, swear that I will never imitate anything that could hurt you.
-
-Onii-chan...♪
-
-.........
-
-Eichi-sama. For a while now, Tenma-sama has been looking at you as if he were looking at some disgusting bug, so I&#39;d recommend for you to stop playing around.
-
-I know, right? Hajime, isn&#39;t your group involved in some kind of weird situation? Stop messing around or I won&#39;t be able to help!
-
-Yes. That&#39;s what a noble ought to do.
-Hehe. You always remember the most important stuff, Tori♪
-
-Eh, ehehe...♪
-
-Tehe. How nice. I know I shouldn&#39;t be relieved about it, but when Tori-kun is around, I know Eichi-onii-chan will definitely pamper him.
-
-You&#39;re wrong! I have two hands, so I can very easily embrace both of you at the same time...♪
-
-
-Grrrrr! You&#39;re weirdin&#39; me out! Stay away from Hajime-chan!
-
-Aah! It&#39;s okay! It&#39;s okay, Mitsuru-kun! This is normal for him! But for some reason, today he&#39;s holding back less than usual...!
-
-Tehe. I can&#39;t help it. After all, one of my lifelong dreams has come true♪
-
-This park...I heard Eichi-onii-chan was the one who ordered it to be built.
-
-Building an amusement park was his dream? Hmm... In that case, he&#39;s not such a bad guy? Maybe?
-
-He&#39;s being incredibly wary of you, Eichi-sama.
-
-Not wary enough, in my opinion. Young children believe in the innate kindness of others too easily. Quite unfortunate.
-After all, not everyone in this world will treat you kindly, and simply being a good child will not guarantee you happiness later in life.
-I thought everyone learned that over the summer.
-
-.........
-
-
-
-
-
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Hajime Shino</category>
-        <category>Mitsuru Tenma</category>
-        <category>Tori Himemiya</category>
-        <category>Eichi Tenshouin</category>
-        <category>Yuzuru Fushimi</category>
-      </categories>
-      <tags>
-        <tag>Event Story</tag>
-        <tag>Narrative</tag>
-        <tag>Akira</tag>
-        <tag>Main Story</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>Sanctuary: Polluted Paradise (6)</title>
-    <url>/tl/post/sanctuary/7/</url>
-    <content><![CDATA[
-	
-		
-    		
-        		
-            		Characters
-        		
-				
-					
-					
-        		
-    		
-            
-        		
-            		Writer
-        		
-        		
-            		Akira
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Ren
-        		
-    		
-    		
-        		
-            		Proofreaders
-        		
-        		
-            		honeyspades, remi
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor:#965e7d;
-	    --storyColor-rgb:150,94,125;
-	    --storyColor-h:326.8;
-    	--storyColor-s: 23%;
-	    --storyColor-l:47.8%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				arrow_back
-			
-		
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				star
-			
-		
-		
-			
-				format_size
-			
-		
-		
-			
-				arrow_forward
-			
-		
-	
-
-Season: Winter
-Location: Kanto Apartment
-
-
-About an hour later.
-
-(Hmm...?)
-(What the hell. Hibiki-senpai&#39;s still pretending that he lost his memory.)
-(The same thing did happen to Mitsuru not so long ago... Is having amnesia trendy these days?)1
-(Why in the world would that of all things become so popular?)
-(Yeah, I know it&#39;s not impossible but...)
-
-~......♪
-Um, Tomoya-kun, was it? I feel a bit better now, thankfully. Is there some way I could help you out? ♪
-
-It&#39;s fine, just go sleep. You were hurt really badly, Hibiki-senpai.
-
-Hi-bi-ki-sen-pai... Hmm, is that my name?
-It doesn&#39;t ring a bell, though.
-
-(Hm~ What happened to him? Did he really lose his memory after getting hit in the head somewhere? Like what happens in manga? Like what happened to Mitsuru not so long ago?)
-(Ah... Maybe this is his Order?)
-(All the idols participating in SS from ES received these so-called &quot;Orders&quot; from the committee.)
-(Mine was &quot;no cross-dressing.&quot; But like, as if I need an order to tell me to do that!)
-(You&#39;re straight-up stupid if you think that I&#39;d just cross-dress at the drop of a hat like that!)
-(We&#39;re prohibited from telling other people what our Orders are, so I don&#39;t know what everyone&#39;s is...)
-(But from what I can tell, the Orders they gave to the rest of Ra*bits were just as pathetic.)
-(I think Mitsuru&#39;s is something like &quot;no dashing,&quot; which is something he loves to do. Must be hard on him.)
-(Hajime&#39;s is probably &quot;no using coins to buy things&quot;... And that guy loves to use pennies for everything.)
-(Well, SSL$ is just digital currency, so I don&#39;t think it&#39;s something to worry about.)
-(And Nii~chan&#39;s Order is...a mystery. He is pretty good at hiding stuff like that anyways.)
-(He&#39;s the kind of person to wear his heart on his sleeve, but anything important is kept tucked away.)
-(On top of those, leaders also receive these &quot;Secret Orders.&quot;)
-(Mine ended up being even harder to violate! These Secret Orders make absolutely no sense—)
-(But I heard that there were a whole bunch of problems in other regions thanks to those...)
-(So I guess we were lucky in a way.)
-(Maybe they felt like they didn&#39;t need to assign us Orders that are actually worth anything, since we&#39;re so well-behaved.)
-(Or maybe it&#39;s because they don&#39;t expect anything big out of us.)
-(...Anyways. If anyone&#39;s acting sus during the qualifying rounds, it&#39;s because of their Order, apparently.)
-(So that could be the case with Hibiki-senpai—)
-(Or maybe he&#39;s just trying to psych us all out by pretending to have amnesia.)
-(Even if he were—if he really put his mind to it—I wouldn&#39;t be able to tell that he&#39;s faking it. Sure, all the nonsensical stuff he always does pisses me off to no end, but I know that he&#39;d never cut corners on his acting. Never.)
-
-Hm? Is there something wrong, Tomoya-kun? You&#39;ve been staring at me for quite a while now...
-
-Oh, sorry about that...
-
-
-Wait, why am I apologizing? You loooove being in the spotlight.
-
-I see... Veryyy interesting.
-
-What do you mean, &quot;very interesting&quot;? I&#39;m literally talking about you.
-
-Oh, I was just thinking that I should gather some clues to help me remember who I am.
-So... What kind of person was I?
-
-&quot;What kind of person is Wataru Hibiki&quot;? I&#39;m telling you, there&#39;s seriously no way I can give you a simple answer for a question like that!
-I don&#39;t even know you that well myself.
-
-Really? I apologize. Were you not close to me, Tomoya-kun? And that&#39;s why you don&#39;t...know?
-
-...Eh, I guess. I&#39;m not in the same unit as you, and we don&#39;t meet up outside of work much either.
-I haven&#39;t really talked to you that often since you graduated. When we were still in school, you&#39;d always suddenly appear before my eyes and annoy me to hell and back.
-
-Huh...? Well... I&#39;m sorry?
-
-Don&#39;t apologize. I&#39;ve been dying to finally get some peace and quiet in my life without you around.
-
-
-(I thought that would make me happy.)
-(But why do I feel so empty without Hibiki-senpai messing with me...?)
-
-
-
-
-
-
-Translation Notes
-
-    
-        ↑ An allusion to Black Bunny.
-		Wataru's rare Mini Talk appears to take place right after this chapter.
-    
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
         <category>Tomoya Mashiro</category>
-        <category>Wataru Hibiki</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -9994,8 +9620,382 @@ Translation Notes
 ↑ You can read the cooking scene itself in Tomoya's rare Mini Talk.↑ Tomoya is talking about procedural memory here, a kind of unconscious (implicit) memory that helps you perform skills and actions without thinking. Wataru doesn't have any episodic memory, which is any memory that involves his past experiences. It's a type of conscious (explicit) memory.↑ Alluding to Satellite and Sandstorm.]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
+      </categories>
+      <tags>
+        <tag>Event Story</tag>
+        <tag>Narrative</tag>
+        <tag>Akira</tag>
+        <tag>Main Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sanctuary: Polluted Paradise (6)</title>
+    <url>/tl/post/sanctuary/7/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+				
+					
+					
+        		
+    		
+            
+        		
+            		Writer
+        		
+        		
+            		Akira
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Ren
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		honeyspades, remi
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor:#965e7d;
+	    --storyColor-rgb:150,94,125;
+	    --storyColor-h:326.8;
+    	--storyColor-s: 23%;
+	    --storyColor-l:47.8%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Winter
+Location: Kanto Apartment
+
+
+About an hour later.
+
+(Hmm...?)
+(What the hell. Hibiki-senpai&#39;s still pretending that he lost his memory.)
+(The same thing did happen to Mitsuru not so long ago... Is having amnesia trendy these days?)1
+(Why in the world would that of all things become so popular?)
+(Yeah, I know it&#39;s not impossible but...)
+
+~......♪
+Um, Tomoya-kun, was it? I feel a bit better now, thankfully. Is there some way I could help you out? ♪
+
+It&#39;s fine, just go sleep. You were hurt really badly, Hibiki-senpai.
+
+Hi-bi-ki-sen-pai... Hmm, is that my name?
+It doesn&#39;t ring a bell, though.
+
+(Hm~ What happened to him? Did he really lose his memory after getting hit in the head somewhere? Like what happens in manga? Like what happened to Mitsuru not so long ago?)
+(Ah... Maybe this is his Order?)
+(All the idols participating in SS from ES received these so-called &quot;Orders&quot; from the committee.)
+(Mine was &quot;no cross-dressing.&quot; But like, as if I need an order to tell me to do that!)
+(You&#39;re straight-up stupid if you think that I&#39;d just cross-dress at the drop of a hat like that!)
+(We&#39;re prohibited from telling other people what our Orders are, so I don&#39;t know what everyone&#39;s is...)
+(But from what I can tell, the Orders they gave to the rest of Ra*bits were just as pathetic.)
+(I think Mitsuru&#39;s is something like &quot;no dashing,&quot; which is something he loves to do. Must be hard on him.)
+(Hajime&#39;s is probably &quot;no using coins to buy things&quot;... And that guy loves to use pennies for everything.)
+(Well, SSL$ is just digital currency, so I don&#39;t think it&#39;s something to worry about.)
+(And Nii~chan&#39;s Order is...a mystery. He is pretty good at hiding stuff like that anyways.)
+(He&#39;s the kind of person to wear his heart on his sleeve, but anything important is kept tucked away.)
+(On top of those, leaders also receive these &quot;Secret Orders.&quot;)
+(Mine ended up being even harder to violate! These Secret Orders make absolutely no sense—)
+(But I heard that there were a whole bunch of problems in other regions thanks to those...)
+(So I guess we were lucky in a way.)
+(Maybe they felt like they didn&#39;t need to assign us Orders that are actually worth anything, since we&#39;re so well-behaved.)
+(Or maybe it&#39;s because they don&#39;t expect anything big out of us.)
+(...Anyways. If anyone&#39;s acting sus during the qualifying rounds, it&#39;s because of their Order, apparently.)
+(So that could be the case with Hibiki-senpai—)
+(Or maybe he&#39;s just trying to psych us all out by pretending to have amnesia.)
+(Even if he were—if he really put his mind to it—I wouldn&#39;t be able to tell that he&#39;s faking it. Sure, all the nonsensical stuff he always does pisses me off to no end, but I know that he&#39;d never cut corners on his acting. Never.)
+
+Hm? Is there something wrong, Tomoya-kun? You&#39;ve been staring at me for quite a while now...
+
+Oh, sorry about that...
+
+
+Wait, why am I apologizing? You loooove being in the spotlight.
+
+I see... Veryyy interesting.
+
+What do you mean, &quot;very interesting&quot;? I&#39;m literally talking about you.
+
+Oh, I was just thinking that I should gather some clues to help me remember who I am.
+So... What kind of person was I?
+
+&quot;What kind of person is Wataru Hibiki&quot;? I&#39;m telling you, there&#39;s seriously no way I can give you a simple answer for a question like that!
+I don&#39;t even know you that well myself.
+
+Really? I apologize. Were you not close to me, Tomoya-kun? And that&#39;s why you don&#39;t...know?
+
+...Eh, I guess. I&#39;m not in the same unit as you, and we don&#39;t meet up outside of work much either.
+I haven&#39;t really talked to you that often since you graduated. When we were still in school, you&#39;d always suddenly appear before my eyes and annoy me to hell and back.
+
+Huh...? Well... I&#39;m sorry?
+
+Don&#39;t apologize. I&#39;ve been dying to finally get some peace and quiet in my life without you around.
+
+
+(I thought that would make me happy.)
+(But why do I feel so empty without Hibiki-senpai messing with me...?)
+
+
+
+
+
+
+Translation Notes
+
+    
+        ↑ An allusion to Black Bunny.
+		Wataru's rare Mini Talk appears to take place right after this chapter.
+    
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
+      </categories>
+      <tags>
+        <tag>Event Story</tag>
+        <tag>Narrative</tag>
+        <tag>Akira</tag>
+        <tag>Main Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Sanctuary: Polluted Paradise (8)</title>
+    <url>/tl/post/sanctuary/9/</url>
+    <content><![CDATA[
+	
+		
+    		
+        		
+            		Characters
+        		
+				
+					
+					
+					
+					
+					
+				
+    		
+            
+        		
+            		Writer
+        		
+        		
+            		Akira
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Nui
+        		
+    		
+    		
+        		
+            		Proofreaders
+        		
+        		
+            		honeyspades, remi
+        		
+    		
+		
+	
+
+
+
+
+	:root {
+		--storyColor:#965e7d;
+		--storyColor-rgb:150,94,125;
+		--storyColor-h:326.8;
+		--storyColor-s: 23%;
+		--storyColor-l:47.8%;
+	}
+
+
+	
+		
+	
+	
+		
+			
+				arrow_back
+			
+		
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				star
+			
+		
+		
+			
+				format_size
+			
+		
+		
+			
+				arrow_forward
+			
+		
+	
+
+Season: Winter
+Location: SANCTUARY Amusement Park
+
+
+The next day at noon. Somewhere in Kanto, at the newly established amusement park, SANCTUARY.
+
+Welcome to the amusement park where people of all ages can have fun: SANCTUARY!
+
+.........
+
+.........
+
+I welcome you, Ra*bits. Although, right now it appears that there are only two of you.
+
+Yes... Tomoya-kun and Nii~chan have both been missing ever since yesterday.
+I&#39;m worried so... I don&#39;t think I can have fun in an amusement park right now. You went through the trouble of inviting us, and yet... I&#39;m sorry.
+
+Ahh, don&#39;t make such a sad face! A smile suits you better, Shinonon♪
+
+Uhm. I already told you so before, but please don&#39;t call me Shinonon.
+
+Why not? I&#39;m simply copying the way Subaru-kun calls you. Haven&#39;t your fans also started calling you Shinonon these days?
+
+If it&#39;s from my fans it&#39;s okay—or rather, I don&#39;t mind it.
+But in your case, Eichi-onii-chan, how do I say it... It kind of gives me the creeps—
+I&#39;m so sorry!
+
+Hehe. It gives you the creeps... What a cruel thing to say. I&#39;m hurt.
+I wonder if you think me calling you Shinonon out of envy for your closeness with Subaru-kun is creepy.
+
+Uhm, eh, what...?
+
+You are right to feel grossed out.
+But your disgust fills me with joy like dribbling nectar, so I must insist on calling you so.
+
+
+Ugh... Please stop it, I&#39;m being serious. Or do you not want to be called &quot;Eichi-onii-chan&quot; anymore?
+
+Ah, that would be no good! I can already picture Ritsu-kun proudly boasting about being the only one who gets called onii-chan!
+My pride wouldn&#39;t allow for something like that to happen.
+Hehe. You&#39;ve gotten better at negotiating, Hajime-kun. I promise I won&#39;t ever call you Shinonon again.
+
+Yes! Ehehe, I&#39;m happy you finally got it♪
+
+Of course I did. I, Eichi-onii-chan, swear that I will never imitate anything that could hurt you.
+
+Onii-chan...♪
+
+.........
+
+Eichi-sama. For a while now, Tenma-sama has been looking at you as if he were looking at some disgusting bug, so I&#39;d recommend for you to stop playing around.
+
+I know, right? Hajime, isn&#39;t your group involved in some kind of weird situation? Stop messing around or I won&#39;t be able to help!
+
+Yes. That&#39;s what a noble ought to do.
+Hehe. You always remember the most important stuff, Tori♪
+
+Eh, ehehe...♪
+
+Tehe. How nice. I know I shouldn&#39;t be relieved about it, but when Tori-kun is around, I know Eichi-onii-chan will definitely pamper him.
+
+You&#39;re wrong! I have two hands, so I can very easily embrace both of you at the same time...♪
+
+
+Grrrrr! You&#39;re weirdin&#39; me out! Stay away from Hajime-chan!
+
+Aah! It&#39;s okay! It&#39;s okay, Mitsuru-kun! This is normal for him! But for some reason, today he&#39;s holding back less than usual...!
+
+Tehe. I can&#39;t help it. After all, one of my lifelong dreams has come true♪
+
+This park...I heard Eichi-onii-chan was the one who ordered it to be built.
+
+Building an amusement park was his dream? Hmm... In that case, he&#39;s not such a bad guy? Maybe?
+
+He&#39;s being incredibly wary of you, Eichi-sama.
+
+Not wary enough, in my opinion. Young children believe in the innate kindness of others too easily. Quite unfortunate.
+After all, not everyone in this world will treat you kindly, and simply being a good child will not guarantee you happiness later in life.
+I thought everyone learned that over the summer.
+
+.........
+
+
+
+
+
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Hajime Shino</category>
+        <category>Mitsuru Tenma</category>
+        <category>Tori Himemiya</category>
+        <category>Eichi Tenshouin</category>
+        <category>Yuzuru Fushimi</category>
       </categories>
       <tags>
         <tag>Event Story</tag>
@@ -10530,8 +10530,8 @@ That &quot;someone&quot; most likely refers to Wataru himself.
       <categories>
         <category>Ensemble Stars</category>
         <category>Hokuto Hidaka</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
       </categories>
       <tags>
         <tag>Narrative</tag>
@@ -11013,8 +11013,8 @@ Translation Notes
 ↑ A reference to Tomoya's Idol Story from !, Cinderella Burning at Stake's Stage. Tomoya rescues Jeanne d'Arc, who passed out on the side of a street. She's quite fond of him.]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Nazuna Nito</category>
         <category>Subaru Akehoshi</category>
         <category>Koga Ogami</category>
@@ -11211,8 +11211,8 @@ Huh. &quot;Who&quot;...?
       <categories>
         <category>Ensemble Stars</category>
         <category>Hokuto Hidaka</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
         <category>Arashi Narukami</category>
         <category>Keito Hasumi</category>
       </categories>
@@ -11398,8 +11398,8 @@ Translation Notes
         <category>Ensemble Stars</category>
         <category>Hajime Shino</category>
         <category>Hokuto Hidaka</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
       </categories>
       <tags>
         <tag>Narrative</tag>
@@ -11612,8 +11612,8 @@ Translation Notes
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
       </categories>
       <tags>
         <tag>Narrative</tag>
@@ -11825,120 +11825,12 @@ Translation Notes
 ]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
       </categories>
       <tags>
         <tag>Narrative</tag>
         <tag>Mini Talk</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[Wonderlands×Showtime] Nene Kusanagi (1)</title>
-    <url>/tl/post/side_story/nene/wonderlands-showtime/1/</url>
-    <content><![CDATA[Nene is cute. Deserves lots of grapefruit.
-Series: Project Sekai
-Characters: Emu Otori, Nene Kusanagi, Rui Kamishiro, Tsukasa Tenma
-TLC: 310mc
-
-	
-
-
-
-
-
-	[character="NeneRobo"] {
-		--name: "NeneRobo"
-	}
-
-Location: Phoenix Wonderland - Wonder Stage
-
-
-Alright! Good work today, everyone!
-
-Yeah, see you tomorrow!
-
-Good work today.
-
-Good work.
-......
-(Everyone went home already, but I still want to practice a bit more.)
-U-Umph!
-
-......
-
-You&#39;re the audience today, NeneRobo, so... Please watch me sing.
-
-......
-
-—♪
-(It&#39;s alright. I&#39;m able to sing on stage. But...)
-(I wonder if I&#39;m able to sing the same way in front of an audience. What if I mess up again...?)
-Whew...
-Thank you all for listening.
-I can finally stand on stage by myself. But I think this was all thanks to NeneRobo being there for me.
-I guess that&#39;s why I&#39;d get scared every time I got near the stage... Because you weren&#39;t there with me.
-
-......I see, I see.
-
-...Eep!?
-
-So that&#39;s the reason why you kept bringing her around, even though she already finished her job.
-
-W-Where the hell did you come from...?
-
-Hehe. I just happened to be here, so it&#39;s the perfect time to make the &quot;surprise visit&quot; trope a reality.
-
-The hell?
-
-Now, now. Apologizes that it seemed like I was eavesdropping.
-I have a present for you, see? Your favorite grapefruit juice!
-
-Are you trying to fool me now?
-
-Heheheh, I suppose you could say that.
-However...
-Despite not using her on stage anymore, it looks like you&#39;re taking good care of NeneRobo.
-
-......
-
-It&#39;s safe to say that this robot completed her role and fulfilled your dream.
-But she&#39;s not leaving the stage as long as she&#39;s needed.
-
-What do you mean by that?
-
-I have a proposal. Will you allow me to keep this robot for a while?
-
-Huh? Are you gonna remodel it?
-
-I would never do that. Rather, I&#39;m going to add some improvements to her.
-
-&quot;Improvements&quot;...?
-
-She&#39;s a very high performing robot. I&#39;ll think of ways to make her more user friendly.
-That way, you&#39;ll have full control of her and can stand on stage together.
-
-You&#39;re alright with that?
-
-Of course. It&#39;s a director&#39;s responsibility to lend an ear to their performers.
-
-...Mhm.
-But if you add anything weird, I&#39;ll get pissed. Got it?
-
-
-  
-
-]]></content>
-      <categories>
-        <category>Project Sekai</category>
-        <category>Emu Otori</category>
-        <category>Nene Kusanagi</category>
-        <category>Rui Kamishiro</category>
-        <category>Tsukasa Tenma</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Side Story</tag>
       </tags>
   </entry>
   <entry>
@@ -12060,6 +11952,306 @@ Stop, stooop! Don&#39;t you dare make it into an arcane song and dance to ittttt
       <tags>
         <tag>Narrative</tag>
         <tag>Side Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[Wonderlands×Showtime] Nene Kusanagi (1)</title>
+    <url>/tl/post/side_story/nene/wonderlands-showtime/1/</url>
+    <content><![CDATA[Nene is cute. Deserves lots of grapefruit.
+Series: Project Sekai
+Characters: Emu Otori, Nene Kusanagi, Rui Kamishiro, Tsukasa Tenma
+TLC: 310mc
+
+	
+
+
+
+
+
+	[character="NeneRobo"] {
+		--name: "NeneRobo"
+	}
+
+Location: Phoenix Wonderland - Wonder Stage
+
+
+Alright! Good work today, everyone!
+
+Yeah, see you tomorrow!
+
+Good work today.
+
+Good work.
+......
+(Everyone went home already, but I still want to practice a bit more.)
+U-Umph!
+
+......
+
+You&#39;re the audience today, NeneRobo, so... Please watch me sing.
+
+......
+
+—♪
+(It&#39;s alright. I&#39;m able to sing on stage. But...)
+(I wonder if I&#39;m able to sing the same way in front of an audience. What if I mess up again...?)
+Whew...
+Thank you all for listening.
+I can finally stand on stage by myself. But I think this was all thanks to NeneRobo being there for me.
+I guess that&#39;s why I&#39;d get scared every time I got near the stage... Because you weren&#39;t there with me.
+
+......I see, I see.
+
+...Eep!?
+
+So that&#39;s the reason why you kept bringing her around, even though she already finished her job.
+
+W-Where the hell did you come from...?
+
+Hehe. I just happened to be here, so it&#39;s the perfect time to make the &quot;surprise visit&quot; trope a reality.
+
+The hell?
+
+Now, now. Apologizes that it seemed like I was eavesdropping.
+I have a present for you, see? Your favorite grapefruit juice!
+
+Are you trying to fool me now?
+
+Heheheh, I suppose you could say that.
+However...
+Despite not using her on stage anymore, it looks like you&#39;re taking good care of NeneRobo.
+
+......
+
+It&#39;s safe to say that this robot completed her role and fulfilled your dream.
+But she&#39;s not leaving the stage as long as she&#39;s needed.
+
+What do you mean by that?
+
+I have a proposal. Will you allow me to keep this robot for a while?
+
+Huh? Are you gonna remodel it?
+
+I would never do that. Rather, I&#39;m going to add some improvements to her.
+
+&quot;Improvements&quot;...?
+
+She&#39;s a very high performing robot. I&#39;ll think of ways to make her more user friendly.
+That way, you&#39;ll have full control of her and can stand on stage together.
+
+You&#39;re alright with that?
+
+Of course. It&#39;s a director&#39;s responsibility to lend an ear to their performers.
+
+...Mhm.
+But if you add anything weird, I&#39;ll get pissed. Got it?
+
+
+  
+
+]]></content>
+      <categories>
+        <category>Project Sekai</category>
+        <category>Emu Otori</category>
+        <category>Nene Kusanagi</category>
+        <category>Rui Kamishiro</category>
+        <category>Tsukasa Tenma</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Side Story</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[Birthday Celebration (2018)] Wataru Hibiki: Tomoya Mashiro</title>
+    <url>/tl/post/idol_story/wataru/birthday/2018/tomoya/</url>
+    <content><![CDATA[Wataru's birthday story from 2018, featuring Tomoya being tsundere. Happy birthday!
+
+	
+		
+    		
+        		
+            		Characters
+        		
+        		
+					
+					
+        		
+    		
+    		
+        		
+            		Writer
+        		
+        		
+            		Yoshino Yuuki
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Ren
+        		
+    		
+            
+        		
+            		Proofreader
+        		
+        		
+            		Koi
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor: #47b3c6;
+	    --storyColor-rgb: 71,179,198;
+	    --storyColor-h: 189;
+    	--storyColor-s: 52.7%;
+	    --storyColor-l: 52.7%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				format_size
+			
+		
+	
+
+Date: February 21
+Location: Birthday Venue
+
+
+Happy birthday, Masked Perv.
+Woah, why are you crying!? Uh, you want me to say it with your name instead?
+Ugh~ Fine...
+Happy birthday, President Hibiki!
+Hmm...? Did you seriously record all of that!?
+The recording&#39;s &quot;perfect&quot;? Ah, and those tears were fake!?
+Dammit... I just let my guard down because it&#39;s your birthday~!
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Idol Story</tag>
+        <tag>Yoshino Yuuki</tag>
+        <tag>Birthday</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>[Birthday Celebration (2018)] Tomoya Mashiro: Wataru Hibiki</title>
+    <url>/tl/post/idol_story/tomoya/birthday/2018/wataru/</url>
+    <content><![CDATA[Tomoya's birthday story from 2018, featuring Wataru being Wataru. Happy birthday!
+
+	
+		
+    		
+        		
+            		Characters
+        		
+        		
+					
+                    
+        		
+    		
+			
+        		
+            		Writer
+        		
+        		
+            		Yoshino Yuuki
+        		
+    		
+    		
+        		
+            		Translator
+        		
+        		
+            		Ren
+        		
+    		
+    		
+        		
+            		Proofreader
+        		
+        		
+            		haranami
+        		
+    		
+		
+	
+
+
+
+
+    :root {
+	    --storyColor: #d7ac4a;
+	    --storyColor-rgb: 215,172,74;
+	    --storyColor-h: 41.7;
+    	--storyColor-s: 63.8%;
+	    --storyColor-l: 56.7%;
+    }
+
+
+	
+		
+	
+	
+		
+			
+				dark_modelight_mode
+			
+		
+		
+			
+				format_size
+			
+		
+	
+
+Date: March 29
+Location: Birthday Venue
+
+
+ Happy birthday, Tomoya-kun...! ☆
+I&#39;ve readied an abundance of presents for you!
+ Oh my, you don&#39;t look too happy.
+ You&#39;re the birthday boy; you simply mustn&#39;t make such an expression! Very well, I shall perform some magic tricks that will put a smile on your face...☆
+ Roses for you! And gerberas, tulips, and some magnificent orchids! Ahaha, you&#39;re all covered in flowers! Aren&#39;t they beautiful, Tomoya-kun?
+The rose petals on the cake? Hehehe, no need to fret. I assure you that they&#39;re all edible.
+ There&#39;s more than just flowers waiting for you, so please accept them—every last one♪
+
+]]></content>
+      <categories>
+        <category>Ensemble Stars</category>
+        <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
+      </categories>
+      <tags>
+        <tag>Narrative</tag>
+        <tag>Idol Story</tag>
+        <tag>Yoshino Yuuki</tag>
+        <tag>Birthday</tag>
       </tags>
   </entry>
   <entry>
@@ -12287,204 +12479,12 @@ Translation Notes
 ↑ Tomoya uses &quot;胸に響きました&quot; (mune ni hibikimashita) here. Yes, this is an allusion to Wataru's surname.]]></content>
       <categories>
         <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
         <category>Wataru Hibiki</category>
+        <category>Tomoya Mashiro</category>
       </categories>
       <tags>
         <tag>Narrative</tag>
         <tag>Mini Talk</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[Birthday Celebration (2018)] Wataru Hibiki: Tomoya Mashiro</title>
-    <url>/tl/post/idol_story/wataru/birthday/2018/tomoya/</url>
-    <content><![CDATA[Wataru's birthday story from 2018, featuring Tomoya being tsundere. Happy birthday!
-
-	
-		
-    		
-        		
-            		Characters
-        		
-        		
-					
-					
-        		
-    		
-    		
-        		
-            		Writer
-        		
-        		
-            		Yoshino Yuuki
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Ren
-        		
-    		
-            
-        		
-            		Proofreader
-        		
-        		
-            		Koi
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor: #47b3c6;
-	    --storyColor-rgb: 71,179,198;
-	    --storyColor-h: 189;
-    	--storyColor-s: 52.7%;
-	    --storyColor-l: 52.7%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				format_size
-			
-		
-	
-
-Date: February 21
-Location: Birthday Venue
-
-
-Happy birthday, Masked Perv.
-Woah, why are you crying!? Uh, you want me to say it with your name instead?
-Ugh~ Fine...
-Happy birthday, President Hibiki!
-Hmm...? Did you seriously record all of that!?
-The recording&#39;s &quot;perfect&quot;? Ah, and those tears were fake!?
-Dammit... I just let my guard down because it&#39;s your birthday~!
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
-        <category>Wataru Hibiki</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Idol Story</tag>
-        <tag>Yoshino Yuuki</tag>
-        <tag>Birthday</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>[Birthday Celebration (2018)] Tomoya Mashiro: Wataru Hibiki</title>
-    <url>/tl/post/idol_story/tomoya/birthday/2018/wataru/</url>
-    <content><![CDATA[Tomoya's birthday story from 2018, featuring Wataru being Wataru. Happy birthday!
-
-	
-		
-    		
-        		
-            		Characters
-        		
-        		
-					
-                    
-        		
-    		
-			
-        		
-            		Writer
-        		
-        		
-            		Yoshino Yuuki
-        		
-    		
-    		
-        		
-            		Translator
-        		
-        		
-            		Ren
-        		
-    		
-    		
-        		
-            		Proofreader
-        		
-        		
-            		haranami
-        		
-    		
-		
-	
-
-
-
-
-    :root {
-	    --storyColor: #d7ac4a;
-	    --storyColor-rgb: 215,172,74;
-	    --storyColor-h: 41.7;
-    	--storyColor-s: 63.8%;
-	    --storyColor-l: 56.7%;
-    }
-
-
-	
-		
-	
-	
-		
-			
-				dark_modelight_mode
-			
-		
-		
-			
-				format_size
-			
-		
-	
-
-Date: March 29
-Location: Birthday Venue
-
-
- Happy birthday, Tomoya-kun...! ☆
-I&#39;ve readied an abundance of presents for you!
- Oh my, you don&#39;t look too happy.
- You&#39;re the birthday boy; you simply mustn&#39;t make such an expression! Very well, I shall perform some magic tricks that will put a smile on your face...☆
- Roses for you! And gerberas, tulips, and some magnificent orchids! Ahaha, you&#39;re all covered in flowers! Aren&#39;t they beautiful, Tomoya-kun?
-The rose petals on the cake? Hehehe, no need to fret. I assure you that they&#39;re all edible.
- There&#39;s more than just flowers waiting for you, so please accept them—every last one♪
-
-]]></content>
-      <categories>
-        <category>Ensemble Stars</category>
-        <category>Tomoya Mashiro</category>
-        <category>Wataru Hibiki</category>
-      </categories>
-      <tags>
-        <tag>Narrative</tag>
-        <tag>Idol Story</tag>
-        <tag>Yoshino Yuuki</tag>
-        <tag>Birthday</tag>
       </tags>
   </entry>
 </search>
